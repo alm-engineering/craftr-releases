@@ -3,8 +3,30 @@
     <channel>
         <title>Promptr Studio Pro</title>
         <item>
+            <title>5.5</title>
+            <pubDate>Fri, 31 Jul 2026 12:57:07 +0000</pubDate>
+            <sparkle:version>216</sparkle:version>
+            <sparkle:shortVersionString>5.5</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h2 style="font:600 15px -apple-system;margin:0 0 6px">Promptr Studio Pro 5.5: Drag &amp; Drop legt keine Kopien mehr an</h2>
+<ul style="font:13px -apple-system;margin:0;padding-left:18px">
+<li><b>🖱️ Losgelassene Drags erzeugen keine Duplikate mehr:</b> Wer ein Asset anfasste, bewegte und doch wieder losließ, bekam manchmal eine ungewollte Kopie in den Ordner gelegt. Das ist behoben — und doppelt abgesichert: die App erkennt Duplikate jetzt am Dateiinhalt und legt eine Datei, die im Zielordner bereits liegt, grundsätzlich nicht erneut an, egal unter welchem Namen sie ankommt.</li>
+<li><b>📁 Verschieben per Drag &amp; Drop ist robuster:</b> Auch wenn macOS beim Ablegen unvollständige Informationen liefert, kommen Assets jetzt zuverlässig dort an, wo sie hinsollen — verschoben statt kopiert.</li>
+</ul>
+<p style="font:12px -apple-system;color:#888;margin:8px 0 0">Aufbauend auf 5.4 (korrekte Preise bei Referenz-Generierungen, aufgeräumter Modell-Picker).</p>
+]]></description>
+            <enclosure url="https://github.com/PromptrStudioPro/craftr-releases/releases/download/sparkle-updates/Promptr-Studio-Pro-5.5-216.zip" length="21848809" type="application/octet-stream" sparkle:edSignature="jLzN1BWKO/H4scBZXhjR9RcyVET+Sh2qLKDjWIhIkSC8VbZSnkXM0EULoC6FfJ/TzFaPKU6Hz1BgBheffWbWDQ=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/PromptrStudioPro/craftr-releases/releases/download/sparkle-updates/Promptr-Studio-Pro216-213.delta" sparkle:deltaFrom="213" length="2471454" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="980432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="sVF/CM856/VTDAQcgP0x8wutgd42r0Hyxz9Tt4P/1cB656H8vycFM6vUxrfL1sPzGMtC+fNI3+q7Yxb96PFBBg=="/>
+                <enclosure url="https://github.com/PromptrStudioPro/craftr-releases/releases/download/sparkle-updates/Promptr-Studio-Pro216-211.delta" sparkle:deltaFrom="211" length="2827490" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="980432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="8HAMBYVRuQ05odfUhAXPwJ5GNM8XSmqwXbbALfeabCCEnwd95URWEjnlmMh/sNrvMGnGQoboNwy2rnyWDHGuDQ=="/>
+                <enclosure url="https://github.com/PromptrStudioPro/craftr-releases/releases/download/sparkle-updates/Promptr-Studio-Pro216-197.delta" sparkle:deltaFrom="197" length="3908226" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="980432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="fsM204VJh2Q8UKNz1nuTjC3wu2RWdV0qc0/s0C9rS3V6705xtJvkhK+ApQ9GPyN1c205/uxkn+psr/HtsIe3Aw=="/>
+                <enclosure url="https://github.com/PromptrStudioPro/craftr-releases/releases/download/sparkle-updates/Promptr-Studio-Pro216-196.delta" sparkle:deltaFrom="196" length="3900702" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="980432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="DS44yY/mP2OLVkiSj7hyL9z+mlnfgYBpARx5FzJ0QZXFKabb8tvSkKzgWlsrZJxoRNBaqzOEyb+tlIDdB0BXAw=="/>
+                <enclosure url="https://github.com/PromptrStudioPro/craftr-releases/releases/download/sparkle-updates/Promptr-Studio-Pro216-192.delta" sparkle:deltaFrom="192" length="4356150" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="980432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="AAeXhadCLFaKojTd/L6OGPuHQnfK2cwH98lThkESAambqj6j20Ku/uQqrF7zQbyph51m1v99ZOBlJ5HlDIVDCQ=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>5.4</title>
-            <pubDate>Thu, 30 Jul 2026 19:10:58 +0000</pubDate>
+            <pubDate>Fri, 31 Jul 2026 12:57:06 +0000</pubDate>
             <sparkle:version>213</sparkle:version>
             <sparkle:shortVersionString>5.4</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
@@ -17,18 +39,11 @@
 </ul>
 <p style="font:12px -apple-system;color:#888;margin:8px 0 0">Aufbauend auf 5.3 (Uni-1, Sora 2 / Sora 2 Pro, Cloud-Fixes).</p>
 ]]></description>
-            <enclosure url="https://github.com/Paul-Ripley789/craftr-releases/releases/download/sparkle-updates/Promptr-Studio-Pro-5.4-213.zip" length="21835192" type="application/octet-stream" sparkle:edSignature="d6zVKko+Q7cgIbOiBnaztKDp1cdS5s0b0E/f1wRWrx8+x6R0U+lWu6Qf4QOccOSdQDQ7ZogDDbQOZNdjd3RDAg=="/>
-            <sparkle:deltas>
-                <enclosure url="https://github.com/Paul-Ripley789/craftr-releases/releases/download/sparkle-updates/Promptr-Studio-Pro213-211.delta" sparkle:deltaFrom="211" length="2598390" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="980432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="3RKXms02kqIkLeyzt6QYMZc4PScijzLG3KqwwWxd3YzCDWPh44RTm+71K28H0nk8DEsnra0PVVjvVTiqEqNICg=="/>
-                <enclosure url="https://github.com/Paul-Ripley789/craftr-releases/releases/download/sparkle-updates/Promptr-Studio-Pro213-197.delta" sparkle:deltaFrom="197" length="3854122" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="980432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="x2WtDWrziannUIJUeIPe2Izpa+x5P8tZ050gDiEtBOTyqikHyEGHVtUtua+8p6UhqEsiUAKOghbBRNKlvp5kAQ=="/>
-                <enclosure url="https://github.com/Paul-Ripley789/craftr-releases/releases/download/sparkle-updates/Promptr-Studio-Pro213-196.delta" sparkle:deltaFrom="196" length="3849042" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="980432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="HVVZU0V5Gp6dCBmflltQoVHnc4K9OUbN3Ff5vI1dCE0+sXSP4lIfLQ9hiPNBjiDT14ZbA6K78KoPd+RloNtpCQ=="/>
-                <enclosure url="https://github.com/Paul-Ripley789/craftr-releases/releases/download/sparkle-updates/Promptr-Studio-Pro213-192.delta" sparkle:deltaFrom="192" length="4339818" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="980432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="uqpjbZNUshRWAqv/TAIRyA9M1ua3NXL3W0/FrN3o95MDVmh0R/SxGKempa4h9pLT+qLMcEpV7beJmbSsAaT9AA=="/>
-                <enclosure url="https://github.com/Paul-Ripley789/craftr-releases/releases/download/sparkle-updates/Promptr-Studio-Pro213-191.delta" sparkle:deltaFrom="191" length="4317914" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="980432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="/Icilujy3notLPDRZ1Ejv6Id2OlsotoRAXaRbMv1FqJ4Fd3vgbuFznjQSNFMuuXHfbZJK/oujRcd50mOIAwVDA=="/>
-            </sparkle:deltas>
+            <enclosure url="https://github.com/PromptrStudioPro/craftr-releases/releases/download/sparkle-updates/Promptr-Studio-Pro-5.4-213.zip" length="21835192" type="application/octet-stream" sparkle:edSignature="d6zVKko+Q7cgIbOiBnaztKDp1cdS5s0b0E/f1wRWrx8+x6R0U+lWu6Qf4QOccOSdQDQ7ZogDDbQOZNdjd3RDAg=="/>
         </item>
         <item>
             <title>5.3</title>
-            <pubDate>Thu, 30 Jul 2026 19:10:57 +0000</pubDate>
+            <pubDate>Fri, 31 Jul 2026 12:57:06 +0000</pubDate>
             <sparkle:version>211</sparkle:version>
             <sparkle:shortVersionString>5.3</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
@@ -42,23 +57,7 @@
 </ul>
 <p style="font:12px -apple-system;color:#888;margin:8px 0 0">Aufbauend auf 5.2. Cloud-Projekte laden Vorschaubilder unverändert selbstständig nach.</p>
 ]]></description>
-            <enclosure url="https://github.com/Paul-Ripley789/craftr-releases/releases/download/sparkle-updates/Promptr-Studio-Pro-5.3-211.zip" length="21820583" type="application/octet-stream" sparkle:edSignature="5uOguCgC6uoOPob0Y0ZxOhXEb/1gp4LSsfNnheGRlLrqMD23hyl2x+44/iOJcWigxbztVKjicDMK46moAROZBw=="/>
-        </item>
-        <item>
-            <title>5.2</title>
-            <pubDate>Thu, 30 Jul 2026 19:10:57 +0000</pubDate>
-            <sparkle:version>197</sparkle:version>
-            <sparkle:shortVersionString>5.2</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2 style="font:600 15px -apple-system;margin:0 0 6px">Promptr Studio Pro 5.2</h2>
-<ul style="font:13px -apple-system;margin:0;padding-left:18px">
-  <li>Composer-Einstellungen und Referenzen werden bei Reuse und Retry zuverlässig wiederhergestellt.</li>
-  <li>Galerien mit vielen Assets reagieren schneller und laden in überschaubaren Seiten.</li>
-  <li>Cloud-Projekte, Einladungen und Aktualisierungen verhalten sich stabiler.</li>
-  <li>Modellparameter, Video-Dauer und Credit-Angebote werden konsistenter validiert.</li>
-</ul>
-]]></description>
-            <enclosure url="https://github.com/Paul-Ripley789/craftr-releases/releases/download/sparkle-updates/Promptr-Studio-Pro-5.2-197.zip" length="21603690" type="application/octet-stream" sparkle:edSignature="7/ADHvOrl4aseTLcn/Rz+RR+tNWAVfZcO2Z0zQ6fFnE83SndMdXJ+6DyYmMXd9ZaE39vsmSdFnihBgpzBdleDA=="/>
+            <enclosure url="https://github.com/PromptrStudioPro/craftr-releases/releases/download/sparkle-updates/Promptr-Studio-Pro-5.3-211.zip" length="21820583" type="application/octet-stream" sparkle:edSignature="5uOguCgC6uoOPob0Y0ZxOhXEb/1gp4LSsfNnheGRlLrqMD23hyl2x+44/iOJcWigxbztVKjicDMK46moAROZBw=="/>
         </item>
     </channel>
 </rss>

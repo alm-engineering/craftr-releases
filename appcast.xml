@@ -3,8 +3,32 @@
     <channel>
         <title>Promptr Studio Pro</title>
         <item>
+            <title>5.16</title>
+            <pubDate>Thu, 06 Aug 2026 10:44:56 +0000</pubDate>
+            <sparkle:version>270</sparkle:version>
+            <sparkle:shortVersionString>5.16</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h2 style="font:600 15px -apple-system;margin:0 0 6px">Promptr Studio Pro 5.16: Mehr Formate bei Seedance</h2>
+<ul style="font:13px -apple-system;margin:0;padding-left:18px">
+<li><b>📐 Seedance kann jetzt alle Seitenverhältnisse:</b> 4:3, 3:4 und 21:9 waren gesperrt, dazu „adaptive" (das Modell wählt selbst). Jetzt stehen dieselben Verhältnisse zur Verfügung wie in der Team-App.</li>
+<li><b>⏱️ Längere Clips:</b> Seedance 2.0, 2.0 Fast und 2.0 Mini gehen bis 15 Sekunden (vorher 12), die 1.0-Serie ab 2 Sekunden.</li>
+<li><b>🖼️ Mehr Referenzbilder:</b> GPT Image 2 nimmt 16 statt 8, die Nano-Banana-Modelle 14 statt 8, Seedream 10 statt 6.</li>
+<li><b>🎨 Nano Banana Pro:</b> alle zehn Seitenverhältnisse statt fünf (2:3, 3:2, 4:5, 5:4 und 21:9 kamen dazu).</li>
+</ul>
+<p style="font:12px -apple-system;color:#888;margin:8px 0 0">Aufbauend auf 5.15 (Ebenen-Ansicht).</p>
+]]></description>
+            <enclosure url="https://github.com/PromptrStudioPro/craftr-releases/releases/download/sparkle-updates/Promptr-Studio-Pro-5.16-270.zip" length="19472406" type="application/octet-stream" sparkle:edSignature="bJBdSrYj/xMKk2dg2/GbZhOy4qE1yd0AXoCI4ZTEFlFIVFLY4D6radcWJgopc5nOx6/kTjfBHNjjYd69B9+nAw=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/PromptrStudioPro/craftr-releases/releases/download/sparkle-updates/Promptr-Studio-Pro270-269.delta" sparkle:deltaFrom="269" length="2763634" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="980432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="2L5fkLbgu2kNcoZXYMKCQIRrB+i3Zv7U0iv5jBP3LhC+vFXzeJ/0l/b2zsmVNKoaazrLUlLXlgj/jXJZX08NCA=="/>
+                <enclosure url="https://github.com/PromptrStudioPro/craftr-releases/releases/download/sparkle-updates/Promptr-Studio-Pro270-268.delta" sparkle:deltaFrom="268" length="3601786" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="980432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="TioRw88B7QRo3TSbBRf7UQG68XXbroxlm3P6xyI52u1BdkyCU+1LtIM7gGrhRzgg9xjdgeIhVskq1ixYwRV7CA=="/>
+                <enclosure url="https://github.com/PromptrStudioPro/craftr-releases/releases/download/sparkle-updates/Promptr-Studio-Pro270-267.delta" sparkle:deltaFrom="267" length="3630134" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="980432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="x0lZuJez4AjvpBbTRQZs43vZqLgbeXR6v6uH5c07tJDsALjgZ6CeD+Lj4biwlVWr0V/2EkCeu7hSFFzzNbP7CA=="/>
+                <enclosure url="https://github.com/PromptrStudioPro/craftr-releases/releases/download/sparkle-updates/Promptr-Studio-Pro270-266.delta" sparkle:deltaFrom="266" length="3659830" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="980432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="TlGiQi8TGl9RsPsxfBtMKavCBDGo+kUZ6v/D6DYj9d+1XomILATdAV1nw+eHTn3ug4q3RVVdHX+pASxN8lh7CA=="/>
+                <enclosure url="https://github.com/PromptrStudioPro/craftr-releases/releases/download/sparkle-updates/Promptr-Studio-Pro270-265.delta" sparkle:deltaFrom="265" length="3904166" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="980432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="mYEIFLvwlbFBs9jZNBaDZ8fWVq0ZKSEPiWzOL1t1aCHdp+gK0jlJdu8O35JcXnfZk5oJ3OiyxPducC9zEl5YAQ=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>5.15</title>
-            <pubDate>Thu, 06 Aug 2026 08:08:41 +0000</pubDate>
+            <pubDate>Thu, 06 Aug 2026 10:44:52 +0000</pubDate>
             <sparkle:version>269</sparkle:version>
             <sparkle:shortVersionString>5.15</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
@@ -16,17 +40,10 @@
 <p style="font:12px -apple-system;color:#888;margin:8px 0 0">Aufbauend auf 5.14 (der Prompt-Optimizer kennt FLUX 3).</p>
 ]]></description>
             <enclosure url="https://github.com/PromptrStudioPro/craftr-releases/releases/download/sparkle-updates/Promptr-Studio-Pro-5.15-269.zip" length="19460770" type="application/octet-stream" sparkle:edSignature="l7oBu15Fe/eAFdPeTZhuLCHEpYS7O05AFt73H6sYg9/zVabxWixLOu1X8qsllRrERD1UqVss0PIMalfMcMg9Aw=="/>
-            <sparkle:deltas>
-                <enclosure url="https://github.com/PromptrStudioPro/craftr-releases/releases/download/sparkle-updates/Promptr-Studio-Pro269-268.delta" sparkle:deltaFrom="268" length="3397782" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="980432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="011jkqV7IWyKDivB8MBX3CFNP8xHnAi3otv/uvs/Vv/0fRMK681ADrnQtgsH2mKw/igWMgNRkZ4dHNIg8n1BDg=="/>
-                <enclosure url="https://github.com/PromptrStudioPro/craftr-releases/releases/download/sparkle-updates/Promptr-Studio-Pro269-267.delta" sparkle:deltaFrom="267" length="3463442" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="980432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="gG9qVtefZUohuqkW3SpKMe5799RfyZ5q0H03qzW/b9W/Pe9A31IbpqAj1QvvR+kOpRyVrweuwKVMjGeOd9OnAQ=="/>
-                <enclosure url="https://github.com/PromptrStudioPro/craftr-releases/releases/download/sparkle-updates/Promptr-Studio-Pro269-266.delta" sparkle:deltaFrom="266" length="3469370" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="980432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="97T92OuaRHySUKOKwXckWerePLz12ugeZCUaSv2BYemALYU5g1zq0KWdbNUHQJQouofwFAnPCONZ5PChe8OFBA=="/>
-                <enclosure url="https://github.com/PromptrStudioPro/craftr-releases/releases/download/sparkle-updates/Promptr-Studio-Pro269-265.delta" sparkle:deltaFrom="265" length="3869362" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="980432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="5O4A8AEBHGyX4+KJ3rwzHRU5EBzJDe0hj4pdYzYxeJ4Fe5Mofy9nbZVtu5y9xGTwiWtgCTYd5XPHD9w5D6MNBA=="/>
-                <enclosure url="https://github.com/PromptrStudioPro/craftr-releases/releases/download/sparkle-updates/Promptr-Studio-Pro269-255.delta" sparkle:deltaFrom="255" length="5326254" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="980432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="DrYvPkE7VOR1sQ1rmhMRL7IOAmELoRGQ1WaW6I8qBTekR8ZO8fd7w9dQK+PSu+fJOTfvEZ3f2hJUAD9E+JecAQ=="/>
-            </sparkle:deltas>
         </item>
         <item>
             <title>5.14</title>
-            <pubDate>Thu, 06 Aug 2026 08:08:39 +0000</pubDate>
+            <pubDate>Thu, 06 Aug 2026 10:44:52 +0000</pubDate>
             <sparkle:version>268</sparkle:version>
             <sparkle:shortVersionString>5.14</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
@@ -37,20 +54,6 @@
 <p style="font:12px -apple-system;color:#888;margin:8px 0 0">Aufbauend auf 5.13 (Wiederholen nutzt dieselbe Karte).</p>
 ]]></description>
             <enclosure url="https://github.com/PromptrStudioPro/craftr-releases/releases/download/sparkle-updates/Promptr-Studio-Pro-5.14-268.zip" length="19212845" type="application/octet-stream" sparkle:edSignature="QGDPVP9Qil+UkkyWFngbBqSae9bv9DXS2hkWSeHcgvQJdUQ70OfTfpfiBQl9fPtiL84PRF5Iqs4qx7dhVsnYDg=="/>
-        </item>
-        <item>
-            <title>5.13</title>
-            <pubDate>Thu, 06 Aug 2026 08:08:38 +0000</pubDate>
-            <sparkle:version>267</sparkle:version>
-            <sparkle:shortVersionString>5.13</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2 style="font:600 15px -apple-system;margin:0 0 6px">Promptr Studio Pro 5.13: Wiederholen ohne Doppelkarte</h2>
-<ul style="font:13px -apple-system;margin:0;padding-left:18px">
-<li><b>🔁 „Erneut versuchen" nutzt jetzt dieselbe Karte:</b> Ein fehlgeschlagenes Asset springt beim Wiederholen zurück auf „läuft", statt eine zweite Karte anzulegen. Du siehst pro Versuch immer genau ein Asset, wie es sein soll.</li>
-</ul>
-<p style="font:12px -apple-system;color:#888;margin:8px 0 0">Aufbauend auf 5.12 (FLUX 3 Video und die vier FLUX.2-Bildmodelle sind live).</p>
-]]></description>
-            <enclosure url="https://github.com/PromptrStudioPro/craftr-releases/releases/download/sparkle-updates/Promptr-Studio-Pro-5.13-267.zip" length="19198114" type="application/octet-stream" sparkle:edSignature="hhui7dpaHN+NPmWJ0mA5xkgyfpOWc0hT+ahIkCxDqYhRJ+u+EXyQYZ76yYV2UuiflF/8q4dyMhMSb+fctQOqCg=="/>
         </item>
     </channel>
 </rss>

@@ -3,8 +3,34 @@
     <channel>
         <title>Promptr Studio Pro</title>
         <item>
+            <title>5.22</title>
+            <pubDate>Mon, 10 Aug 2026 14:26:11 +0000</pubDate>
+            <sparkle:version>276</sparkle:version>
+            <sparkle:shortVersionString>5.22</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h2 style="font:600 15px -apple-system;margin:0 0 6px">Promptr Studio Pro 5.22</h2>
+<p style="font:13px -apple-system;margin:0 0 8px">Guthaben kaufen wie du willst, klarere Kostenübersicht, weniger Klebrigkeit.</p>
+<ul style="font:13px -apple-system;margin:0;padding-left:18px">
+  <li><b>Freier Betrag beim Aufladen:</b> Neben den beiden Paketen gibt es jetzt einen Schieberegler von 5 bis 200 Euro. Ein Euro entspricht 1.000 Credits, der gewählte Betrag steht direkt auf dem Kaufen-Knopf.</li>
+  <li><b>Automatisch aufladen:</b> Optional. Fällt das Guthaben unter eine von dir gewählte Schwelle, wird der eingestellte Betrag von der zuletzt genutzten Zahlungsmethode abgebucht. Schwelle und Betrag stellst du im Aufladen-Fenster ein, abschalten kannst du es dort jederzeit.</li>
+  <li><b>Aufgeräumte Kauf-Ansicht:</b> Wer schon ein Abo hat, bekommt es nicht mehr angeboten. Stattdessen steht dort eine kompakte Statuszeile mit Stufe und nächstem Abrechnungsdatum. Die Stufen-Auswahl erscheint erst über „Stufe ändern".</li>
+  <li><b>Projekt-Kosten sichtbar:</b> Über der Galerie steht, wie viel in diesem Projekt bisher ausgegeben wurde, in Credits und als echter Geldbetrag in deiner Währung. Bei Cloud-Ordnern zählt die Summe alle Mitglieder zusammen.</li>
+  <li><b>Abbrechen gefunden:</b> Läuft eine Generierung oder hängt sie beim Absenden, steht jetzt ein sichtbarer „Abbrechen"-Knopf auf der Karte. Vorher gab es ihn nur als kleines Symbol, wenn man mit der Maus über die Karte fuhr.</li>
+  <li><b>Rückkehr aus dem Browser:</b> Der Link „Zurück zur App" nach einem Kauf oder Abo-Abschluss öffnet keine zweite Kopie der App mehr, sondern landet in dem Fenster, in dem du arbeitest.</li>
+</ul>
+]]></description>
+            <enclosure url="https://github.com/PromptrStudioPro/craftr-releases/releases/download/sparkle-updates/Promptr-Studio-Pro-5.22-276.zip" length="19859716" type="application/octet-stream" sparkle:edSignature="4bR2zNdDb8bGfgpK58crjsw+J2tnl95VvLFPwpwNMwD7GVFNC0Af01kxxH+y+vcN7pwGkOM1Pb8KJL72unBRAQ=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/PromptrStudioPro/craftr-releases/releases/download/sparkle-updates/Promptr-Studio-Pro276-275.delta" sparkle:deltaFrom="275" length="3717190" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="980432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="JTg+KlvHBQJL7neW07OxUsTpLvjU9CgNH2puRDVnVigEPdZPUq7st7k1YvcZN46YUHhPwURb/GQJEI7nn2iLDA=="/>
+                <enclosure url="https://github.com/PromptrStudioPro/craftr-releases/releases/download/sparkle-updates/Promptr-Studio-Pro276-274.delta" sparkle:deltaFrom="274" length="4185362" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="980432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="hZoZ/PjzUdO/zYLXMDhQI6TWKtBFlVQ3jQtfUTIkPXwnqzR/FD0OIVUv1+taHAvDnb9xF+25KfHnJoP9u7ZdDg=="/>
+                <enclosure url="https://github.com/PromptrStudioPro/craftr-releases/releases/download/sparkle-updates/Promptr-Studio-Pro276-273.delta" sparkle:deltaFrom="273" length="4257946" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="980432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="AJkkKFXcKXlZRXGZ+PVb/eqFcdocMUJ7SIvxSynkVVly802PYgWTX78m3YemVp3lkRUkga4YLQ5ddgeFI0L/Cg=="/>
+                <enclosure url="https://github.com/PromptrStudioPro/craftr-releases/releases/download/sparkle-updates/Promptr-Studio-Pro276-272.delta" sparkle:deltaFrom="272" length="4292946" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="980432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="xIF2RZe7zAPINx24YTnbEd+6tAjX8mskoftzS/A60kzUkOtDcNT3TiR5SD9AKW4Cdu9Au8x6wxt4ATF5IZU9Dw=="/>
+                <enclosure url="https://github.com/PromptrStudioPro/craftr-releases/releases/download/sparkle-updates/Promptr-Studio-Pro276-271.delta" sparkle:deltaFrom="271" length="4401722" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="980432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="eITWZcsfgQkYOpcyhRAK4zyP7OuGul9CqZwO/FRiSd+gn0G3V8+d4oHylGa0Vyqss+pTnUqFBh5NrIwtcWZVDA=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>5.21</title>
-            <pubDate>Mon, 10 Aug 2026 11:40:24 +0000</pubDate>
+            <pubDate>Mon, 10 Aug 2026 14:26:10 +0000</pubDate>
             <sparkle:version>275</sparkle:version>
             <sparkle:shortVersionString>5.21</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
@@ -21,17 +47,10 @@
 </ul>
 ]]></description>
             <enclosure url="https://github.com/PromptrStudioPro/craftr-releases/releases/download/sparkle-updates/Promptr-Studio-Pro-5.21-275.zip" length="19684919" type="application/octet-stream" sparkle:edSignature="HbSZteCrEtB+quR/AunN1vTiX9Z++fuL4L5FoEjjcJdTVb6Qub6XwhVL2wkfBagVqp+87RKortk/ektWRpY0AQ=="/>
-            <sparkle:deltas>
-                <enclosure url="https://github.com/PromptrStudioPro/craftr-releases/releases/download/sparkle-updates/Promptr-Studio-Pro275-274.delta" sparkle:deltaFrom="274" length="3667570" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="980432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="Pydh7FQwPCJzY8t7VREUB/HarpWMgjHRYFpj1IxmEI/LJOcr3IwVsiCdqrupPVR7ZzR9MzsoWh2Hbi0EGJwsBA=="/>
-                <enclosure url="https://github.com/PromptrStudioPro/craftr-releases/releases/download/sparkle-updates/Promptr-Studio-Pro275-273.delta" sparkle:deltaFrom="273" length="3864290" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="980432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="9vI6x0P/jWvEbLcdxjcmnzJ7GpFTuPeL00ga5sYpzbQpbnIm9d/cpaM3gHtT862UXPjjIyESe6MjBLaPeCayAQ=="/>
-                <enclosure url="https://github.com/PromptrStudioPro/craftr-releases/releases/download/sparkle-updates/Promptr-Studio-Pro275-272.delta" sparkle:deltaFrom="272" length="3850658" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="980432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="PJ8i5P/ss2Mh22adgC8YCIIzmiA65qp3tFeUBjmS4sI/4qPYnWBVgEM96ONLgAdCSdd3LmloBbxFYXnZsTL3AQ=="/>
-                <enclosure url="https://github.com/PromptrStudioPro/craftr-releases/releases/download/sparkle-updates/Promptr-Studio-Pro275-271.delta" sparkle:deltaFrom="271" length="4031130" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="980432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="HUaag57sAx6gbKV8k3yMjVvT0S0K1cgNnkkRhtFgUUMDZwPu4Zi5xtUjIKpMZRXr/wbc6HZyMa/Fb/JB8YuyCw=="/>
-                <enclosure url="https://github.com/PromptrStudioPro/craftr-releases/releases/download/sparkle-updates/Promptr-Studio-Pro275-270.delta" sparkle:deltaFrom="270" length="4056198" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="980432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="A0V0F14MoHqh22uwuyGCwUtJdVsTCGKySaZwamUEfoRHaF8eSankVK23QB2aG+efZc9LuD5PPvJ2Jy1UyOkxAg=="/>
-            </sparkle:deltas>
         </item>
         <item>
             <title>5.20</title>
-            <pubDate>Mon, 10 Aug 2026 11:40:23 +0000</pubDate>
+            <pubDate>Mon, 10 Aug 2026 14:26:09 +0000</pubDate>
             <sparkle:version>274</sparkle:version>
             <sparkle:shortVersionString>5.20</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
@@ -61,30 +80,6 @@ Seedance zählt die Länge des Referenzvideos mit. Die Vorschau hat sie vorher
 ignoriert und deshalb zu wenig angezeigt.</p>
 ]]></description>
             <enclosure url="https://github.com/PromptrStudioPro/craftr-releases/releases/download/sparkle-updates/Promptr-Studio-Pro-5.20-274.zip" length="19564832" type="application/octet-stream" sparkle:edSignature="hTs+aeze7HxBerGXhaG/nsCvdnsephHzy8cXl48UVyI8IL1m/dHSsDpU716ApMhrKcY3n8xkSTYad2Wun6ciAw=="/>
-        </item>
-        <item>
-            <title>5.19</title>
-            <pubDate>Mon, 10 Aug 2026 11:40:22 +0000</pubDate>
-            <sparkle:version>273</sparkle:version>
-            <sparkle:shortVersionString>5.19</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2>Promptr Studio Pro 5.19: Preise in Euro, Abo-Hinweis</h2>
-
-<p>💶 <b>Unter jedem Credit-Preis steht jetzt der Euro-Betrag.</b> 1.000 Credits
-sind 1 Euro, fest. Das gilt im Kosten-Hinweis vor dem Generieren, beim Guthaben
-und in der Verbrauchs-Historie. Gebucht wird weiter in Credits, exakt der Betrag,
-der vorher zugesagt wurde. Die Euro-Zeile ist die Übersetzung, nicht die
-Rechnung.</p>
-
-<p>🔑 <b>Klarer Hinweis, wenn das Abo fehlt.</b> Läuft ein Abo ab, während die
-App offen ist, kam bisher eine technische Meldung. Jetzt steht dort, was zu tun
-ist, und der Weg zum Plan-Fenster ist einen Klick entfernt.</p>
-
-<p>🎬 <b>Seedance 2.5 ist freigeschaltet.</b> Seit dem Abnahmelauf heute läuft
-das Modell mit bis zu 30 Sekunden am Stück. Wer 5.18 installiert hat, sieht es
-bereits.</p>
-]]></description>
-            <enclosure url="https://github.com/PromptrStudioPro/craftr-releases/releases/download/sparkle-updates/Promptr-Studio-Pro-5.19-273.zip" length="19526998" type="application/octet-stream" sparkle:edSignature="YQwz26csk9+3ydqjRHc3ldwCg8Y+fl+M1hkbTYT9kOUWP3hz2RreSB5tocW8gGwA9XSASpWQSd5y5U75vX4MBA=="/>
         </item>
     </channel>
 </rss>

@@ -3,8 +3,31 @@
     <channel>
         <title>Promptr Studio Pro</title>
         <item>
+            <title>5.28</title>
+            <pubDate>Wed, 12 Aug 2026 11:23:05 +0000</pubDate>
+            <sparkle:version>282</sparkle:version>
+            <sparkle:shortVersionString>5.28</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h2 style="font:600 15px -apple-system;margin:0 0 6px">Promptr Studio Pro 5.28</h2>
+<p style="font:13px -apple-system;margin:0 0 8px">Klarerer Einstieg ohne Abo und ein sauberer Rücksprung nach dem Kauf.</p>
+<ul style="font:13px -apple-system;margin:0;padding-left:18px">
+  <li><b>Ohne Abo erklärt die App den Weg:</b> Wer ohne aktives Abo generieren will, bekommt jetzt einen freundlichen Dialog mit direktem Knopf zum Abo-Abschluss, statt eines Fehler-Eintrags in der Galerie.</li>
+  <li><b>Plan-Fenster logisch sortiert:</b> Ohne Abo steht das Monats-Abo jetzt ganz oben; die Einmal-Aufladungen folgen darunter mit Einordnung. Der Titel sagt, worum es geht: „Abo abschließen".</li>
+  <li><b>„Zurück zur App" öffnet keine zweite App mehr:</b> Nach dem Bezahlen holt der Link die laufende App nach vorn. Bisher konnte je nach installierter Kopie eine neue Instanz starten.</li>
+</ul>
+]]></description>
+            <enclosure url="https://github.com/PromptrStudioPro/craftr-releases/releases/download/sparkle-updates/Promptr-Studio-Pro-5.28-282.zip" length="20199631" type="application/octet-stream" sparkle:edSignature="oJaOE+8xovEquOKgku5BVKDCA3CuKhM/DCeXSS2zKPJ5GJcDU/KwlkfH5KMFiAugX1AKaxY2r0uWsYHekdE6Dw=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/PromptrStudioPro/craftr-releases/releases/download/sparkle-updates/Promptr-Studio-Pro282-281.delta" sparkle:deltaFrom="281" length="3050454" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="980432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="+ZTxOgctGyj48cNE+s98GM4FU9qAZlUCdcESWAKDpyaemYyEgqyJqIIOdGZXG4S+7njeIZJzhD88DHeLmBEYAg=="/>
+                <enclosure url="https://github.com/PromptrStudioPro/craftr-releases/releases/download/sparkle-updates/Promptr-Studio-Pro282-280.delta" sparkle:deltaFrom="280" length="3034558" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="980432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="ZUyu99qbyZZOTVa6yJtII51MJ0WG5i+Rh5R7zEo3SM9hgYe16Vv4aEn/USOSUj6UQfMTN90fc9+7FnNVJtvdCA=="/>
+                <enclosure url="https://github.com/PromptrStudioPro/craftr-releases/releases/download/sparkle-updates/Promptr-Studio-Pro282-279.delta" sparkle:deltaFrom="279" length="3219122" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="980432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="qAeaN+HvK9i2WfScYZRkbjBtHq7bkVKSYrGGOlw9cX+R9VDBAqtGUVMjD8ayhTTC6TPkF2irNCg7A89yjfPqCA=="/>
+                <enclosure url="https://github.com/PromptrStudioPro/craftr-releases/releases/download/sparkle-updates/Promptr-Studio-Pro282-278.delta" sparkle:deltaFrom="278" length="3451486" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="980432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="1RBZefd0pcoPMxey5qEabv8vM1ag7kajG9rvZBNo6uiyifrwqCsFohmm4Fke+mV2CWD+/hUOBGlT5EPhF1oiBA=="/>
+                <enclosure url="https://github.com/PromptrStudioPro/craftr-releases/releases/download/sparkle-updates/Promptr-Studio-Pro282-277.delta" sparkle:deltaFrom="277" length="3488066" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="980432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="/fHMSsYxJvAuePGjinRAf9E0pqne4q4xjvVVeLe453cOFtxDsRWp6frNCwtNKVexlIRmC0rWAj+1aNj7HtpxBA=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>5.27</title>
-            <pubDate>Tue, 11 Aug 2026 15:28:27 +0000</pubDate>
+            <pubDate>Wed, 12 Aug 2026 11:23:03 +0000</pubDate>
             <sparkle:version>281</sparkle:version>
             <sparkle:shortVersionString>5.27</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
@@ -15,17 +38,10 @@
 </ul>
 ]]></description>
             <enclosure url="https://github.com/PromptrStudioPro/craftr-releases/releases/download/sparkle-updates/Promptr-Studio-Pro-5.27-281.zip" length="20170019" type="application/octet-stream" sparkle:edSignature="4wJ6IZz+AsxnI03r2CfJShV3yUtFrIEqpZzVUTd6JgWqmn8ojI6fVfZClahPZPX3jQEs8cfN2TW311XhChbeAw=="/>
-            <sparkle:deltas>
-                <enclosure url="https://github.com/PromptrStudioPro/craftr-releases/releases/download/sparkle-updates/Promptr-Studio-Pro281-280.delta" sparkle:deltaFrom="280" length="2343702" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="980432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="99fClpwNkE75HC2RtKWm89/f0rmGTAORV4cNq3fNHdHnHRLDE/UulotXgWTCkQyRT+EHEwpD0U0qYcsXC2CFDA=="/>
-                <enclosure url="https://github.com/PromptrStudioPro/craftr-releases/releases/download/sparkle-updates/Promptr-Studio-Pro281-279.delta" sparkle:deltaFrom="279" length="2797218" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="980432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="kBgNtSOAdbEu1J9L7y6yXJhkT4N26aa1uZ8z+4rX8nR6ZsPK7xlWvYAhwZNp5H8dExfoi5sTpi09Y1+w8k4eBw=="/>
-                <enclosure url="https://github.com/PromptrStudioPro/craftr-releases/releases/download/sparkle-updates/Promptr-Studio-Pro281-278.delta" sparkle:deltaFrom="278" length="3305882" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="980432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="I7ci4PMuNJ5sMM5EANt4Oz357fommp4L7AZjC3wkdMAjm+Py5D54XKrJWR/8R4JAKTZ9P5rsIr/JdIcQ141dCQ=="/>
-                <enclosure url="https://github.com/PromptrStudioPro/craftr-releases/releases/download/sparkle-updates/Promptr-Studio-Pro281-277.delta" sparkle:deltaFrom="277" length="3305754" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="980432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="rvQ4TfNyjkcwjudLniMKHIkCYn4I9YRvDdHA9ZpZrJ4tzAvPr9pxKwQk9BkAqsGFu+NTEVjKtrzpnRi44NJDAA=="/>
-                <enclosure url="https://github.com/PromptrStudioPro/craftr-releases/releases/download/sparkle-updates/Promptr-Studio-Pro281-276.delta" sparkle:deltaFrom="276" length="4381870" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="980432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="PPfuUZ0nRLUlfn4xUJPpUEjQf7aSFevJI38eqL7Y01kmllgZ1OVYS3V69BuZ/BHYhAuMmAi6QPsU1CbNQH8tBw=="/>
-            </sparkle:deltas>
         </item>
         <item>
             <title>5.26</title>
-            <pubDate>Tue, 11 Aug 2026 15:28:25 +0000</pubDate>
+            <pubDate>Wed, 12 Aug 2026 11:23:02 +0000</pubDate>
             <sparkle:version>280</sparkle:version>
             <sparkle:shortVersionString>5.26</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
@@ -36,20 +52,6 @@
 </ul>
 ]]></description>
             <enclosure url="https://github.com/PromptrStudioPro/craftr-releases/releases/download/sparkle-updates/Promptr-Studio-Pro-5.26-280.zip" length="20165380" type="application/octet-stream" sparkle:edSignature="QRUkuxW9RqsDjkqOzEIFhE0bU6oPhk5fogyPb4edOO3B8VuhtV4+x5FqvfwUQkKquFdwQlB4vMdpC9picPoTCQ=="/>
-        </item>
-        <item>
-            <title>5.25</title>
-            <pubDate>Tue, 11 Aug 2026 15:28:24 +0000</pubDate>
-            <sparkle:version>279</sparkle:version>
-            <sparkle:shortVersionString>5.25</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2 style="font:600 15px -apple-system;margin:0 0 6px">Promptr Studio Pro 5.25</h2>
-<p style="font:13px -apple-system;margin:0 0 8px">Die Fußzeile kennt dein Abo wieder.</p>
-<ul style="font:13px -apple-system;margin:0;padding-left:18px">
-  <li><b>Abo-Zeile zeigt die Wahrheit:</b> Unter dem Namen stand „Kein aktives Abo", auch mit laufendem Abo. Ursache: die App hat den Abo-Status an einer Stelle gesucht, die ihn nie enthielt, und der Stufenname kam aus einer veralteten Liste in der App. Jetzt liest die Zeile den Status direkt beim Server und zeigt den Namen, den der Server nennt. Eine laufende Kündigung steht als „· gekündigt" dahinter.</li>
-</ul>
-]]></description>
-            <enclosure url="https://github.com/PromptrStudioPro/craftr-releases/releases/download/sparkle-updates/Promptr-Studio-Pro-5.25-279.zip" length="20160186" type="application/octet-stream" sparkle:edSignature="Laf5ToLx6JhM3SsjsU8l6w/IljW/zdW+0+xLaUKmkuLTT8XMrxXyEIyN0MywqBmeTFTms86lhC08fELidFHlAA=="/>
         </item>
     </channel>
 </rss>

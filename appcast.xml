@@ -3,8 +3,32 @@
     <channel>
         <title>Promptr Studio Pro</title>
         <item>
+            <title>5.32</title>
+            <pubDate>Thu, 13 Aug 2026 15:10:19 +0000</pubDate>
+            <sparkle:version>287</sparkle:version>
+            <sparkle:shortVersionString>5.32</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h2 style="font:600 15px -apple-system;margin:0 0 6px">Promptr Studio Pro 5.32: keine Prompt-Textdateien mehr</h2>
+<ul style="font:13px -apple-system;margin:0;padding-left:18px">
+<li><b>🧹 Die <code>.prompt.txt</code> neben jedem Asset ist weg.</b> 5.31 hat den Prompt zusätzlich als Begleitdatei abgelegt. Das war falsch gedacht: ein zweites Dokument je Asset, das jeder mitschleppen und mitkopieren muss. Der Prompt steht ausschließlich IN der Datei.</li>
+<li><b>📝 Unverändert:</b> Bilder tragen Prompt, Modell, Seed und Datum verlustfrei in ihren Metadaten (PNG- und TIFF-Description, EXIF-Kommentar, IPTC-Caption), Videos und M4A im Container (QuickTime-Description und -Kommentar), ohne neu zu kodieren.</li>
+<li><b>🔎 Ehrliche Grenze:</b> MP3 und WAV können über AVFoundation keine Metadaten aufnehmen. Dort steht der Prompt weiter in der App und reist beim Cloud-Teilen mit, in der Datei selbst fehlt er.</li>
+<li><b>🔁 „Reuse Settings" und „Copy Prompt"</b> lesen den Prompt weiterhin aus der Datei, wenn im Datensatz keiner steht.</li>
+</ul>
+<p style="font:12px -apple-system;color:#888;margin:8px 0 0">Direkt auf 5.31 aufsetzend. Bereits angelegte Textdateien entfernt die App nicht selbst.</p>
+]]></description>
+            <enclosure url="https://github.com/PromptrStudioPro/craftr-releases/releases/download/sparkle-updates/Promptr-Studio-Pro-5.32-287.zip" length="20436670" type="application/octet-stream" sparkle:edSignature="nb2FthHv2YQFAEYRnUrhskv5MgtwcddeH/WBMqPfX19gEp/cLVMMZdDA/C7kIlri9NjaqC6wDgV7dBecQb0XBw=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/PromptrStudioPro/craftr-releases/releases/download/sparkle-updates/Promptr-Studio-Pro287-286.delta" sparkle:deltaFrom="286" length="1903518" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="980432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="UXtQVvVS2JbCgvkUQ7s19HRmTnX1DJCoe9nFAuxAeLCzsfpKfu/P5nzfAFerAipnsL5I0lkBW0DAuPl7BK8MDQ=="/>
+                <enclosure url="https://github.com/PromptrStudioPro/craftr-releases/releases/download/sparkle-updates/Promptr-Studio-Pro287-285.delta" sparkle:deltaFrom="285" length="3580282" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="980432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="KruZsBN9wStelnQZOJoQIy8KrDWbV8ZfFeSFCQ7wlXdNTbP8wS96KfyQt7VCXU6iLXUsXrbOZyy6ctGSFJUHDQ=="/>
+                <enclosure url="https://github.com/PromptrStudioPro/craftr-releases/releases/download/sparkle-updates/Promptr-Studio-Pro287-283.delta" sparkle:deltaFrom="283" length="5333414" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="980432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="78i9QeKi2Z+ZyOf7jAaCQ1+zhaSNEXtd2uu+fBL3s2Q+b4l7A5wuWJJ1HYXOJLYaRPZyhjteW0J9h0pQ47lLAA=="/>
+                <enclosure url="https://github.com/PromptrStudioPro/craftr-releases/releases/download/sparkle-updates/Promptr-Studio-Pro287-282.delta" sparkle:deltaFrom="282" length="5568186" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="980432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="ZlI/8k/DyRHnH3LerhBou32r5Mmdp56hHdz37PqrjtCnhe7EhPTtfiN5z8a4UllCiTmeQGGuG/qC+9V7Hs/sAw=="/>
+                <enclosure url="https://github.com/PromptrStudioPro/craftr-releases/releases/download/sparkle-updates/Promptr-Studio-Pro287-281.delta" sparkle:deltaFrom="281" length="5657558" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="980432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="NYhd321a0A/gAZVDFLFYCWCkROZ3wKNdXugyVHRjJWNrCKPVFq0hrBD1LH72ec8f/8dJtZiQMonEt9jg1zzgCw=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>5.31</title>
-            <pubDate>Thu, 13 Aug 2026 14:13:16 +0000</pubDate>
+            <pubDate>Thu, 13 Aug 2026 15:10:18 +0000</pubDate>
             <sparkle:version>286</sparkle:version>
             <sparkle:shortVersionString>5.31</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
@@ -21,17 +45,10 @@
 <p style="font:12px -apple-system;color:#888;margin:8px 0 0">Aufbauend auf 5.30 (neues Layout, Drag-and-drop-Blöcke, CRAFTR-Beautify).</p>
 ]]></description>
             <enclosure url="https://github.com/PromptrStudioPro/craftr-releases/releases/download/sparkle-updates/Promptr-Studio-Pro-5.31-286.zip" length="20437291" type="application/octet-stream" sparkle:edSignature="zhX0SKRCWNM4KqhCkp+1zj91S1ApEzEtomLV54ZcHPDnsu0+9WO4UXL/lODXU1kfnHS78E7KMgJ5v7ONk8JbDA=="/>
-            <sparkle:deltas>
-                <enclosure url="https://github.com/PromptrStudioPro/craftr-releases/releases/download/sparkle-updates/Promptr-Studio-Pro286-285.delta" sparkle:deltaFrom="285" length="3521434" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="980432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="U4tWCrZM19D9lCKPjp543X69bIv1O4q1Y+oQI4ZbZgNSIG2bDRlub5nn2nT41BYz4OWDznBu7uUpJGCSDttPBA=="/>
-                <enclosure url="https://github.com/PromptrStudioPro/craftr-releases/releases/download/sparkle-updates/Promptr-Studio-Pro286-283.delta" sparkle:deltaFrom="283" length="5337690" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="980432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="y3Y39qSnDaHUNStxQDnUaBTWLNKAvn8hErSpk7O9x9cvRi7CbLsAHwoaNk+hemCUpuAUa1hoRtiW8ETYe+jKDw=="/>
-                <enclosure url="https://github.com/PromptrStudioPro/craftr-releases/releases/download/sparkle-updates/Promptr-Studio-Pro286-282.delta" sparkle:deltaFrom="282" length="5553582" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="980432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="0H6FPe9Puyo1FQyrtl/eSKMZBAuFTqAPCoREr9q+awpIADOIcC54XWKFSoyoIRKucMJkvYMNvJAZFjjFjT1IAQ=="/>
-                <enclosure url="https://github.com/PromptrStudioPro/craftr-releases/releases/download/sparkle-updates/Promptr-Studio-Pro286-281.delta" sparkle:deltaFrom="281" length="5673926" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="980432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="ej60cz4NfvZYbWxxhGZpS1zn1RxlGh79NJZoYmbCHBPlzq/KXGYa4HrF2hmallOiC1PrHPTWYrvkKmZBI+UZCg=="/>
-                <enclosure url="https://github.com/PromptrStudioPro/craftr-releases/releases/download/sparkle-updates/Promptr-Studio-Pro286-280.delta" sparkle:deltaFrom="280" length="5667842" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="980432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="9x3B7RppacDMF9MGGPW6S1ChO4ZMhilvpWwyXD3+KGzWKuuSZHiZ/9ELp5Z8tw6HEtKnaHVyWmbZD2KahnJkCQ=="/>
-            </sparkle:deltas>
         </item>
         <item>
             <title>5.30</title>
-            <pubDate>Thu, 13 Aug 2026 14:13:15 +0000</pubDate>
+            <pubDate>Thu, 13 Aug 2026 15:10:18 +0000</pubDate>
             <sparkle:version>285</sparkle:version>
             <sparkle:shortVersionString>5.30</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
@@ -49,23 +66,6 @@
 <p style="font:12px -apple-system;color:#888;margin:8px 0 0">Aufbauend auf 5.29 (Gesichts-Referenzen werden nicht mehr erneut bestätigt).</p>
 ]]></description>
             <enclosure url="https://github.com/PromptrStudioPro/craftr-releases/releases/download/sparkle-updates/Promptr-Studio-Pro-5.30-285.zip" length="20348564" type="application/octet-stream" sparkle:edSignature="Fl+XASYYD6lVtCN3xb4t+X+/URC5qwYkTCqyiF74zoeCAM90OrpPB1HfnoBUyyJ3Lg3BWQ2vxpwPMhJ/GUGvAQ=="/>
-        </item>
-        <item>
-            <title>5.29</title>
-            <pubDate>Thu, 13 Aug 2026 14:13:14 +0000</pubDate>
-            <sparkle:version>283</sparkle:version>
-            <sparkle:shortVersionString>5.29</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2 style="font:600 15px -apple-system;margin:0 0 6px">Promptr Studio Pro 5.29</h2>
-<p style="font:13px -apple-system;margin:0 0 8px">Charaktere merkt sich die App jetzt wirklich — Schluss mit der täglichen Gesichts-Bestätigung bei Seedance.</p>
-<ul style="font:13px -apple-system;margin:0;padding-left:18px">
-  <li><b>Bekannte Referenzen laufen still durch:</b> Erkennt Seedance ein Gesicht in einem Bild, das schon als Person registriert ist, ersetzt die App es automatisch und sendet die Generierung sofort neu — ohne Dialog, ohne Kosten.</li>
-  <li><b>Neue Bilder registrieren sich selbst:</b> Auch bei mehreren Referenzen übernimmt jetzt der stille Auto-Flow: unbekannte Bilder werden automatisch als Personen registriert (nach der einmaligen Rechte-Bestätigung), danach geht die Generierung von allein raus. Ein kurzer Hinweis zeigt, was passiert ist.</li>
-  <li><b>Keine doppelten Personen mehr:</b> Dasselbe Bild wird nur noch einmal registriert — vorher konnten parallele Generierungen denselben Charakter mehrfach in der Bibliothek anlegen.</li>
-  <li><b>Sonderzeichen-Dateinamen laden wieder hoch:</b> Referenzdateien mit Umlauten im Namen (z.&nbsp;B. „Netzgerät.mp3") scheiterten beim Upload mit einem Netzwerkfehler — behoben.</li>
-</ul>
-]]></description>
-            <enclosure url="https://github.com/PromptrStudioPro/craftr-releases/releases/download/sparkle-updates/Promptr-Studio-Pro-5.29-283.zip" length="20217569" type="application/octet-stream" sparkle:edSignature="fZRGeDNuAG4+ingePxfkluKiqd+Cf5+eryLZhVcFgMobg6F5KuYDiJ2XrneWG+KTnkxZSuPNH91HXSbtSAIEAA=="/>
         </item>
     </channel>
 </rss>

@@ -3,8 +3,32 @@
     <channel>
         <title>Promptr Studio Pro</title>
         <item>
+            <title>5.45</title>
+            <pubDate>Tue, 25 Aug 2026 16:10:58 +0000</pubDate>
+            <sparkle:version>331</sparkle:version>
+            <sparkle:shortVersionString>5.45</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h2 style="font:600 15px -apple-system;margin:0 0 6px">Promptr Studio Pro 5.45</h2>
+<ul style="font:13px -apple-system;margin:0;padding-left:18px">
+<li><b>🚦 Fenster-Knöpfe sitzen wieder richtig.</b> Die Ampel-Knöpfe wanderten nach Skin- oder Hell/Dunkel-Wechseln schrittweise ins Layout und überlagerten Logo und Projektliste. Sie stehen jetzt dauerhaft in einer eigenen Kopfzone, und die oberen Karten haben etwas mehr Luft zum Fensterrand.</li>
+<li><b>🖼️ Vorschau zeigt den Dateinamen.</b> In der Großansicht steht jetzt dezent unten, welches Asset gerade offen ist.</li>
+<li><b>👆 Direkt aus der Vorschau ziehen.</b> Das offene Asset lässt sich per Drag &amp; Drop aus der Großansicht mitnehmen, zum Beispiel in den Finder.</li>
+<li><b>☁️ Ehrliche Ansage bei „Reuse Settings".</b> Liegen Referenzbilder oder -videos eines geteilten Projekts nicht auf diesem Mac, sagt die App das jetzt klar: Einstellungen und Prompt werden übernommen, die fehlenden Referenzen bitte von Hand einfügen.</li>
+<li><b>✉️ Schneller einladen.</b> Cloud-Projekte ohne weitere Mitglieder zeigen in der Seitenleiste ein kleines „invite" — ein Klick öffnet die Einladung.</li>
+</ul>
+]]></description>
+            <enclosure url="https://nxhbdyouzaznncshvvec.supabase.co/storage/v1/object/public/updates/Promptr-Studio-Pro-5.45-331.zip" length="21489735" type="application/octet-stream" sparkle:edSignature="hPpRTDGUyzGzGEGzETpbFtAPZHfV3AhqAUoenOoYII8ruwmR/vd/J3C820Ep+AVvCMCTFadtQOScrJ9gk09fAg=="/>
+            <sparkle:deltas>
+                <enclosure url="https://nxhbdyouzaznncshvvec.supabase.co/storage/v1/object/public/updates/Promptr-Studio-Pro331-328.delta" sparkle:deltaFrom="328" length="3488862" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="980432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="IXpVJlDMuxVvPAPi70ZElYPJnJTjWIJZ0FIoBOiu4UDO0D9fJvv5g1RdY+T50MDNFe3cmYL7Xx/+pLzBpIDzCA=="/>
+                <enclosure url="https://nxhbdyouzaznncshvvec.supabase.co/storage/v1/object/public/updates/Promptr-Studio-Pro331-325.delta" sparkle:deltaFrom="325" length="3561314" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="980432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="K1LXNQoiNackZNf7tqYMvogPZ839Pq5W7Ekp1+iIDF60U0xdOeRoc/pDF+K34OjsXGrvM/9Bh7QqE5isGBxCBg=="/>
+                <enclosure url="https://nxhbdyouzaznncshvvec.supabase.co/storage/v1/object/public/updates/Promptr-Studio-Pro331-322.delta" sparkle:deltaFrom="322" length="4516786" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="980432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="BFf3Cg21/hjbkfeWPyD1nQ7QCr+GUiakINcrK0U1uXl09bm1DoKKvn/quixBeVg9DulOoV09jHIVx+7U3vs4Ag=="/>
+                <enclosure url="https://nxhbdyouzaznncshvvec.supabase.co/storage/v1/object/public/updates/Promptr-Studio-Pro331-316.delta" sparkle:deltaFrom="316" length="5088930" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="980432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="r53GQuoiwOmwIl6WmJ/CK3YzMTFEeHTYK1P8CieuFM7O+sSYx+za67diEyv+1bMCQs9lbQ4zDVU1qU8bU5JCCg=="/>
+                <enclosure url="https://nxhbdyouzaznncshvvec.supabase.co/storage/v1/object/public/updates/Promptr-Studio-Pro331-312.delta" sparkle:deltaFrom="312" length="5146490" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="980432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="rgJxOOGrKAk7IjuOKbUfjcD8nBgAxU8Us3Sh5FEgFmtBUkyxhvnuBm1lxwWQXd6J4uufi8h/gvXEH490D/zrAQ=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>5.44</title>
-            <pubDate>Tue, 25 Aug 2026 10:36:20 +0000</pubDate>
+            <pubDate>Tue, 25 Aug 2026 16:10:57 +0000</pubDate>
             <sparkle:version>328</sparkle:version>
             <sparkle:shortVersionString>5.44</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
@@ -14,17 +38,10 @@
 </ul>
 ]]></description>
             <enclosure url="https://nxhbdyouzaznncshvvec.supabase.co/storage/v1/object/public/updates/Promptr-Studio-Pro-5.44-328.zip" length="21434358" type="application/octet-stream" sparkle:edSignature="vnuk2H0GWHwdv9qyQI8DObnoZDQ1vKqfADrx7SpfC4FqztR/LHMilMhhHtfBDGuJn9hYc6misqo7m+wRooo1AQ=="/>
-            <sparkle:deltas>
-                <enclosure url="https://nxhbdyouzaznncshvvec.supabase.co/storage/v1/object/public/updates/Promptr-Studio-Pro328-325.delta" sparkle:deltaFrom="325" length="2959586" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="980432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="NylpPBqcG2ArHeto/iuhXBUvDRFdrBBuJrkZw3VGRXToVE3y9UMYk0ddxy4vYFkU/u4JWaRmVK4WygV0g345Cw=="/>
-                <enclosure url="https://nxhbdyouzaznncshvvec.supabase.co/storage/v1/object/public/updates/Promptr-Studio-Pro328-322.delta" sparkle:deltaFrom="322" length="4166730" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="980432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="Xz4VZge7cPtD5maLzf4ySaB1kSnKwJZ4ZTWFQFrOQKNVpbT/+Fxg4xNLOCBEBStHYYk3Vh3pO15+rYCUZ+R0Dg=="/>
-                <enclosure url="https://nxhbdyouzaznncshvvec.supabase.co/storage/v1/object/public/updates/Promptr-Studio-Pro328-316.delta" sparkle:deltaFrom="316" length="4777978" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="980432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="0YKQLM88muJeu3Cle87q5IxcBnK42T+Rqt5pJMPfHL87LBa93LOxNChzdDc75rM2oiwTBThtnTZ4UWVKF/ehAw=="/>
-                <enclosure url="https://nxhbdyouzaznncshvvec.supabase.co/storage/v1/object/public/updates/Promptr-Studio-Pro328-312.delta" sparkle:deltaFrom="312" length="4815590" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="980432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="Wwcj2qqu/zdQ97qlTYAXQkafaYs4f6JXK5i9v6k15RvQBlV6K7W6y2pbeDbxRMKSA8uDsCvLtSo41FGcs+xACw=="/>
-                <enclosure url="https://nxhbdyouzaznncshvvec.supabase.co/storage/v1/object/public/updates/Promptr-Studio-Pro328-304.delta" sparkle:deltaFrom="304" length="4879102" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="980432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="Ygwurq5YEZwrY26iyRWHd7srr4obrawy3P+aU3HZq1aAInjeAmsBOQyDhmm2xJGNII9ylbibkMPg2vAB/dUWCA=="/>
-            </sparkle:deltas>
         </item>
         <item>
             <title>5.43</title>
-            <pubDate>Tue, 25 Aug 2026 10:36:18 +0000</pubDate>
+            <pubDate>Tue, 25 Aug 2026 16:10:57 +0000</pubDate>
             <sparkle:version>325</sparkle:version>
             <sparkle:shortVersionString>5.43</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
@@ -37,21 +54,6 @@
 </ul>
 ]]></description>
             <enclosure url="https://nxhbdyouzaznncshvvec.supabase.co/storage/v1/object/public/updates/Promptr-Studio-Pro-5.43-325.zip" length="21427106" type="application/octet-stream" sparkle:edSignature="w53Kzv5M9+DerI8ZpHuJsV9foiV3QgMlv5pq90EJoaCoDqETOCjFFDxLLE+K0jA1OM7UczwRNRYDjqT/QzlZAQ=="/>
-        </item>
-        <item>
-            <title>5.42</title>
-            <pubDate>Tue, 25 Aug 2026 10:36:18 +0000</pubDate>
-            <sparkle:version>322</sparkle:version>
-            <sparkle:shortVersionString>5.42</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2 style="font:600 15px -apple-system;margin:0 0 6px">Promptr Studio Pro 5.42</h2>
-<ul style="font:13px -apple-system;margin:0;padding-left:18px">
-<li><b>✨ Neu: Topaz und Crystal im Enhancer.</b> Acht neue Upscaler ersetzen Magnific. Für Bilder: <b>Precision</b> (Gigapixel, treues Foto-Upscaling mit Gesichtsverbesserung), <b>Creative</b> (Bloom, erfindet Details kreativ mit), <b>Generative</b> (Wonder, Redefine und Recovery für sehr kleine Quellen), <b>Transparent</b> (erhält den Alphakanal) und <b>Crystal</b> (schneller Portrait-Upscaler). Für Videos: <b>Video Precision</b> mit 21 klassischen Topaz-Modellen von Proteus bis Rhea, <b>Starlight</b> für stark degradiertes Material und <b>Astra&nbsp;2</b> für kreatives Upscaling Richtung 4K. Jede Engine bringt ihre eigenen Feinregler mit; der Preis steht wie immer vorab am Knopf.</li>
-<li><b>🔁 Magnific-Projekte bleiben nutzbar.</b> „Reuse Settings" auf alten Magnific-Ergebnissen wechselt automatisch auf den passenden Topaz-Nachfolger, die Quelle kommt mit.</li>
-<li><b>🧹 Aufgeräumte Seitenleiste.</b> Der technische Umgebungs-Hinweis unter dem Logo ist Geschichte; dort steht jetzt nur noch die Version.</li>
-</ul>
-]]></description>
-            <enclosure url="https://nxhbdyouzaznncshvvec.supabase.co/storage/v1/object/public/updates/Promptr-Studio-Pro-5.42-322.zip" length="21199083" type="application/octet-stream" sparkle:edSignature="WFz0k8DsiDL3og8HI6ync8oA4jeC5lDAHGn7avfngtYWEAT81ME8EOleAAJSBrf2jI6MJxM6nHLEDmqfKS4AAw=="/>
         </item>
     </channel>
 </rss>

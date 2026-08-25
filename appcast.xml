@@ -3,8 +3,28 @@
     <channel>
         <title>Promptr Studio Pro</title>
         <item>
+            <title>5.44</title>
+            <pubDate>Tue, 25 Aug 2026 10:36:20 +0000</pubDate>
+            <sparkle:version>328</sparkle:version>
+            <sparkle:shortVersionString>5.44</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h2 style="font:600 15px -apple-system;margin:0 0 6px">Promptr Studio Pro 5.44</h2>
+<ul style="font:13px -apple-system;margin:0;padding-left:18px">
+<li><b>☁️ Cloud-Ordner verhalten sich jetzt richtig.</b> Wer Ordner eines Cloud-Projekts direkt im Finder löscht oder umbenennt, sieht das Ergebnis jetzt dauerhaft und bei allen Mitgliedern: Gelöschte Ordner kommen nicht mehr beim nächsten Sync zurück, und eine Umbenennung hinterlässt keinen doppelten Ordner mehr. Sicherheitsnetz inklusive: Ein kurzzeitig nicht erreichbares Laufwerk kann niemals eine Löschung auslösen.</li>
+</ul>
+]]></description>
+            <enclosure url="https://nxhbdyouzaznncshvvec.supabase.co/storage/v1/object/public/updates/Promptr-Studio-Pro-5.44-328.zip" length="21434358" type="application/octet-stream" sparkle:edSignature="vnuk2H0GWHwdv9qyQI8DObnoZDQ1vKqfADrx7SpfC4FqztR/LHMilMhhHtfBDGuJn9hYc6misqo7m+wRooo1AQ=="/>
+            <sparkle:deltas>
+                <enclosure url="https://nxhbdyouzaznncshvvec.supabase.co/storage/v1/object/public/updates/Promptr-Studio-Pro328-325.delta" sparkle:deltaFrom="325" length="2959586" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="980432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="NylpPBqcG2ArHeto/iuhXBUvDRFdrBBuJrkZw3VGRXToVE3y9UMYk0ddxy4vYFkU/u4JWaRmVK4WygV0g345Cw=="/>
+                <enclosure url="https://nxhbdyouzaznncshvvec.supabase.co/storage/v1/object/public/updates/Promptr-Studio-Pro328-322.delta" sparkle:deltaFrom="322" length="4166730" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="980432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="Xz4VZge7cPtD5maLzf4ySaB1kSnKwJZ4ZTWFQFrOQKNVpbT/+Fxg4xNLOCBEBStHYYk3Vh3pO15+rYCUZ+R0Dg=="/>
+                <enclosure url="https://nxhbdyouzaznncshvvec.supabase.co/storage/v1/object/public/updates/Promptr-Studio-Pro328-316.delta" sparkle:deltaFrom="316" length="4777978" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="980432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="0YKQLM88muJeu3Cle87q5IxcBnK42T+Rqt5pJMPfHL87LBa93LOxNChzdDc75rM2oiwTBThtnTZ4UWVKF/ehAw=="/>
+                <enclosure url="https://nxhbdyouzaznncshvvec.supabase.co/storage/v1/object/public/updates/Promptr-Studio-Pro328-312.delta" sparkle:deltaFrom="312" length="4815590" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="980432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="Wwcj2qqu/zdQ97qlTYAXQkafaYs4f6JXK5i9v6k15RvQBlV6K7W6y2pbeDbxRMKSA8uDsCvLtSo41FGcs+xACw=="/>
+                <enclosure url="https://nxhbdyouzaznncshvvec.supabase.co/storage/v1/object/public/updates/Promptr-Studio-Pro328-304.delta" sparkle:deltaFrom="304" length="4879102" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="980432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="Ygwurq5YEZwrY26iyRWHd7srr4obrawy3P+aU3HZq1aAInjeAmsBOQyDhmm2xJGNII9ylbibkMPg2vAB/dUWCA=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>5.43</title>
-            <pubDate>Tue, 25 Aug 2026 10:03:18 +0000</pubDate>
+            <pubDate>Tue, 25 Aug 2026 10:36:18 +0000</pubDate>
             <sparkle:version>325</sparkle:version>
             <sparkle:shortVersionString>5.43</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
@@ -17,17 +37,10 @@
 </ul>
 ]]></description>
             <enclosure url="https://nxhbdyouzaznncshvvec.supabase.co/storage/v1/object/public/updates/Promptr-Studio-Pro-5.43-325.zip" length="21427106" type="application/octet-stream" sparkle:edSignature="w53Kzv5M9+DerI8ZpHuJsV9foiV3QgMlv5pq90EJoaCoDqETOCjFFDxLLE+K0jA1OM7UczwRNRYDjqT/QzlZAQ=="/>
-            <sparkle:deltas>
-                <enclosure url="https://nxhbdyouzaznncshvvec.supabase.co/storage/v1/object/public/updates/Promptr-Studio-Pro325-322.delta" sparkle:deltaFrom="322" length="4066690" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="980432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="TlN0F4Uhbm76aIDoEBOpVr2hBZ9bE0dEaaQbC1Lw0jIO2q5DgbmIeaxEfO1OKQETsj6RSBW381OZhz90mKgZAg=="/>
-                <enclosure url="https://nxhbdyouzaznncshvvec.supabase.co/storage/v1/object/public/updates/Promptr-Studio-Pro325-316.delta" sparkle:deltaFrom="316" length="4731562" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="980432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="/5FdX4nG1nrHJjA4tgIbZGuczRGvtPIFT4hoJKtbd6xSQZB0N4swZpCbpEE8+/Kq3C+EF4Yzf8DEuyURxJBuBw=="/>
-                <enclosure url="https://nxhbdyouzaznncshvvec.supabase.co/storage/v1/object/public/updates/Promptr-Studio-Pro325-312.delta" sparkle:deltaFrom="312" length="4766170" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="980432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="0x4JG7q7nCi390RXRj47O+FQ7LL3huG3zVIZEY0b4DbUMO1si9m2zVlRPoJ7NoAggswc4fPKo6xYQ/y3Vb9vAw=="/>
-                <enclosure url="https://nxhbdyouzaznncshvvec.supabase.co/storage/v1/object/public/updates/Promptr-Studio-Pro325-304.delta" sparkle:deltaFrom="304" length="4811538" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="980432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="8Q3v9cls8MrCDjV5ruP8M9dMGyv+c/gie/MIFTxA6J5YWJ3BtBUt2IVKoiZQSbk1LSDW22yyXgfbQskWgGb8Bg=="/>
-                <enclosure url="https://nxhbdyouzaznncshvvec.supabase.co/storage/v1/object/public/updates/Promptr-Studio-Pro325-301.delta" sparkle:deltaFrom="301" length="4817302" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="980432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="lQ2zPK9uy7QN94fnfOJNLrCcUbg1glIDCrkvowIja9/7wxAq47gIxtJBZ96vOIYzZJE0U97V2q9nku+EsS28DA=="/>
-            </sparkle:deltas>
         </item>
         <item>
             <title>5.42</title>
-            <pubDate>Tue, 25 Aug 2026 10:03:17 +0000</pubDate>
+            <pubDate>Tue, 25 Aug 2026 10:36:18 +0000</pubDate>
             <sparkle:version>322</sparkle:version>
             <sparkle:shortVersionString>5.42</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
@@ -39,20 +52,6 @@
 </ul>
 ]]></description>
             <enclosure url="https://nxhbdyouzaznncshvvec.supabase.co/storage/v1/object/public/updates/Promptr-Studio-Pro-5.42-322.zip" length="21199083" type="application/octet-stream" sparkle:edSignature="WFz0k8DsiDL3og8HI6ync8oA4jeC5lDAHGn7avfngtYWEAT81ME8EOleAAJSBrf2jI6MJxM6nHLEDmqfKS4AAw=="/>
-        </item>
-        <item>
-            <title>5.41</title>
-            <pubDate>Tue, 25 Aug 2026 10:03:17 +0000</pubDate>
-            <sparkle:version>316</sparkle:version>
-            <sparkle:shortVersionString>5.41</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2 style="font:600 15px -apple-system;margin:0 0 6px">Promptr Studio Pro 5.41</h2>
-<ul style="font:13px -apple-system;margin:0;padding-left:18px">
-<li><b>🎞️ Neu: FLUX Video Upscaler.</b> Videos bis 4K hochskalieren, angetrieben von FLUX 3 — im Enhance-Modus unter „FLUX Video". Zwei Modi: <b>Precise</b> bewahrt die Quelle exakt (Gesichter, Produkte), <b>Creative</b> ergänzt feine Details (generiertes Material, Texturen). Faktor frei wählbar von 1,5&times; bis 3&times;, im Creative-Modus lenkt ein optionaler Prompt die Details. Quelle: MP4 bis 20 Sekunden und 2560&times;1440; die Tonspur bleibt erhalten. Abgerechnet wird fair nach der tatsächlichen Output-Größe — der Preis steht wie immer vorab am Knopf.</li>
-<li><b>🪄 Aufgeräumter Enhancer.</b> Die Werkzeugwahl ist jetzt nach Anbieter sortiert wie bei den Video- und Bild-Modellen: Magnific und FLUX als Gruppen im Menü statt einer immer länger werdenden Knopfreihe.</li>
-</ul>
-]]></description>
-            <enclosure url="https://nxhbdyouzaznncshvvec.supabase.co/storage/v1/object/public/updates/Promptr-Studio-Pro-5.41-316.zip" length="20827823" type="application/octet-stream" sparkle:edSignature="ElrGbAMVLgWxfqKniZISFe0oiTliONCfMVmndjNmrOA4yi0bsGns6Xly4NX+MqgKNS4botB69soDm8qMHHvaAQ=="/>
         </item>
     </channel>
 </rss>

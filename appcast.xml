@@ -3,8 +3,29 @@
     <channel>
         <title>Promptr Studio Pro</title>
         <item>
+            <title>5.47</title>
+            <pubDate>Wed, 26 Aug 2026 13:46:34 +0000</pubDate>
+            <sparkle:version>337</sparkle:version>
+            <sparkle:shortVersionString>5.47</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h2 style="font:600 15px -apple-system;margin:0 0 6px">Promptr Studio Pro 5.47</h2>
+<ul style="font:13px -apple-system;margin:0;padding-left:18px">
+<li><b>🎬 Neu: DaVinci Resolve Integration.</b> Promptr Studio Pro bringt jetzt ein Workflow-Plugin für DaVinci Resolve Studio mit. Ein Klick in den Einstellungen installiert es, danach steuerst du den Composer direkt aus Resolve: Prompt und Einstellungen ändern, Referenzen aus der Timeline anhängen, den Preis in Credits sehen und generieren. Die fertigen Clips landen auf deiner Arbeits-Timeline. Auch der Kreativ-Agent ist von dort erreichbar, samt Freigaben.</li>
+<li><b>💳 Preis vor dem Start, auch aus Resolve.</b> Jede Anfrage aus dem Plugin zeigt denselben Credit-Preis wie der Generieren-Knopf in der App, und dieselben Regeln gelten: Ohne aktives Abo oder ausreichendes Guthaben startet kein Auftrag, die App erklärt den Grund.</li>
+</ul>
+]]></description>
+            <enclosure url="https://nxhbdyouzaznncshvvec.supabase.co/storage/v1/object/public/updates/Promptr-Studio-Pro-5.47-337.zip" length="22132580" type="application/octet-stream" sparkle:edSignature="j9KKHliuVSJTSOW+IrZbM2lWoyzQPUSXIcfCVR8jFN3QKwtJexkBKh4tYwiKl0ltTwMk3W8Vlsmce9NJhdBcDg=="/>
+            <sparkle:deltas>
+                <enclosure url="https://nxhbdyouzaznncshvvec.supabase.co/storage/v1/object/public/updates/Promptr-Studio-Pro337-334.delta" sparkle:deltaFrom="334" length="4905626" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="980432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="cRhs6ESw7Qti++kP8z5xCRjwes86nrIRzZJ7Ik/R9g20Ej1HsKiWK/fFNUVgXXzMLb+3B3LHCLwYUppS1p/8Bw=="/>
+                <enclosure url="https://nxhbdyouzaznncshvvec.supabase.co/storage/v1/object/public/updates/Promptr-Studio-Pro337-331.delta" sparkle:deltaFrom="331" length="4888990" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="980432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="7Fy9tFz+XBv+WrBg19mB0DwFtEMxan2HkUSWmMBU89e0bd0kkRx2JmwT0A3rUHiLhSpB32saGUrKB0/Qec5XBA=="/>
+                <enclosure url="https://nxhbdyouzaznncshvvec.supabase.co/storage/v1/object/public/updates/Promptr-Studio-Pro337-328.delta" sparkle:deltaFrom="328" length="5119982" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="980432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="YeEdnLL0moHyd4YNeUqyQmKEkddBcYQynR4DW9Aob7Cl3xLmVElolBCzoulToxNhzUKN+kc+xvNMBQoywOTkCQ=="/>
+                <enclosure url="https://nxhbdyouzaznncshvvec.supabase.co/storage/v1/object/public/updates/Promptr-Studio-Pro337-325.delta" sparkle:deltaFrom="325" length="5162794" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="980432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="emHpeffgl8ZiPr7AUuxOjyJms/C22UP2BUoAvJqgJS4nJc9NLkHYd/fzJHidoxjjl1o/52HuAugiPbwS9fAiAg=="/>
+                <enclosure url="https://nxhbdyouzaznncshvvec.supabase.co/storage/v1/object/public/updates/Promptr-Studio-Pro337-322.delta" sparkle:deltaFrom="322" length="5612678" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="980432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="3s/UlQGQVgsEubVQgHMUoREzZXOuTT3iTJkT/4EKwi1RuFJ2Z8uFiyqOnqoUhkQ0Vy0y4F1UD79ZrwaAuXhXAQ=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>5.46</title>
-            <pubDate>Tue, 25 Aug 2026 16:45:36 +0000</pubDate>
+            <pubDate>Wed, 26 Aug 2026 13:46:32 +0000</pubDate>
             <sparkle:version>334</sparkle:version>
             <sparkle:shortVersionString>5.46</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
@@ -14,17 +35,10 @@
 </ul>
 ]]></description>
             <enclosure url="https://nxhbdyouzaznncshvvec.supabase.co/storage/v1/object/public/updates/Promptr-Studio-Pro-5.46-334.zip" length="21489380" type="application/octet-stream" sparkle:edSignature="2dZm+k3BJRtBVtf65QPsl1tyEd2cqueJ7ueapy9aYeAMRgBmNuMhBdVPBh/hw709qTrxKMmi25u6P5e7hGTzBQ=="/>
-            <sparkle:deltas>
-                <enclosure url="https://nxhbdyouzaznncshvvec.supabase.co/storage/v1/object/public/updates/Promptr-Studio-Pro334-331.delta" sparkle:deltaFrom="331" length="2427826" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="980432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="/aBZ/71Vp06L70c1fEiiJsCpFjrglhOtNvb2Az0x6XncSc3bE7QvbhJ5QcTeXuCpZU8ScSckfGMgFmJfI3hHBA=="/>
-                <enclosure url="https://nxhbdyouzaznncshvvec.supabase.co/storage/v1/object/public/updates/Promptr-Studio-Pro334-328.delta" sparkle:deltaFrom="328" length="3533842" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="980432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="+nH3vQKEgaudhIlVJgvRM9K6tW/PAly1zyK/zWll14KKr1Y01amB+d1OmkqANctwaSQBBTF0ho0HphV1VoYYDA=="/>
-                <enclosure url="https://nxhbdyouzaznncshvvec.supabase.co/storage/v1/object/public/updates/Promptr-Studio-Pro334-325.delta" sparkle:deltaFrom="325" length="3585662" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="980432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="jPKnV50A12amk0bi+GVjLYkjVpLBX4pha/Pu0zlWmHTAkVrdILuLdZeMkv2tm0akYm44ibhL0aDBw3W0lt2OAA=="/>
-                <enclosure url="https://nxhbdyouzaznncshvvec.supabase.co/storage/v1/object/public/updates/Promptr-Studio-Pro334-322.delta" sparkle:deltaFrom="322" length="4500222" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="980432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="RYamJhfsNts+NY+2Aq0WzaJ1T7nai4GzJPzRQSH5jlg2aPc2gnmwWOc/WTt4Z2HtJatIUZY8wH5wx206jMeHBg=="/>
-                <enclosure url="https://nxhbdyouzaznncshvvec.supabase.co/storage/v1/object/public/updates/Promptr-Studio-Pro334-316.delta" sparkle:deltaFrom="316" length="5071994" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="980432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="HaL2ZW0MotScLx9T7JRDFpSt2Syo6UUKMC8T2dwqolmvqyRhdi1lhnNud54QLOk9UJGVAv/ZrjXqaDveZneLAQ=="/>
-            </sparkle:deltas>
         </item>
         <item>
             <title>5.45</title>
-            <pubDate>Tue, 25 Aug 2026 16:45:35 +0000</pubDate>
+            <pubDate>Wed, 26 Aug 2026 13:46:32 +0000</pubDate>
             <sparkle:version>331</sparkle:version>
             <sparkle:shortVersionString>5.45</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
@@ -38,19 +52,6 @@
 </ul>
 ]]></description>
             <enclosure url="https://nxhbdyouzaznncshvvec.supabase.co/storage/v1/object/public/updates/Promptr-Studio-Pro-5.45-331.zip" length="21489735" type="application/octet-stream" sparkle:edSignature="hPpRTDGUyzGzGEGzETpbFtAPZHfV3AhqAUoenOoYII8ruwmR/vd/J3C820Ep+AVvCMCTFadtQOScrJ9gk09fAg=="/>
-        </item>
-        <item>
-            <title>5.44</title>
-            <pubDate>Tue, 25 Aug 2026 16:45:34 +0000</pubDate>
-            <sparkle:version>328</sparkle:version>
-            <sparkle:shortVersionString>5.44</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2 style="font:600 15px -apple-system;margin:0 0 6px">Promptr Studio Pro 5.44</h2>
-<ul style="font:13px -apple-system;margin:0;padding-left:18px">
-<li><b>☁️ Cloud-Ordner verhalten sich jetzt richtig.</b> Wer Ordner eines Cloud-Projekts direkt im Finder löscht oder umbenennt, sieht das Ergebnis jetzt dauerhaft und bei allen Mitgliedern: Gelöschte Ordner kommen nicht mehr beim nächsten Sync zurück, und eine Umbenennung hinterlässt keinen doppelten Ordner mehr. Sicherheitsnetz inklusive: Ein kurzzeitig nicht erreichbares Laufwerk kann niemals eine Löschung auslösen.</li>
-</ul>
-]]></description>
-            <enclosure url="https://nxhbdyouzaznncshvvec.supabase.co/storage/v1/object/public/updates/Promptr-Studio-Pro-5.44-328.zip" length="21434358" type="application/octet-stream" sparkle:edSignature="vnuk2H0GWHwdv9qyQI8DObnoZDQ1vKqfADrx7SpfC4FqztR/LHMilMhhHtfBDGuJn9hYc6misqo7m+wRooo1AQ=="/>
         </item>
     </channel>
 </rss>

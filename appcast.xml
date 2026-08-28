@@ -3,8 +3,29 @@
     <channel>
         <title>Promptr Studio Pro</title>
         <item>
+            <title>5.50</title>
+            <pubDate>Fri, 28 Aug 2026 15:21:00 +0000</pubDate>
+            <sparkle:version>340</sparkle:version>
+            <sparkle:shortVersionString>5.50</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h2 style="font:600 15px -apple-system;margin:0 0 6px">Promptr Studio Pro 5.50</h2>
+<ul style="font:13px -apple-system;margin:0;padding-left:18px">
+<li><b>🎬 Referenzvideos für Omni Flash 1.1 werden nicht mehr nach Seedance-Regeln geprüft.</b> Omni lief bisher durch die Prüfungen von Seedance: Mindestlänge, Bildraten-Grenzen und ein automatisches Kürzen auf 14 Sekunden. Das sind Vorgaben von Seedance, nicht von Omni — dein Quellvideo wurde also unnötig abgewiesen oder still gekürzt. Jetzt geht es unverändert an Omni, und die Länge des Ergebnisses kommt wie vorgesehen aus deinem Video.</li>
+<li><b>🎚️ Keine Audio-Referenzen mehr bei Omni.</b> Omni Flash 1.1 nimmt Bilder und Videos, keinen Ton. Das Feld für Referenz-Audio erschien trotzdem und hätte zu einem abgelehnten Auftrag geführt.</li>
+</ul>
+]]></description>
+            <enclosure url="https://nxhbdyouzaznncshvvec.supabase.co/storage/v1/object/public/updates/Promptr-Studio-Pro-5.50-340.zip" length="23069466" type="application/octet-stream" sparkle:edSignature="hs01OVxEOA0MnAfyNACgCMzK4iydXIWKjjwa8ePPunKBwrK9ERiBavkAK9tkssVmAbfKL9Aly+s9L+KOSDNsBA=="/>
+            <sparkle:deltas>
+                <enclosure url="https://nxhbdyouzaznncshvvec.supabase.co/storage/v1/object/public/updates/Promptr-Studio-Pro340-339.delta" sparkle:deltaFrom="339" length="2634902" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="980432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="rB3XhObs8IH+upSvlEhKIUKmMlemC28aorQscubyJYLdrUwUw53tjxaNGTjUnj6dprRQarDkgevwUaCD3TSHCQ=="/>
+                <enclosure url="https://nxhbdyouzaznncshvvec.supabase.co/storage/v1/object/public/updates/Promptr-Studio-Pro340-338.delta" sparkle:deltaFrom="338" length="2784854" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="980432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="3eDs4xP+VVIN1y27hjHoT8qarem6ynDmzxO10f5bIxBNcTOqNHHQB1h2ftQZ+HcC0qUKn2PLHB162jOF1i5qBA=="/>
+                <enclosure url="https://nxhbdyouzaznncshvvec.supabase.co/storage/v1/object/public/updates/Promptr-Studio-Pro340-337.delta" sparkle:deltaFrom="337" length="5093370" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="980432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="TmxbZ7buhbh9Hr5aP0iHOrXpMUJlKYW/61PPqS8Drjjcutq5BazRvwwwKRnvqNTzzzP3DzHuPbUEj33vG0wcBQ=="/>
+                <enclosure url="https://nxhbdyouzaznncshvvec.supabase.co/storage/v1/object/public/updates/Promptr-Studio-Pro340-334.delta" sparkle:deltaFrom="334" length="6090986" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="980432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="KBANcOF305G7+KBmD/6dBJdPzlP5NPIeKesE6LcI03RKNCGxqjIfyO6LtLQw4sZV5MRsMMqHVeGV8DtQmqIvCA=="/>
+                <enclosure url="https://nxhbdyouzaznncshvvec.supabase.co/storage/v1/object/public/updates/Promptr-Studio-Pro340-331.delta" sparkle:deltaFrom="331" length="6132638" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="980432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="tORgtIARFfj5yAbzGLQRxJrpQrM6QRR5eD1r/gU92DfAiZLuJJEeWKhRIcOiNEzaSiLDO5Wc590RcFqc6vNrDw=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>5.49</title>
-            <pubDate>Fri, 28 Aug 2026 14:49:41 +0000</pubDate>
+            <pubDate>Fri, 28 Aug 2026 15:20:59 +0000</pubDate>
             <sparkle:version>339</sparkle:version>
             <sparkle:shortVersionString>5.49</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
@@ -15,17 +36,10 @@
 </ul>
 ]]></description>
             <enclosure url="https://nxhbdyouzaznncshvvec.supabase.co/storage/v1/object/public/updates/Promptr-Studio-Pro-5.49-339.zip" length="23062437" type="application/octet-stream" sparkle:edSignature="/Ak3BTB6bGI7Vegcv88RJKVArr5rCj+p6qLDtEUOGXM92/nGWtqyPpV+T9JoiN6NeKMjETyG8ij5QfnE6zkPDA=="/>
-            <sparkle:deltas>
-                <enclosure url="https://nxhbdyouzaznncshvvec.supabase.co/storage/v1/object/public/updates/Promptr-Studio-Pro339-338.delta" sparkle:deltaFrom="338" length="1972810" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="980432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="ZTpYrF4wjHI637D5xRS9POgp6xIdu1ywGJt1Z5I/kPEfbd1FUJxjSa6sacBUdQAHm239tutvKcZpnUN//vUUDg=="/>
-                <enclosure url="https://nxhbdyouzaznncshvvec.supabase.co/storage/v1/object/public/updates/Promptr-Studio-Pro339-337.delta" sparkle:deltaFrom="337" length="5056590" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="980432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="7Xc6vt713jMXL4DaTbXs61U5FzN8ecIvoVe8Z2PVzXLzegqJ9Of12FxXK7uPS7aPj+p0oBRz0PCJ0t6TN6d2CA=="/>
-                <enclosure url="https://nxhbdyouzaznncshvvec.supabase.co/storage/v1/object/public/updates/Promptr-Studio-Pro339-334.delta" sparkle:deltaFrom="334" length="6111150" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="980432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="6svN17hOtFxUEj8Yq6Z4MpsIQ18krchzwgTVYQXAb6WqE3E3Sa+mQOnuiBwopE8oJgCNRJUiT1tstQ9uQJ4ZAQ=="/>
-                <enclosure url="https://nxhbdyouzaznncshvvec.supabase.co/storage/v1/object/public/updates/Promptr-Studio-Pro339-331.delta" sparkle:deltaFrom="331" length="6033342" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="980432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="Ol3jeGUr7tWyYcwbOqLtG2i7fpWp6SAp5FpC7y2Ck0xsdWkwDWkCX+A8J1qdnVEPmlwdRDkVCk7q8tZtL/GODA=="/>
-                <enclosure url="https://nxhbdyouzaznncshvvec.supabase.co/storage/v1/object/public/updates/Promptr-Studio-Pro339-328.delta" sparkle:deltaFrom="328" length="6311890" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="980432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="xeuq7qxJIaz9GgPWqbmS/8HFTpz7+1IesriSvgCOYknQaH1V5983QF/CsszC9emcMLFhi4z8CY4ZC9irAPmUCQ=="/>
-            </sparkle:deltas>
         </item>
         <item>
             <title>5.48</title>
-            <pubDate>Fri, 28 Aug 2026 14:49:40 +0000</pubDate>
+            <pubDate>Fri, 28 Aug 2026 15:20:59 +0000</pubDate>
             <sparkle:version>338</sparkle:version>
             <sparkle:shortVersionString>5.48</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
@@ -38,20 +52,6 @@
 </ul>
 ]]></description>
             <enclosure url="https://nxhbdyouzaznncshvvec.supabase.co/storage/v1/object/public/updates/Promptr-Studio-Pro-5.48-338.zip" length="23060449" type="application/octet-stream" sparkle:edSignature="sFiW9GtO1NfaKqdCMFFZmk2uqNwdmH+JKjrACDUVLHFkj6cOq7M2ZX+KTU35OXYW/259sHLWTsQE6Bx+hquuAQ=="/>
-        </item>
-        <item>
-            <title>5.47</title>
-            <pubDate>Fri, 28 Aug 2026 14:49:40 +0000</pubDate>
-            <sparkle:version>337</sparkle:version>
-            <sparkle:shortVersionString>5.47</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2 style="font:600 15px -apple-system;margin:0 0 6px">Promptr Studio Pro 5.47</h2>
-<ul style="font:13px -apple-system;margin:0;padding-left:18px">
-<li><b>🎬 Neu: DaVinci Resolve Integration.</b> Promptr Studio Pro bringt jetzt ein Workflow-Plugin für DaVinci Resolve Studio mit. Ein Klick in den Einstellungen installiert es, danach steuerst du den Composer direkt aus Resolve: Prompt und Einstellungen ändern, Referenzen aus der Timeline anhängen, den Preis in Credits sehen und generieren. Die fertigen Clips landen auf deiner Arbeits-Timeline. Auch der Kreativ-Agent ist von dort erreichbar, samt Freigaben.</li>
-<li><b>💳 Preis vor dem Start, auch aus Resolve.</b> Jede Anfrage aus dem Plugin zeigt denselben Credit-Preis wie der Generieren-Knopf in der App, und dieselben Regeln gelten: Ohne aktives Abo oder ausreichendes Guthaben startet kein Auftrag, die App erklärt den Grund.</li>
-</ul>
-]]></description>
-            <enclosure url="https://nxhbdyouzaznncshvvec.supabase.co/storage/v1/object/public/updates/Promptr-Studio-Pro-5.47-337.zip" length="22132580" type="application/octet-stream" sparkle:edSignature="j9KKHliuVSJTSOW+IrZbM2lWoyzQPUSXIcfCVR8jFN3QKwtJexkBKh4tYwiKl0ltTwMk3W8Vlsmce9NJhdBcDg=="/>
         </item>
     </channel>
 </rss>

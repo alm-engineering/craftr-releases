@@ -3,8 +3,29 @@
     <channel>
         <title>Promptr Studio Pro</title>
         <item>
+            <title>5.49</title>
+            <pubDate>Fri, 28 Aug 2026 14:49:41 +0000</pubDate>
+            <sparkle:version>339</sparkle:version>
+            <sparkle:shortVersionString>5.49</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h2 style="font:600 15px -apple-system;margin:0 0 6px">Promptr Studio Pro 5.49</h2>
+<ul style="font:13px -apple-system;margin:0;padding-left:18px">
+<li><b>🎞️ Referenzvideos mit 24p lassen sich wieder anhängen.</b> Echtes 24p hat 23,976 Bilder pro Sekunde, nicht genau 24. Die Prüfung verglich exakt und lehnte solche Clips ab — die Meldung rundete den Wert aber auf 24 und behauptete damit, ein 24-fps-Video habe nicht zwischen 24 und 60 fps. Jetzt gehen 23,976, 29,97 und 59,94 durch, und wenn eine Bildrate wirklich außerhalb liegt, nennt die Meldung den echten Wert statt eines gerundeten.</li>
+<li><b>💶 Preis im Bearbeiten-Modus von Omni Flash 1.1 korrigiert.</b> Wer ein vorhandenes Video weiterdreht, sah bisher den Preis für die maximal mögliche Länge statt für sein Quellvideo. Ein Sechs-Sekunden-Clip in 1080p kostet 1.212 Credits, nicht 12.120. Abgerechnet wurde immer korrekt nach der echten Länge; falsch war die Anzeige, und die Reservierung blockierte unnötig viel Guthaben.</li>
+</ul>
+]]></description>
+            <enclosure url="https://nxhbdyouzaznncshvvec.supabase.co/storage/v1/object/public/updates/Promptr-Studio-Pro-5.49-339.zip" length="23062437" type="application/octet-stream" sparkle:edSignature="/Ak3BTB6bGI7Vegcv88RJKVArr5rCj+p6qLDtEUOGXM92/nGWtqyPpV+T9JoiN6NeKMjETyG8ij5QfnE6zkPDA=="/>
+            <sparkle:deltas>
+                <enclosure url="https://nxhbdyouzaznncshvvec.supabase.co/storage/v1/object/public/updates/Promptr-Studio-Pro339-338.delta" sparkle:deltaFrom="338" length="1972810" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="980432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="ZTpYrF4wjHI637D5xRS9POgp6xIdu1ywGJt1Z5I/kPEfbd1FUJxjSa6sacBUdQAHm239tutvKcZpnUN//vUUDg=="/>
+                <enclosure url="https://nxhbdyouzaznncshvvec.supabase.co/storage/v1/object/public/updates/Promptr-Studio-Pro339-337.delta" sparkle:deltaFrom="337" length="5056590" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="980432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="7Xc6vt713jMXL4DaTbXs61U5FzN8ecIvoVe8Z2PVzXLzegqJ9Of12FxXK7uPS7aPj+p0oBRz0PCJ0t6TN6d2CA=="/>
+                <enclosure url="https://nxhbdyouzaznncshvvec.supabase.co/storage/v1/object/public/updates/Promptr-Studio-Pro339-334.delta" sparkle:deltaFrom="334" length="6111150" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="980432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="6svN17hOtFxUEj8Yq6Z4MpsIQ18krchzwgTVYQXAb6WqE3E3Sa+mQOnuiBwopE8oJgCNRJUiT1tstQ9uQJ4ZAQ=="/>
+                <enclosure url="https://nxhbdyouzaznncshvvec.supabase.co/storage/v1/object/public/updates/Promptr-Studio-Pro339-331.delta" sparkle:deltaFrom="331" length="6033342" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="980432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="Ol3jeGUr7tWyYcwbOqLtG2i7fpWp6SAp5FpC7y2Ck0xsdWkwDWkCX+A8J1qdnVEPmlwdRDkVCk7q8tZtL/GODA=="/>
+                <enclosure url="https://nxhbdyouzaznncshvvec.supabase.co/storage/v1/object/public/updates/Promptr-Studio-Pro339-328.delta" sparkle:deltaFrom="328" length="6311890" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="980432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="xeuq7qxJIaz9GgPWqbmS/8HFTpz7+1IesriSvgCOYknQaH1V5983QF/CsszC9emcMLFhi4z8CY4ZC9irAPmUCQ=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>5.48</title>
-            <pubDate>Fri, 28 Aug 2026 12:57:26 +0000</pubDate>
+            <pubDate>Fri, 28 Aug 2026 14:49:40 +0000</pubDate>
             <sparkle:version>338</sparkle:version>
             <sparkle:shortVersionString>5.48</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
@@ -17,17 +38,10 @@
 </ul>
 ]]></description>
             <enclosure url="https://nxhbdyouzaznncshvvec.supabase.co/storage/v1/object/public/updates/Promptr-Studio-Pro-5.48-338.zip" length="23060449" type="application/octet-stream" sparkle:edSignature="sFiW9GtO1NfaKqdCMFFZmk2uqNwdmH+JKjrACDUVLHFkj6cOq7M2ZX+KTU35OXYW/259sHLWTsQE6Bx+hquuAQ=="/>
-            <sparkle:deltas>
-                <enclosure url="https://nxhbdyouzaznncshvvec.supabase.co/storage/v1/object/public/updates/Promptr-Studio-Pro338-337.delta" sparkle:deltaFrom="337" length="5014442" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="980432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="DctjeJSqiIjumrx3FoCEZe6uaf6jizKBFFWRWDqGnvUVYe3yHDkeXBnlqskraPBg8+tjIEhaVMbd9oyKznIuAQ=="/>
-                <enclosure url="https://nxhbdyouzaznncshvvec.supabase.co/storage/v1/object/public/updates/Promptr-Studio-Pro338-334.delta" sparkle:deltaFrom="334" length="6113710" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="980432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="WIi0xC97IsMIEXMfBcspwr5u88iU9Gk3Ob2DcrLPOXfe5SbxDIKBLc7NeCxgr/bceXJrmmuPbXGFhuUm8GoyBQ=="/>
-                <enclosure url="https://nxhbdyouzaznncshvvec.supabase.co/storage/v1/object/public/updates/Promptr-Studio-Pro338-331.delta" sparkle:deltaFrom="331" length="6070302" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="980432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="jkbJjRy9Y/vNOj3Aw5zIvY/Y/i1ryOTWG2IGtBwHtlrfVePfkkDAz0lkZxWOmlGtVYM8qQOzW3spwifemNmfCA=="/>
-                <enclosure url="https://nxhbdyouzaznncshvvec.supabase.co/storage/v1/object/public/updates/Promptr-Studio-Pro338-328.delta" sparkle:deltaFrom="328" length="6330042" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="980432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="xvqGJ2ay8MmEzFd1k00NSeXFqyLneZ6hPZh31PhgtsvhPy1t6MiD2JoklIfJ94Ruf0CnhwcguVc9Gg6jb8ltBw=="/>
-                <enclosure url="https://nxhbdyouzaznncshvvec.supabase.co/storage/v1/object/public/updates/Promptr-Studio-Pro338-325.delta" sparkle:deltaFrom="325" length="6361126" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="980432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="sPcbwyLfz5iC7xrLWPfoz5gKenOJ06miKhSee23fCr8v1XLk9tUeIpEMMfrJykBioJRvbOoSv0ydEaA5uMaJBw=="/>
-            </sparkle:deltas>
         </item>
         <item>
             <title>5.47</title>
-            <pubDate>Fri, 28 Aug 2026 12:57:24 +0000</pubDate>
+            <pubDate>Fri, 28 Aug 2026 14:49:40 +0000</pubDate>
             <sparkle:version>337</sparkle:version>
             <sparkle:shortVersionString>5.47</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
@@ -38,19 +52,6 @@
 </ul>
 ]]></description>
             <enclosure url="https://nxhbdyouzaznncshvvec.supabase.co/storage/v1/object/public/updates/Promptr-Studio-Pro-5.47-337.zip" length="22132580" type="application/octet-stream" sparkle:edSignature="j9KKHliuVSJTSOW+IrZbM2lWoyzQPUSXIcfCVR8jFN3QKwtJexkBKh4tYwiKl0ltTwMk3W8Vlsmce9NJhdBcDg=="/>
-        </item>
-        <item>
-            <title>5.46</title>
-            <pubDate>Fri, 28 Aug 2026 12:57:24 +0000</pubDate>
-            <sparkle:version>334</sparkle:version>
-            <sparkle:shortVersionString>5.46</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2 style="font:600 15px -apple-system;margin:0 0 6px">Promptr Studio Pro 5.46</h2>
-<ul style="font:13px -apple-system;margin:0;padding-left:18px">
-<li><b>📦 Drag in den Finder liefert jetzt die echte Datei.</b> Ein aus der Galerie oder der Großansicht gezogenes Asset kommt als exakte Kopie mit dem richtigen Dateinamen an, nicht mehr als internes Austauschformat. Bei Mehrfachauswahl bleibt das Ziehen wie bisher der App vorbehalten.</li>
-</ul>
-]]></description>
-            <enclosure url="https://nxhbdyouzaznncshvvec.supabase.co/storage/v1/object/public/updates/Promptr-Studio-Pro-5.46-334.zip" length="21489380" type="application/octet-stream" sparkle:edSignature="2dZm+k3BJRtBVtf65QPsl1tyEd2cqueJ7ueapy9aYeAMRgBmNuMhBdVPBh/hw709qTrxKMmi25u6P5e7hGTzBQ=="/>
         </item>
     </channel>
 </rss>

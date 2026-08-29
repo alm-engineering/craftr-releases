@@ -3,8 +3,28 @@
     <channel>
         <title>Promptr Studio Pro</title>
         <item>
+            <title>5.53</title>
+            <pubDate>Sat, 29 Aug 2026 08:56:12 +0000</pubDate>
+            <sparkle:version>344</sparkle:version>
+            <sparkle:shortVersionString>5.53</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h2 style="font:600 15px -apple-system;margin:0 0 6px">Promptr Studio Pro 5.53</h2>
+<ul style="font:13px -apple-system;margin:0;padding-left:18px">
+<li><b>🎛️ Das Resolve-Plugin übernimmt die Vorgaben der App.</b> Auflösung, Seitenverhältnis, Länge, Größe und Qualität sind im Plugin jetzt Auswahlmenüs mit genau den Werten, die das gewählte Modell in der App anbietet — statt Freitextfeldern, in die sich Ungültiges tippen ließ. Blendet die App ein Feld aus, etwa weil der Bearbeiten-Modus Format und Länge vom Quellvideo erbt, verschwindet es auch im Plugin. In den Einstellungen liegt die Plugin-Aktualisierung (0.8.0) bereit.</li>
+</ul>
+]]></description>
+            <enclosure url="https://nxhbdyouzaznncshvvec.supabase.co/storage/v1/object/public/updates/Promptr-Studio-Pro-5.53-344.zip" length="23111260" type="application/octet-stream" sparkle:edSignature="7J1mHxG22tM9eajv/0VVng/uGlA8ZxlX+p1eiiqt9gbPJZpQPl027Qtsiv7e0VNcTXhlKFWN4absXyMMF/NTAw=="/>
+            <sparkle:deltas>
+                <enclosure url="https://nxhbdyouzaznncshvvec.supabase.co/storage/v1/object/public/updates/Promptr-Studio-Pro344-342.delta" sparkle:deltaFrom="342" length="2441090" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="980432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="4hjdrb7mp1CndQEeAzSgGxMHOTO8n4jrO47ECAXToz8ymg/cZSnJoW/w8WjRX5kLFQV2m/mXr5OsAz7Rhs0cCQ=="/>
+                <enclosure url="https://nxhbdyouzaznncshvvec.supabase.co/storage/v1/object/public/updates/Promptr-Studio-Pro344-341.delta" sparkle:deltaFrom="341" length="3922042" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="980432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="kDi78aHYFnxgzIk+oWGA3TZoyzqvTkVtbhV15SvxkFMsG5zU8YCwAN1t9YodyZHluf8O/5zncgNTIW3owengAQ=="/>
+                <enclosure url="https://nxhbdyouzaznncshvvec.supabase.co/storage/v1/object/public/updates/Promptr-Studio-Pro344-340.delta" sparkle:deltaFrom="340" length="4090406" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="980432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="QuHl1mnHbx+/LXJnJ1JsFy0SxnY69PbB2Il8CS5DN9BGSwT4tJ6TRbBcbuZJ58C6E2itBIrvBa6W4pXqO201AQ=="/>
+                <enclosure url="https://nxhbdyouzaznncshvvec.supabase.co/storage/v1/object/public/updates/Promptr-Studio-Pro344-339.delta" sparkle:deltaFrom="339" length="4152550" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="980432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="uFJb2x2bnPIFQ345bgGGljSxeVJljpz9/44uVXgqNwcOvnhIzw64pF9jNAI1DdFYaanhYkNvW1w3CPwyu/C0Aw=="/>
+                <enclosure url="https://nxhbdyouzaznncshvvec.supabase.co/storage/v1/object/public/updates/Promptr-Studio-Pro344-338.delta" sparkle:deltaFrom="338" length="4182478" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="980432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="AviOuZ5CcwWKHEUVZ5aIH3GJaperDWD5aO9cylUfhInhOPCRxi01gbdZusWEPKwIJ+/1KeSZKqJQ6aXiRwKACA=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>5.52</title>
-            <pubDate>Sat, 29 Aug 2026 08:12:18 +0000</pubDate>
+            <pubDate>Sat, 29 Aug 2026 08:56:10 +0000</pubDate>
             <sparkle:version>342</sparkle:version>
             <sparkle:shortVersionString>5.52</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
@@ -15,17 +35,10 @@
 </ul>
 ]]></description>
             <enclosure url="https://nxhbdyouzaznncshvvec.supabase.co/storage/v1/object/public/updates/Promptr-Studio-Pro-5.52-342.zip" length="23107024" type="application/octet-stream" sparkle:edSignature="qaMMMcw7vFiYqYCSpyp9NFWYTz4FDHv3utj6sXLRYrBP3q/GGVPyJSg78+XQl0wZZLQ2RRjGk1G3eDNny5u2Aw=="/>
-            <sparkle:deltas>
-                <enclosure url="https://nxhbdyouzaznncshvvec.supabase.co/storage/v1/object/public/updates/Promptr-Studio-Pro342-341.delta" sparkle:deltaFrom="341" length="3821914" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="980432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="gfq6Wt4HHoi2/LvmfxXKhhn/Sj5W5V1mNMG6kSgIUL5/YZUVgiCgMEyrAkfyKbymeV1Y6cvc/w9NYtiixwDSBQ=="/>
-                <enclosure url="https://nxhbdyouzaznncshvvec.supabase.co/storage/v1/object/public/updates/Promptr-Studio-Pro342-340.delta" sparkle:deltaFrom="340" length="4023774" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="980432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="z6h1bywAhnkbpqc5m8WlI174eLxyRA7OeWAKXjIQLooCIwY4fUZfuIhxBkITaAnyuHfJfdWLEG0fVi99a9whBg=="/>
-                <enclosure url="https://nxhbdyouzaznncshvvec.supabase.co/storage/v1/object/public/updates/Promptr-Studio-Pro342-339.delta" sparkle:deltaFrom="339" length="4103370" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="980432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="HyYfnDPBoQSwQI5l3nad4oORgrqo9hSlU4MdXAzUfzHgbEUc6+jvZaiCoLpkU1l+yqXzhjlZzQvKAyGCk36HBg=="/>
-                <enclosure url="https://nxhbdyouzaznncshvvec.supabase.co/storage/v1/object/public/updates/Promptr-Studio-Pro342-338.delta" sparkle:deltaFrom="338" length="4086726" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="980432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="tzrUoDzantbCKkWFH+M1iQDOU1BXL06uLka4uSipacod7GJGm+HItc5I7K33GzlHdgUOooDOn5llMdKE2yZ3CA=="/>
-                <enclosure url="https://nxhbdyouzaznncshvvec.supabase.co/storage/v1/object/public/updates/Promptr-Studio-Pro342-337.delta" sparkle:deltaFrom="337" length="5427926" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="980432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="3NDGzbIJpCo3BwzK5nAfXjmH4bN6Qz6s4EPfUSFjG4ytz7hix8102mVMQRaiHL0dFb6LLRjTJ9gDkvBn034uBQ=="/>
-            </sparkle:deltas>
         </item>
         <item>
             <title>5.51</title>
-            <pubDate>Sat, 29 Aug 2026 08:12:18 +0000</pubDate>
+            <pubDate>Sat, 29 Aug 2026 08:56:10 +0000</pubDate>
             <sparkle:version>341</sparkle:version>
             <sparkle:shortVersionString>5.51</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
@@ -37,20 +50,6 @@
 </ul>
 ]]></description>
             <enclosure url="https://nxhbdyouzaznncshvvec.supabase.co/storage/v1/object/public/updates/Promptr-Studio-Pro-5.51-341.zip" length="23094347" type="application/octet-stream" sparkle:edSignature="1MPwpNxpyB45qbJxT6JPsCPFsosrs/PtHBSKLud3y2eiF+WRexSFaBN12Ty9TQlj2WBB7MOf8566bFUD6fqBAw=="/>
-        </item>
-        <item>
-            <title>5.50</title>
-            <pubDate>Sat, 29 Aug 2026 08:12:17 +0000</pubDate>
-            <sparkle:version>340</sparkle:version>
-            <sparkle:shortVersionString>5.50</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2 style="font:600 15px -apple-system;margin:0 0 6px">Promptr Studio Pro 5.50</h2>
-<ul style="font:13px -apple-system;margin:0;padding-left:18px">
-<li><b>🎬 Referenzvideos für Omni Flash 1.1 werden nicht mehr nach Seedance-Regeln geprüft.</b> Omni lief bisher durch die Prüfungen von Seedance: Mindestlänge, Bildraten-Grenzen und ein automatisches Kürzen auf 14 Sekunden. Das sind Vorgaben von Seedance, nicht von Omni — dein Quellvideo wurde also unnötig abgewiesen oder still gekürzt. Jetzt geht es unverändert an Omni, und die Länge des Ergebnisses kommt wie vorgesehen aus deinem Video.</li>
-<li><b>🎚️ Keine Audio-Referenzen mehr bei Omni.</b> Omni Flash 1.1 nimmt Bilder und Videos, keinen Ton. Das Feld für Referenz-Audio erschien trotzdem und hätte zu einem abgelehnten Auftrag geführt.</li>
-</ul>
-]]></description>
-            <enclosure url="https://nxhbdyouzaznncshvvec.supabase.co/storage/v1/object/public/updates/Promptr-Studio-Pro-5.50-340.zip" length="23069466" type="application/octet-stream" sparkle:edSignature="hs01OVxEOA0MnAfyNACgCMzK4iydXIWKjjwa8ePPunKBwrK9ERiBavkAK9tkssVmAbfKL9Aly+s9L+KOSDNsBA=="/>
         </item>
     </channel>
 </rss>

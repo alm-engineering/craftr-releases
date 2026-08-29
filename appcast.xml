@@ -3,8 +3,29 @@
     <channel>
         <title>Promptr Studio Pro</title>
         <item>
+            <title>5.52</title>
+            <pubDate>Sat, 29 Aug 2026 08:12:18 +0000</pubDate>
+            <sparkle:version>342</sparkle:version>
+            <sparkle:shortVersionString>5.52</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h2 style="font:600 15px -apple-system;margin:0 0 6px">Promptr Studio Pro 5.52</h2>
+<ul style="font:13px -apple-system;margin:0;padding-left:18px">
+<li><b>🔊 Stimmen vorhören.</b> In der Audio-Erzeugung kannst du jede ElevenLabs-Stimme jetzt anspielen, bevor du mit ihr generierst: die Stimmen-Auswahl ist ein Browser mit Play-Knopf je Stimme geworden. Das gilt auch für die Ziel-Stimme des Voice-Changers.</li>
+<li><b>🏷️ Modellnamen ohne Anbieter-Zusatz.</b> Die Modellauswahl zeigt nur noch den Namen des Modells. Wo der Anbieter wichtig ist, etwa bei den API-Schlüsseln in den Einstellungen, steht er weiterhin.</li>
+</ul>
+]]></description>
+            <enclosure url="https://nxhbdyouzaznncshvvec.supabase.co/storage/v1/object/public/updates/Promptr-Studio-Pro-5.52-342.zip" length="23107024" type="application/octet-stream" sparkle:edSignature="qaMMMcw7vFiYqYCSpyp9NFWYTz4FDHv3utj6sXLRYrBP3q/GGVPyJSg78+XQl0wZZLQ2RRjGk1G3eDNny5u2Aw=="/>
+            <sparkle:deltas>
+                <enclosure url="https://nxhbdyouzaznncshvvec.supabase.co/storage/v1/object/public/updates/Promptr-Studio-Pro342-341.delta" sparkle:deltaFrom="341" length="3821914" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="980432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="gfq6Wt4HHoi2/LvmfxXKhhn/Sj5W5V1mNMG6kSgIUL5/YZUVgiCgMEyrAkfyKbymeV1Y6cvc/w9NYtiixwDSBQ=="/>
+                <enclosure url="https://nxhbdyouzaznncshvvec.supabase.co/storage/v1/object/public/updates/Promptr-Studio-Pro342-340.delta" sparkle:deltaFrom="340" length="4023774" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="980432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="z6h1bywAhnkbpqc5m8WlI174eLxyRA7OeWAKXjIQLooCIwY4fUZfuIhxBkITaAnyuHfJfdWLEG0fVi99a9whBg=="/>
+                <enclosure url="https://nxhbdyouzaznncshvvec.supabase.co/storage/v1/object/public/updates/Promptr-Studio-Pro342-339.delta" sparkle:deltaFrom="339" length="4103370" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="980432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="HyYfnDPBoQSwQI5l3nad4oORgrqo9hSlU4MdXAzUfzHgbEUc6+jvZaiCoLpkU1l+yqXzhjlZzQvKAyGCk36HBg=="/>
+                <enclosure url="https://nxhbdyouzaznncshvvec.supabase.co/storage/v1/object/public/updates/Promptr-Studio-Pro342-338.delta" sparkle:deltaFrom="338" length="4086726" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="980432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="tzrUoDzantbCKkWFH+M1iQDOU1BXL06uLka4uSipacod7GJGm+HItc5I7K33GzlHdgUOooDOn5llMdKE2yZ3CA=="/>
+                <enclosure url="https://nxhbdyouzaznncshvvec.supabase.co/storage/v1/object/public/updates/Promptr-Studio-Pro342-337.delta" sparkle:deltaFrom="337" length="5427926" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="980432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="3NDGzbIJpCo3BwzK5nAfXjmH4bN6Qz6s4EPfUSFjG4ytz7hix8102mVMQRaiHL0dFb6LLRjTJ9gDkvBn034uBQ=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>5.51</title>
-            <pubDate>Sat, 29 Aug 2026 06:54:57 +0000</pubDate>
+            <pubDate>Sat, 29 Aug 2026 08:12:18 +0000</pubDate>
             <sparkle:version>341</sparkle:version>
             <sparkle:shortVersionString>5.51</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
@@ -16,17 +37,10 @@
 </ul>
 ]]></description>
             <enclosure url="https://nxhbdyouzaznncshvvec.supabase.co/storage/v1/object/public/updates/Promptr-Studio-Pro-5.51-341.zip" length="23094347" type="application/octet-stream" sparkle:edSignature="1MPwpNxpyB45qbJxT6JPsCPFsosrs/PtHBSKLud3y2eiF+WRexSFaBN12Ty9TQlj2WBB7MOf8566bFUD6fqBAw=="/>
-            <sparkle:deltas>
-                <enclosure url="https://nxhbdyouzaznncshvvec.supabase.co/storage/v1/object/public/updates/Promptr-Studio-Pro341-340.delta" sparkle:deltaFrom="340" length="3341822" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="980432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="mfqBP6yH3/i9DC/4wQqVp9FQB4WB11/A5cLfbf+AEudunpuBL+PnWTYPcWGotid64WwAIBufcW+/WpD8s2WICQ=="/>
-                <enclosure url="https://nxhbdyouzaznncshvvec.supabase.co/storage/v1/object/public/updates/Promptr-Studio-Pro341-339.delta" sparkle:deltaFrom="339" length="3515522" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="980432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="/AoIGE7tmQvNoy02vRDCJGP1nVUds4OLw2sq46OC4lV8wWF/vby/cWsqlqflbTVOWZ4WiTG8qiLrMimrUcJyDA=="/>
-                <enclosure url="https://nxhbdyouzaznncshvvec.supabase.co/storage/v1/object/public/updates/Promptr-Studio-Pro341-338.delta" sparkle:deltaFrom="338" length="3505650" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="980432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="dATqa8KvRrk4X00ckgO9dNWd9MFE1HycmHoFK77S3DkhbxX+UIZa2ov6xV60umWnnjONgZ/rIyCnmqkeVXKXCw=="/>
-                <enclosure url="https://nxhbdyouzaznncshvvec.supabase.co/storage/v1/object/public/updates/Promptr-Studio-Pro341-337.delta" sparkle:deltaFrom="337" length="5317282" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="980432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="Pz6IbAWG/ZPq2DwmeJQXcqyTeLAviVlriWy/iwzxfyXNn91YkLANunEZxepn9KGqddRVwfgRBIMsHGbjZohoAg=="/>
-                <enclosure url="https://nxhbdyouzaznncshvvec.supabase.co/storage/v1/object/public/updates/Promptr-Studio-Pro341-334.delta" sparkle:deltaFrom="334" length="6204986" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="980432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="wg0n8mqnGTQeDcyxGvyJxQxy20FvPrKDwbdxk4NJDRSLAEuBgpYf6kXFLVi28f0Ct/CuuJlV13JiwpIGiW0uCg=="/>
-            </sparkle:deltas>
         </item>
         <item>
             <title>5.50</title>
-            <pubDate>Sat, 29 Aug 2026 06:54:56 +0000</pubDate>
+            <pubDate>Sat, 29 Aug 2026 08:12:17 +0000</pubDate>
             <sparkle:version>340</sparkle:version>
             <sparkle:shortVersionString>5.50</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
@@ -37,20 +51,6 @@
 </ul>
 ]]></description>
             <enclosure url="https://nxhbdyouzaznncshvvec.supabase.co/storage/v1/object/public/updates/Promptr-Studio-Pro-5.50-340.zip" length="23069466" type="application/octet-stream" sparkle:edSignature="hs01OVxEOA0MnAfyNACgCMzK4iydXIWKjjwa8ePPunKBwrK9ERiBavkAK9tkssVmAbfKL9Aly+s9L+KOSDNsBA=="/>
-        </item>
-        <item>
-            <title>5.49</title>
-            <pubDate>Sat, 29 Aug 2026 06:54:56 +0000</pubDate>
-            <sparkle:version>339</sparkle:version>
-            <sparkle:shortVersionString>5.49</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2 style="font:600 15px -apple-system;margin:0 0 6px">Promptr Studio Pro 5.49</h2>
-<ul style="font:13px -apple-system;margin:0;padding-left:18px">
-<li><b>🎞️ Referenzvideos mit 24p lassen sich wieder anhängen.</b> Echtes 24p hat 23,976 Bilder pro Sekunde, nicht genau 24. Die Prüfung verglich exakt und lehnte solche Clips ab — die Meldung rundete den Wert aber auf 24 und behauptete damit, ein 24-fps-Video habe nicht zwischen 24 und 60 fps. Jetzt gehen 23,976, 29,97 und 59,94 durch, und wenn eine Bildrate wirklich außerhalb liegt, nennt die Meldung den echten Wert statt eines gerundeten.</li>
-<li><b>💶 Preis im Bearbeiten-Modus von Omni Flash 1.1 korrigiert.</b> Wer ein vorhandenes Video weiterdreht, sah bisher den Preis für die maximal mögliche Länge statt für sein Quellvideo. Ein Sechs-Sekunden-Clip in 1080p kostet 1.212 Credits, nicht 12.120. Abgerechnet wurde immer korrekt nach der echten Länge; falsch war die Anzeige, und die Reservierung blockierte unnötig viel Guthaben.</li>
-</ul>
-]]></description>
-            <enclosure url="https://nxhbdyouzaznncshvvec.supabase.co/storage/v1/object/public/updates/Promptr-Studio-Pro-5.49-339.zip" length="23062437" type="application/octet-stream" sparkle:edSignature="/Ak3BTB6bGI7Vegcv88RJKVArr5rCj+p6qLDtEUOGXM92/nGWtqyPpV+T9JoiN6NeKMjETyG8ij5QfnE6zkPDA=="/>
         </item>
     </channel>
 </rss>

@@ -3,8 +3,28 @@
     <channel>
         <title>Promptr Studio Pro</title>
         <item>
+            <title>5.61</title>
+            <pubDate>Sun, 30 Aug 2026 19:09:22 +0000</pubDate>
+            <sparkle:version>353</sparkle:version>
+            <sparkle:shortVersionString>5.61</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h2 style="font:600 15px -apple-system;margin:0 0 6px">Promptr Studio Pro 5.61</h2>
+<ul style="font:13px -apple-system;margin:0;padding-left:18px">
+<li><b>Remove and Expand work on large images.</b> Very large photos hit the provider's 10 MB upload limit and failed. Sources are now transferred in a compact format; the final result is still assembled from your original pixels at full quality.</li>
+</ul>
+]]></description>
+            <enclosure url="https://nxhbdyouzaznncshvvec.supabase.co/storage/v1/object/public/updates/Promptr-Studio-Pro-5.61-353.zip" length="23554207" type="application/octet-stream" sparkle:edSignature="rCRaBRZBPHt5uKT4ayjCWp9ihqizL2kC8OGi51+22k/9ftIYsn7BZl8nKHCIocplpFPsYtuPxAX50fvdVdeZDg=="/>
+            <sparkle:deltas>
+                <enclosure url="https://nxhbdyouzaznncshvvec.supabase.co/storage/v1/object/public/updates/Promptr-Studio-Pro353-352.delta" sparkle:deltaFrom="352" length="2698938" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="980432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="r18UmGNuoVso1yosTrNZac7hkNYQFJj7+HEV5zSLHY79qndPmbvx5H3m7uPLJVuhTliL5Gin5I66jmhuxlgJCw=="/>
+                <enclosure url="https://nxhbdyouzaznncshvvec.supabase.co/storage/v1/object/public/updates/Promptr-Studio-Pro353-351.delta" sparkle:deltaFrom="351" length="3715318" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="980432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="MDWTGuXMzlWDfoU9g87dSCdq8v6FqcsDAkPTL61803EQ0RW/wAKKKOBuJub/9QwCjtjzLQtrtoIXKEdsSKOYBA=="/>
+                <enclosure url="https://nxhbdyouzaznncshvvec.supabase.co/storage/v1/object/public/updates/Promptr-Studio-Pro353-350.delta" sparkle:deltaFrom="350" length="4063530" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="980432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="AU6AIAwK/nuyh6WE85VOlxrkfShoh8a8C+An6HiXpajdYl+CXGC4r/5GBXgc7oT9vtp1mbirvZSuHPb71RplBQ=="/>
+                <enclosure url="https://nxhbdyouzaznncshvvec.supabase.co/storage/v1/object/public/updates/Promptr-Studio-Pro353-349.delta" sparkle:deltaFrom="349" length="4228866" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="980432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="B9Ti62vKfZWMkQiQDapTPlxIntgAy2jTwaJBJguveuBeysz3/BbKRRLrD92NxvuMP/AbECPRQO8OABhkw1H7Cw=="/>
+                <enclosure url="https://nxhbdyouzaznncshvvec.supabase.co/storage/v1/object/public/updates/Promptr-Studio-Pro353-348.delta" sparkle:deltaFrom="348" length="4469818" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="980432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="URTdcooGywNlOaQ1QqpgiFOxVDhkLoXq1tDC0QgxmWtZf6N115H8OzDDpDgDf2FnjrP+6sjQC6y0V8lc28wvBQ=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>5.60</title>
-            <pubDate>Sun, 30 Aug 2026 18:09:23 +0000</pubDate>
+            <pubDate>Sun, 30 Aug 2026 19:09:21 +0000</pubDate>
             <sparkle:version>352</sparkle:version>
             <sparkle:shortVersionString>5.60</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
@@ -16,17 +36,10 @@
 </ul>
 ]]></description>
             <enclosure url="https://nxhbdyouzaznncshvvec.supabase.co/storage/v1/object/public/updates/Promptr-Studio-Pro-5.60-352.zip" length="23550882" type="application/octet-stream" sparkle:edSignature="P0qbOn1XZtV68MZazaKmegnD+ThO/SyJsW9dab5/r86TV0jzA7NgjnxNCf/ayR4o1RNbKbAwI8TBR7mu/LoFCw=="/>
-            <sparkle:deltas>
-                <enclosure url="https://nxhbdyouzaznncshvvec.supabase.co/storage/v1/object/public/updates/Promptr-Studio-Pro352-351.delta" sparkle:deltaFrom="351" length="3569714" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="980432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="/kk6CHUBEjLAd/kxxreKsCJGZd/nN9hsvbiMHJZSEPrVBfYdPTqqJpRyKmISyDKf4sKlirCSwAgMYJh8VCjvDA=="/>
-                <enclosure url="https://nxhbdyouzaznncshvvec.supabase.co/storage/v1/object/public/updates/Promptr-Studio-Pro352-350.delta" sparkle:deltaFrom="350" length="4025582" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="980432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="VBocgUJZcrzOdTyl2KQQPGSrq/thNKx+JCye9LOLvtipcp70PCIKzOgjdz0g8Cr5zWpc701FOHCclOKgbolHDw=="/>
-                <enclosure url="https://nxhbdyouzaznncshvvec.supabase.co/storage/v1/object/public/updates/Promptr-Studio-Pro352-349.delta" sparkle:deltaFrom="349" length="4179266" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="980432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="a2C4Uny5Qtdc2YW7H0UW5G/cSgy2++VMLXbpuXVlx4rVmAnm4szeMVYh/64WewjDHj0t6qR11C+kqLEagkypCQ=="/>
-                <enclosure url="https://nxhbdyouzaznncshvvec.supabase.co/storage/v1/object/public/updates/Promptr-Studio-Pro352-348.delta" sparkle:deltaFrom="348" length="4440750" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="980432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="M8REFalo9tW0B8b3KTiQWalnN5PMPd8zvZNMaT340gxDOyliKgBt78zbHGhl7atLCmYmE9dW3H7DQ5MJuXjDDQ=="/>
-                <enclosure url="https://nxhbdyouzaznncshvvec.supabase.co/storage/v1/object/public/updates/Promptr-Studio-Pro352-347.delta" sparkle:deltaFrom="347" length="4515834" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="980432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="1HoxxfNGqd0oaUz6UCddwx1fucuGZVKze5O+erhwFXPmstSUu73jCBwewt6LX6Ics8hnEQsqBxuxSEB+Dky9DQ=="/>
-            </sparkle:deltas>
         </item>
         <item>
             <title>5.59</title>
-            <pubDate>Sun, 30 Aug 2026 18:09:22 +0000</pubDate>
+            <pubDate>Sun, 30 Aug 2026 19:09:20 +0000</pubDate>
             <sparkle:version>351</sparkle:version>
             <sparkle:shortVersionString>5.59</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
@@ -38,20 +51,6 @@
 </ul>
 ]]></description>
             <enclosure url="https://nxhbdyouzaznncshvvec.supabase.co/storage/v1/object/public/updates/Promptr-Studio-Pro-5.59-351.zip" length="23494168" type="application/octet-stream" sparkle:edSignature="WCQ1DZwZHbrx82IIGYk1bZeJ/Rn2VonGG4PFSDPX0V1mAyikt8v6BNQxdVT/S1csqUw4rHsOjLI7YgbTP4ZyBA=="/>
-        </item>
-        <item>
-            <title>5.58</title>
-            <pubDate>Sun, 30 Aug 2026 18:09:22 +0000</pubDate>
-            <sparkle:version>350</sparkle:version>
-            <sparkle:shortVersionString>5.58</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2 style="font:600 15px -apple-system;margin:0 0 6px">Promptr Studio Pro 5.58</h2>
-<ul style="font:13px -apple-system;margin:0;padding-left:18px">
-<li><b>Sharper Replace results.</b> Replace mode now sends only the working area around your selection to the model, so its full resolution goes into the details. The rest of the image never leaves your machine and stays pixel-identical, including on 4K sources.</li>
-<li><b>Expand mode fixes.</b> The canvas handles no longer sit underneath the tool and prompt bars, grab areas are larger, and the toolbar shows a reset button instead of the brush controls.</li>
-</ul>
-]]></description>
-            <enclosure url="https://nxhbdyouzaznncshvvec.supabase.co/storage/v1/object/public/updates/Promptr-Studio-Pro-5.58-350.zip" length="23458596" type="application/octet-stream" sparkle:edSignature="Z1PM9cGrqUKdvkfC3lETiOEC+4Yd9n1AMSEEaVVCU2TO1WHXUjt/EPKLqLIi8bWOMPV9k+jqIvLrPzrIoUCmDQ=="/>
         </item>
     </channel>
 </rss>

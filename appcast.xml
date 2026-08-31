@@ -3,8 +3,30 @@
     <channel>
         <title>Promptr Studio Pro</title>
         <item>
+            <title>5.67</title>
+            <pubDate>Mon, 31 Aug 2026 13:03:58 +0000</pubDate>
+            <sparkle:version>367</sparkle:version>
+            <sparkle:shortVersionString>5.67</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h2 style="font:600 15px -apple-system;margin:0 0 6px">Promptr Studio Pro 5.67</h2>
+<ul style="font:13px -apple-system;margin:0;padding-left:18px">
+<li><b>Window buttons work again.</b> A recent macOS update made close, minimize and zoom unclickable; they respond normally now.</li>
+<li><b>Precise inpainting.</b> When replacing, only the painted area changes — everything outside stays pixel-identical, and the new element blends inside the mask without cut or frayed edges.</li>
+<li><b>Masks persist.</b> The painted mask stays after generating and reappears on the result, so you can adjust and rerun instead of repainting.</li>
+</ul>
+]]></description>
+            <enclosure url="https://nxhbdyouzaznncshvvec.supabase.co/storage/v1/object/public/updates/Promptr-Studio-Pro-5.67-367.zip" length="26312282" type="application/octet-stream" sparkle:edSignature="ZPMSZT6PliWewYQepki152/ZpPTzW8NrOxAKG3vzyxwWF97FXUXEYuu1OpdIgN/CqfXP4sAfRIMG8xTYzwZvDw=="/>
+            <sparkle:deltas>
+                <enclosure url="https://nxhbdyouzaznncshvvec.supabase.co/storage/v1/object/public/updates/Promptr-Studio-Pro367-364.delta" sparkle:deltaFrom="364" length="3983862" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="980432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="jjp5EOkCw37qwj9RKhUwdeBpqPjX7aIRmw7LfccKDSrl9Wte9WgmOtzxOipy0zkn+refGUBuCIeaJm7auI08Dw=="/>
+                <enclosure url="https://nxhbdyouzaznncshvvec.supabase.co/storage/v1/object/public/updates/Promptr-Studio-Pro367-361.delta" sparkle:deltaFrom="361" length="4389546" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="980432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="HIuVwRye4TVNe2501ZRyx4HBLI6BEOaWsQwUVwZtUhcm1nt8zp697Pz+eVit+Gx/zzcVEGdg7lUBgHlrgXooBQ=="/>
+                <enclosure url="https://nxhbdyouzaznncshvvec.supabase.co/storage/v1/object/public/updates/Promptr-Studio-Pro367-359.delta" sparkle:deltaFrom="359" length="4429338" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="980432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="SbQvRSEbcvryrh0bbqGPvFX+VsE2Huu+YzyC5n+ofrdEOGY0YfKo+JFeHqj8bQWfVoxo0dYJKHyLQOmPx8f3Bw=="/>
+                <enclosure url="https://nxhbdyouzaznncshvvec.supabase.co/storage/v1/object/public/updates/Promptr-Studio-Pro367-357.delta" sparkle:deltaFrom="357" length="4421314" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="980432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="zp6q+aJcYV0r3+wR/1+vZGy9RsshUfYIv2KmJm+rW490HcqNBmCd7NshM1Zl1vTmxtwWucFGNg4yDdgOlm1BDQ=="/>
+                <enclosure url="https://nxhbdyouzaznncshvvec.supabase.co/storage/v1/object/public/updates/Promptr-Studio-Pro367-355.delta" sparkle:deltaFrom="355" length="5213418" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="980432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="dDwBkkuvlnyyagXUyJnmw6YEa5P7JABWTb7KHqS9uDvVwVEllqcDH5DtHf3zyB65dYF5JpQp16hmYji0qHwDCw=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>5.66</title>
-            <pubDate>Mon, 31 Aug 2026 10:27:47 +0000</pubDate>
+            <pubDate>Mon, 31 Aug 2026 13:03:57 +0000</pubDate>
             <sparkle:version>364</sparkle:version>
             <sparkle:shortVersionString>5.66</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
@@ -16,17 +38,10 @@
 </ul>
 ]]></description>
             <enclosure url="https://nxhbdyouzaznncshvvec.supabase.co/storage/v1/object/public/updates/Promptr-Studio-Pro-5.66-364.zip" length="26287569" type="application/octet-stream" sparkle:edSignature="z+EKlD4AaMpRv6mB2IQJAXkfbmY0EsedbG8GUryltCHVAgfRXInMn1CnqRUr8ay84xsPXzPGiGdg3M+5N7VMBw=="/>
-            <sparkle:deltas>
-                <enclosure url="https://nxhbdyouzaznncshvvec.supabase.co/storage/v1/object/public/updates/Promptr-Studio-Pro364-361.delta" sparkle:deltaFrom="361" length="3959422" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="980432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="FW8fArEFKNDbH5JNd19uy0+p2zFyA+7BucLZ6eGTPBxyjYo6XpreIFbOrwfxU1IC+dZ8sBH2WWkfw7TfaA1rBw=="/>
-                <enclosure url="https://nxhbdyouzaznncshvvec.supabase.co/storage/v1/object/public/updates/Promptr-Studio-Pro364-359.delta" sparkle:deltaFrom="359" length="3982614" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="980432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="cS133n0xNPyFbWRLeFhgD0GHwn4XAny0haALdAPKhVt31y/EjxzsMWWsujOlBIVclQh++HGqzPiNabTVlxVEAA=="/>
-                <enclosure url="https://nxhbdyouzaznncshvvec.supabase.co/storage/v1/object/public/updates/Promptr-Studio-Pro364-357.delta" sparkle:deltaFrom="357" length="4049802" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="980432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="QyK8ox/Ydc5AoSz8cAOaEsK56PIN14zZqXtY1k8S7n65m1xwtAfMBFI6BxnydDOpXAoHtvej6fSjjJt7W+NqCA=="/>
-                <enclosure url="https://nxhbdyouzaznncshvvec.supabase.co/storage/v1/object/public/updates/Promptr-Studio-Pro364-355.delta" sparkle:deltaFrom="355" length="5084470" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="980432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="JuUM/EAHlgAROw/dMO18OY/T6NfqORRw/b3WfUF7bN68XBfQ1PpmYr98LrBWdvS/wxO3bfEzQYtbsxfBumoIBA=="/>
-                <enclosure url="https://nxhbdyouzaznncshvvec.supabase.co/storage/v1/object/public/updates/Promptr-Studio-Pro364-353.delta" sparkle:deltaFrom="353" length="7230154" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="980432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="LyG5khHweGgrMw+l/HcZaJX4ZCgTjwjDQ+l2VWyENGntGYzEAtLbh5iulMugLMR4nbR1zIOe/JwGFz5GoLIdAQ=="/>
-            </sparkle:deltas>
         </item>
         <item>
             <title>5.65</title>
-            <pubDate>Mon, 31 Aug 2026 10:27:45 +0000</pubDate>
+            <pubDate>Mon, 31 Aug 2026 13:03:57 +0000</pubDate>
             <sparkle:version>361</sparkle:version>
             <sparkle:shortVersionString>5.65</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
@@ -36,19 +51,6 @@
 </ul>
 ]]></description>
             <enclosure url="https://nxhbdyouzaznncshvvec.supabase.co/storage/v1/object/public/updates/Promptr-Studio-Pro-5.65-361.zip" length="26252712" type="application/octet-stream" sparkle:edSignature="8OcR2bG6nrKJPZhBaoIzG1M46JSyEpWemxRDnsXalwP1iGxFn/bLUanHLzjEIhs+nG9yAQvdOpFrOTE2pR1zAA=="/>
-        </item>
-        <item>
-            <title>5.64</title>
-            <pubDate>Mon, 31 Aug 2026 10:27:45 +0000</pubDate>
-            <sparkle:version>359</sparkle:version>
-            <sparkle:shortVersionString>5.64</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2 style="font:600 15px -apple-system;margin:0 0 6px">Promptr Studio Pro 5.64</h2>
-<ul style="font:13px -apple-system;margin:0;padding-left:18px">
-<li><b>Character binding understands natural phrasing.</b> Requests like "merk dir das Bild als Lina" now link the image on the first try.</li>
-</ul>
-]]></description>
-            <enclosure url="https://nxhbdyouzaznncshvvec.supabase.co/storage/v1/object/public/updates/Promptr-Studio-Pro-5.64-359.zip" length="26251934" type="application/octet-stream" sparkle:edSignature="/WySUZOqLYVpL+/LEk0oy2wnnrZXwwoAE4UP7Fm6L/LsR8+1vf1YhAvSUWtPi05zsjfP3xhK1TMTTA0K2d1QDQ=="/>
         </item>
     </channel>
 </rss>

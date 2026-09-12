@@ -3,8 +3,29 @@
     <channel>
         <title>Promptr Studio Pro</title>
         <item>
+            <title>5.79</title>
+            <pubDate>Sat, 12 Sep 2026 11:19:04 +0000</pubDate>
+            <sparkle:version>414</sparkle:version>
+            <sparkle:shortVersionString>5.79</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h2 style="font:600 15px -apple-system;margin:0 0 6px">Promptr Studio Pro 5.79</h2>
+<ul style="font:13px -apple-system;margin:0;padding-left:18px">
+<li><b>Two more Kling models.</b> Kling 3 is the non-turbo Kling 3.0 in 720p, 1080p and 4K with an optional soundtrack and an end frame on every tier; its silent 720p clips cost less per second than Kling Turbo. Kling O3 brings the O3 family in 720p and 1080p with sound, start and end frames, and a reference mode that follows one reference video plus up to four character images. Kling Turbo and Kling O3 4K stay as they are.</li>
+<li><b>Sound is a visible price decision.</b> Kling 3 and Kling O3 show the Sound switch; with sound on, a second costs about a third more in 720p and 1080p, 4K is priced the same either way. The quote always shows the exact amount before you generate.</li>
+</ul>
+]]></description>
+            <enclosure url="https://nxhbdyouzaznncshvvec.supabase.co/storage/v1/object/public/updates/Promptr-Studio-Pro-5.79-414.zip" length="171888983" type="application/octet-stream" sparkle:edSignature="J32DQPQ0iUH1YzZzYSzaptDtn5ybBvYmju2Ks8UZRHnmcxxItKl1L7IO0YFPCqGpCnu658BDzA+BJKL9+t00CQ=="/>
+            <sparkle:deltas>
+                <enclosure url="https://nxhbdyouzaznncshvvec.supabase.co/storage/v1/object/public/updates/Promptr-Studio-Pro414-413.delta" sparkle:deltaFrom="413" length="4980834" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="980432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="LqtGStusYI9JHQbfnE75Vy4EFpA4mHq9+HS/dgkLs/685orACbTDaJYLsmau9pSidH47ghs7QQrYuMuRuoxGAw=="/>
+                <enclosure url="https://nxhbdyouzaznncshvvec.supabase.co/storage/v1/object/public/updates/Promptr-Studio-Pro414-410.delta" sparkle:deltaFrom="410" length="5318850" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="980432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="X09JxM17nKwVZ+PbGITxhiYzWq1L80U5Vxoqei+Jdg9aNkIpRvrvolT3ZswAGameKE72oPMelb5qcfBp54k3Dg=="/>
+                <enclosure url="https://nxhbdyouzaznncshvvec.supabase.co/storage/v1/object/public/updates/Promptr-Studio-Pro414-409.delta" sparkle:deltaFrom="409" length="5672382" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="980432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="wgD049FOLCVJPEaIUR772S4Qa+5cysOgyUQ9fGwGOqC+J/AFKDAp/EHip/ICkj94qCfsvBMnw/94U+1mIuBCBg=="/>
+                <enclosure url="https://nxhbdyouzaznncshvvec.supabase.co/storage/v1/object/public/updates/Promptr-Studio-Pro414-408.delta" sparkle:deltaFrom="408" length="5714170" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="980432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="/3BWOu8mVr/Oe8pItOqJOcWACWlUdW71CPfYe6u206E/wozOOUS6ui8EpQKdUYFMOAj4ss6ChrrG729nqoC5AQ=="/>
+                <enclosure url="https://nxhbdyouzaznncshvvec.supabase.co/storage/v1/object/public/updates/Promptr-Studio-Pro414-405.delta" sparkle:deltaFrom="405" length="5813374" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="980432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="RiBFB0qSUj2CLQMEMJfBJ+JGxBuMulunGejFNmhYl9piPBP+2X45syrHkYXREGnKJVeVDL3OQlW3LyKlegxrBg=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>5.78</title>
-            <pubDate>Thu, 10 Sep 2026 15:51:12 +0000</pubDate>
+            <pubDate>Sat, 12 Sep 2026 11:18:58 +0000</pubDate>
             <sparkle:version>413</sparkle:version>
             <sparkle:shortVersionString>5.78</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
@@ -17,17 +38,10 @@
 </ul>
 ]]></description>
             <enclosure url="https://nxhbdyouzaznncshvvec.supabase.co/storage/v1/object/public/updates/Promptr-Studio-Pro-5.78-413.zip" length="171840245" type="application/octet-stream" sparkle:edSignature="CllhNzcmI6c7IRwJNllDdLSkX/F4SC0gb39aZRWDqzc8IF/IhjKHnXkJvm+QLZV9EBvKLVpigm3AcdC6EgcmDA=="/>
-            <sparkle:deltas>
-                <enclosure url="https://nxhbdyouzaznncshvvec.supabase.co/storage/v1/object/public/updates/Promptr-Studio-Pro413-410.delta" sparkle:deltaFrom="410" length="4654130" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="980432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="fo9QPwXoJcvW/s1BXvYAEfqH5/h9iYie8QcsrvNN7UrmEZqfKnkWyNM4f4JF5BMPAQuuU7c7Icv8tMvvL8S9Bw=="/>
-                <enclosure url="https://nxhbdyouzaznncshvvec.supabase.co/storage/v1/object/public/updates/Promptr-Studio-Pro413-409.delta" sparkle:deltaFrom="409" length="5013110" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="980432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="uNndDIsozWj3FHvCdRf9UzgnTuseKYJPzAZ1w+I5OosllciD1VsLcYG7Hdso8S9Plk9qYba+H+xFy6xC5/5mDA=="/>
-                <enclosure url="https://nxhbdyouzaznncshvvec.supabase.co/storage/v1/object/public/updates/Promptr-Studio-Pro413-408.delta" sparkle:deltaFrom="408" length="5494330" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="980432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="bkTKnDJiHwQRYjTXAfv090di6ZKTD8ETbWb8XnqDj+NSSh8VExqg2zXuNmo287fY/3tMNzLn40+F+zn2XSqBDg=="/>
-                <enclosure url="https://nxhbdyouzaznncshvvec.supabase.co/storage/v1/object/public/updates/Promptr-Studio-Pro413-405.delta" sparkle:deltaFrom="405" length="5613170" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="980432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="pkVVKMY7WoJqNHUxC5GgIdZBNBLHLf+nRfjYmrHFMHZNXSPEdxSVX6faGfhj7b0BhG67yX+JuA93Dd9IzMTcBg=="/>
-                <enclosure url="https://nxhbdyouzaznncshvvec.supabase.co/storage/v1/object/public/updates/Promptr-Studio-Pro413-389.delta" sparkle:deltaFrom="389" length="102538798" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="980432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="h6fQB6JRY+11x+3hF+NHMk+4WVLDaTlBYbJN5mgsp8CdFcfybU71pyODqwKjG9frbt6WEHy2ASbWqVbFm+1UDQ=="/>
-            </sparkle:deltas>
         </item>
         <item>
             <title>5.77</title>
-            <pubDate>Thu, 10 Sep 2026 15:51:07 +0000</pubDate>
+            <pubDate>Sat, 12 Sep 2026 11:18:58 +0000</pubDate>
             <sparkle:version>410</sparkle:version>
             <sparkle:shortVersionString>5.77</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
@@ -38,20 +52,6 @@
 </ul>
 ]]></description>
             <enclosure url="https://nxhbdyouzaznncshvvec.supabase.co/storage/v1/object/public/updates/Promptr-Studio-Pro-5.77-410.zip" length="171807935" type="application/octet-stream" sparkle:edSignature="I0JiorAv7yOZ9imdYjBc4N8MLbeOFVcmh6ADMklMnRtB142d3u8itmpU+ewsYneFHvr9NfQRR/Q7aAxq88dICw=="/>
-        </item>
-        <item>
-            <title>5.76</title>
-            <pubDate>Thu, 10 Sep 2026 15:51:06 +0000</pubDate>
-            <sparkle:version>409</sparkle:version>
-            <sparkle:shortVersionString>5.76</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2 style="font:600 15px -apple-system;margin:0 0 6px">Promptr Studio Pro 5.76</h2>
-<ul style="font:13px -apple-system;margin:0;padding-left:18px">
-<li><b>GPT Image 2.5 Sunburst and Flare.</b> OpenAI's new image models join GPT Image 2 in the picker. Sunburst is tuned for editing precision, Flare for fast everyday generation. Both offer the new quality levels xhigh and max.</li>
-<li><b>Available soon.</b> The models appear as coming soon until they are switched on in the backend after the first measured runs. No app update is needed for that step.</li>
-</ul>
-]]></description>
-            <enclosure url="https://nxhbdyouzaznncshvvec.supabase.co/storage/v1/object/public/updates/Promptr-Studio-Pro-5.76-409.zip" length="171764311" type="application/octet-stream" sparkle:edSignature="e9ThA633zHCeNUXgMSfpfw7qoi1tZfVes5/pWPrziJt1SEtjzBOSEsni86tFOm/VyjENKeWLoIPG1y+wA7trAA=="/>
         </item>
     </channel>
 </rss>

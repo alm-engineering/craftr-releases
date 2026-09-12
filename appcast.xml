@@ -3,8 +3,29 @@
     <channel>
         <title>Promptr Studio Pro</title>
         <item>
+            <title>5.80</title>
+            <pubDate>Sat, 12 Sep 2026 13:35:10 +0000</pubDate>
+            <sparkle:version>416</sparkle:version>
+            <sparkle:shortVersionString>5.80</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h2 style="font:600 15px -apple-system;margin:0 0 6px">Promptr Studio Pro 5.80</h2>
+<ul style="font:13px -apple-system;margin:0;padding-left:18px">
+<li><b>CRAFTR prompt editor now runs on GPT-5.6 Sol.</b> Smart edits and rewrites in the prompt editor use OpenAI's flagship model instead of the routine tier, for noticeably better prompt quality. Each edit is billed by its actual tokens at the GPT-5.6 Sol rate; the image analysis buttons keep the routine tier.</li>
+<li><b>FLUX Video Edit.</b> Drop a clip of up to 15 seconds, describe the change and get it back edited: remove, add or replace objects, change the setting, restyle, change on-screen text or dialogue. Length, framing, camera and audio follow the source. Priced per second of the source clip, 41 credits per second.</li>
+</ul>
+]]></description>
+            <enclosure url="https://nxhbdyouzaznncshvvec.supabase.co/storage/v1/object/public/updates/Promptr-Studio-Pro-5.80-416.zip" length="171904932" type="application/octet-stream" sparkle:edSignature="MCPQEij8FG5YyZLLr5W0jDaHtjfAk9yrpUOI6by0G6zM0gke/ZG16BkNhbTnQfMNj676pKuv0zAKKLxnL5BIAA=="/>
+            <sparkle:deltas>
+                <enclosure url="https://nxhbdyouzaznncshvvec.supabase.co/storage/v1/object/public/updates/Promptr-Studio-Pro416-414.delta" sparkle:deltaFrom="414" length="4676206" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="980432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="Xy9/70z25XA5bSZGoAw7uyJOj5MvMLMzYZX/HBvB6iqNoXYWm+PmtcMWsa5wf6FYZDjERjcPn9UJEaSawy26BA=="/>
+                <enclosure url="https://nxhbdyouzaznncshvvec.supabase.co/storage/v1/object/public/updates/Promptr-Studio-Pro416-413.delta" sparkle:deltaFrom="413" length="5192950" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="980432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="C2Q/pbTh6CgvbX+pmoPuLZgo8hocxbEh8Cq04FrDkQM/AtR/GyhqHwFBwGIHwkheA2ufgfxoo1AE+uveWl21AA=="/>
+                <enclosure url="https://nxhbdyouzaznncshvvec.supabase.co/storage/v1/object/public/updates/Promptr-Studio-Pro416-410.delta" sparkle:deltaFrom="410" length="5670270" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="980432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="dnF+cMQgm9lF0Wz02T5ttgM6RbYub4KCWGLta/+Z5mJruIMAqdUW/3iU6RC6Szrq33TgRvMH6RKrKjX3ysEsCg=="/>
+                <enclosure url="https://nxhbdyouzaznncshvvec.supabase.co/storage/v1/object/public/updates/Promptr-Studio-Pro416-409.delta" sparkle:deltaFrom="409" length="5816326" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="980432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="zhI6uN81ArSKTiIDuY/X3aoHT95MyO12CS7W3K+pNvUwxoDWDamV9j6YbK5I4Wdg/fBH7XbuN8G5lt8DE0xyAA=="/>
+                <enclosure url="https://nxhbdyouzaznncshvvec.supabase.co/storage/v1/object/public/updates/Promptr-Studio-Pro416-408.delta" sparkle:deltaFrom="408" length="5916146" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="980432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="6oV4pvGFXlLohp5AoyGO3ZzXy5gUFR3jpjtJlg/BO28BnlRrVmHOXSQDuUlhUXTSKTRFhKtjv7IASJh8bVrmBQ=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>5.79</title>
-            <pubDate>Sat, 12 Sep 2026 11:19:04 +0000</pubDate>
+            <pubDate>Sat, 12 Sep 2026 13:35:05 +0000</pubDate>
             <sparkle:version>414</sparkle:version>
             <sparkle:shortVersionString>5.79</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
@@ -15,17 +36,10 @@
 </ul>
 ]]></description>
             <enclosure url="https://nxhbdyouzaznncshvvec.supabase.co/storage/v1/object/public/updates/Promptr-Studio-Pro-5.79-414.zip" length="171888983" type="application/octet-stream" sparkle:edSignature="J32DQPQ0iUH1YzZzYSzaptDtn5ybBvYmju2Ks8UZRHnmcxxItKl1L7IO0YFPCqGpCnu658BDzA+BJKL9+t00CQ=="/>
-            <sparkle:deltas>
-                <enclosure url="https://nxhbdyouzaznncshvvec.supabase.co/storage/v1/object/public/updates/Promptr-Studio-Pro414-413.delta" sparkle:deltaFrom="413" length="4980834" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="980432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="LqtGStusYI9JHQbfnE75Vy4EFpA4mHq9+HS/dgkLs/685orACbTDaJYLsmau9pSidH47ghs7QQrYuMuRuoxGAw=="/>
-                <enclosure url="https://nxhbdyouzaznncshvvec.supabase.co/storage/v1/object/public/updates/Promptr-Studio-Pro414-410.delta" sparkle:deltaFrom="410" length="5318850" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="980432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="X09JxM17nKwVZ+PbGITxhiYzWq1L80U5Vxoqei+Jdg9aNkIpRvrvolT3ZswAGameKE72oPMelb5qcfBp54k3Dg=="/>
-                <enclosure url="https://nxhbdyouzaznncshvvec.supabase.co/storage/v1/object/public/updates/Promptr-Studio-Pro414-409.delta" sparkle:deltaFrom="409" length="5672382" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="980432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="wgD049FOLCVJPEaIUR772S4Qa+5cysOgyUQ9fGwGOqC+J/AFKDAp/EHip/ICkj94qCfsvBMnw/94U+1mIuBCBg=="/>
-                <enclosure url="https://nxhbdyouzaznncshvvec.supabase.co/storage/v1/object/public/updates/Promptr-Studio-Pro414-408.delta" sparkle:deltaFrom="408" length="5714170" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="980432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="/3BWOu8mVr/Oe8pItOqJOcWACWlUdW71CPfYe6u206E/wozOOUS6ui8EpQKdUYFMOAj4ss6ChrrG729nqoC5AQ=="/>
-                <enclosure url="https://nxhbdyouzaznncshvvec.supabase.co/storage/v1/object/public/updates/Promptr-Studio-Pro414-405.delta" sparkle:deltaFrom="405" length="5813374" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="980432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="RiBFB0qSUj2CLQMEMJfBJ+JGxBuMulunGejFNmhYl9piPBP+2X45syrHkYXREGnKJVeVDL3OQlW3LyKlegxrBg=="/>
-            </sparkle:deltas>
         </item>
         <item>
             <title>5.78</title>
-            <pubDate>Sat, 12 Sep 2026 11:18:58 +0000</pubDate>
+            <pubDate>Sat, 12 Sep 2026 13:35:01 +0000</pubDate>
             <sparkle:version>413</sparkle:version>
             <sparkle:shortVersionString>5.78</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
@@ -38,20 +52,6 @@
 </ul>
 ]]></description>
             <enclosure url="https://nxhbdyouzaznncshvvec.supabase.co/storage/v1/object/public/updates/Promptr-Studio-Pro-5.78-413.zip" length="171840245" type="application/octet-stream" sparkle:edSignature="CllhNzcmI6c7IRwJNllDdLSkX/F4SC0gb39aZRWDqzc8IF/IhjKHnXkJvm+QLZV9EBvKLVpigm3AcdC6EgcmDA=="/>
-        </item>
-        <item>
-            <title>5.77</title>
-            <pubDate>Sat, 12 Sep 2026 11:18:58 +0000</pubDate>
-            <sparkle:version>410</sparkle:version>
-            <sparkle:shortVersionString>5.77</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2 style="font:600 15px -apple-system;margin:0 0 6px">Promptr Studio Pro 5.77</h2>
-<ul style="font:13px -apple-system;margin:0;padding-left:18px">
-<li><b>Removed generations stay removed.</b> A card removed from the gallery no longer reappears after the next generation. Removals are recorded next to the project manifest, so a second app or teammate working in the same project folder can no longer bring them back.</li>
-<li><b>Current GPT Image prices.</b> The quoted price now includes the prompt text tokens OpenAI bills, so estimate and charge match the real cost. Prices come from the catalog, no further update is needed.</li>
-</ul>
-]]></description>
-            <enclosure url="https://nxhbdyouzaznncshvvec.supabase.co/storage/v1/object/public/updates/Promptr-Studio-Pro-5.77-410.zip" length="171807935" type="application/octet-stream" sparkle:edSignature="I0JiorAv7yOZ9imdYjBc4N8MLbeOFVcmh6ADMklMnRtB142d3u8itmpU+ewsYneFHvr9NfQRR/Q7aAxq88dICw=="/>
         </item>
     </channel>
 </rss>

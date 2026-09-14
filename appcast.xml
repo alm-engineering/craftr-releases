@@ -3,8 +3,28 @@
     <channel>
         <title>Promptr Studio Pro</title>
         <item>
+            <title>5.81</title>
+            <pubDate>Mon, 14 Sep 2026 08:25:40 +0000</pubDate>
+            <sparkle:version>417</sparkle:version>
+            <sparkle:shortVersionString>5.81</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h2 style="font:600 15px -apple-system;margin:0 0 6px">Promptr Studio Pro 5.81</h2>
+<ul style="font:13px -apple-system;margin:0;padding-left:18px">
+<li><b>GPT Image 2.5 Sunburst Edit.</b> A dedicated editing entry in the image model picker: add the image to change as a reference, describe the edit, and pick the background. Transparent returns a PNG with an alpha channel, so cut-outs come straight from Sunburst. Same quality tiers and prices as Sunburst.</li>
+</ul>
+]]></description>
+            <enclosure url="https://nxhbdyouzaznncshvvec.supabase.co/storage/v1/object/public/updates/Promptr-Studio-Pro-5.81-417.zip" length="171912263" type="application/octet-stream" sparkle:edSignature="dYNpJvlh6CH36lAIaCFzaUnRgt/xwGzG7jB3yDf6x+ePt2pCbl9bMM8+POG2IKL8M8iEAv0xNRNxVIakXfZODg=="/>
+            <sparkle:deltas>
+                <enclosure url="https://nxhbdyouzaznncshvvec.supabase.co/storage/v1/object/public/updates/Promptr-Studio-Pro417-416.delta" sparkle:deltaFrom="416" length="5299818" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="980432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="XTYej5u9JfHeduI9LXRq6phOBqwc48k9AP+QKpPXKjSLz/UcVPGxGJMfUgmg3R/NKGLNKuxDR0QslJSlVxcACg=="/>
+                <enclosure url="https://nxhbdyouzaznncshvvec.supabase.co/storage/v1/object/public/updates/Promptr-Studio-Pro417-414.delta" sparkle:deltaFrom="414" length="5599574" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="980432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="0Co1uuOlCUMWmQc2rf6P+zoVV0CUXvezZKllYI7lgFkBlcEM3eutuetKL7Ox15sjK6dcvnQ6V1nQTXe2LS2TCQ=="/>
+                <enclosure url="https://nxhbdyouzaznncshvvec.supabase.co/storage/v1/object/public/updates/Promptr-Studio-Pro417-413.delta" sparkle:deltaFrom="413" length="5864242" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="980432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="kT5+/+b+VE+G7Epn7FMp7wBa7lKjY1o7QY5N1AW4H8+n25Pdu8Oreo4HNokdrPyybfUbzHAP3qGTFbkOKGYBCw=="/>
+                <enclosure url="https://nxhbdyouzaznncshvvec.supabase.co/storage/v1/object/public/updates/Promptr-Studio-Pro417-410.delta" sparkle:deltaFrom="410" length="6198730" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="980432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="89nXSKzv0gC3uDbNCqxZqigAtg2OEB+hPTfW4HOFCSo5cwKEtluWJjpR0u4nODGQQZxR1TIibHEqr9dBUCUJDA=="/>
+                <enclosure url="https://nxhbdyouzaznncshvvec.supabase.co/storage/v1/object/public/updates/Promptr-Studio-Pro417-409.delta" sparkle:deltaFrom="409" length="6345626" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="980432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="YS3V/iKqVy2vN9isguw0nWHkieVHZoI1+ZevDHco+iRP3OjtfUXmxMRRC+5iirUPTESrcUlEZNUHE/t6wOcRCg=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>5.80</title>
-            <pubDate>Sat, 12 Sep 2026 13:35:10 +0000</pubDate>
+            <pubDate>Mon, 14 Sep 2026 08:25:37 +0000</pubDate>
             <sparkle:version>416</sparkle:version>
             <sparkle:shortVersionString>5.80</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
@@ -15,17 +35,10 @@
 </ul>
 ]]></description>
             <enclosure url="https://nxhbdyouzaznncshvvec.supabase.co/storage/v1/object/public/updates/Promptr-Studio-Pro-5.80-416.zip" length="171904932" type="application/octet-stream" sparkle:edSignature="MCPQEij8FG5YyZLLr5W0jDaHtjfAk9yrpUOI6by0G6zM0gke/ZG16BkNhbTnQfMNj676pKuv0zAKKLxnL5BIAA=="/>
-            <sparkle:deltas>
-                <enclosure url="https://nxhbdyouzaznncshvvec.supabase.co/storage/v1/object/public/updates/Promptr-Studio-Pro416-414.delta" sparkle:deltaFrom="414" length="4676206" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="980432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="Xy9/70z25XA5bSZGoAw7uyJOj5MvMLMzYZX/HBvB6iqNoXYWm+PmtcMWsa5wf6FYZDjERjcPn9UJEaSawy26BA=="/>
-                <enclosure url="https://nxhbdyouzaznncshvvec.supabase.co/storage/v1/object/public/updates/Promptr-Studio-Pro416-413.delta" sparkle:deltaFrom="413" length="5192950" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="980432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="C2Q/pbTh6CgvbX+pmoPuLZgo8hocxbEh8Cq04FrDkQM/AtR/GyhqHwFBwGIHwkheA2ufgfxoo1AE+uveWl21AA=="/>
-                <enclosure url="https://nxhbdyouzaznncshvvec.supabase.co/storage/v1/object/public/updates/Promptr-Studio-Pro416-410.delta" sparkle:deltaFrom="410" length="5670270" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="980432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="dnF+cMQgm9lF0Wz02T5ttgM6RbYub4KCWGLta/+Z5mJruIMAqdUW/3iU6RC6Szrq33TgRvMH6RKrKjX3ysEsCg=="/>
-                <enclosure url="https://nxhbdyouzaznncshvvec.supabase.co/storage/v1/object/public/updates/Promptr-Studio-Pro416-409.delta" sparkle:deltaFrom="409" length="5816326" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="980432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="zhI6uN81ArSKTiIDuY/X3aoHT95MyO12CS7W3K+pNvUwxoDWDamV9j6YbK5I4Wdg/fBH7XbuN8G5lt8DE0xyAA=="/>
-                <enclosure url="https://nxhbdyouzaznncshvvec.supabase.co/storage/v1/object/public/updates/Promptr-Studio-Pro416-408.delta" sparkle:deltaFrom="408" length="5916146" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="980432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="6oV4pvGFXlLohp5AoyGO3ZzXy5gUFR3jpjtJlg/BO28BnlRrVmHOXSQDuUlhUXTSKTRFhKtjv7IASJh8bVrmBQ=="/>
-            </sparkle:deltas>
         </item>
         <item>
             <title>5.79</title>
-            <pubDate>Sat, 12 Sep 2026 13:35:05 +0000</pubDate>
+            <pubDate>Mon, 14 Sep 2026 08:25:37 +0000</pubDate>
             <sparkle:version>414</sparkle:version>
             <sparkle:shortVersionString>5.79</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
@@ -36,22 +49,6 @@
 </ul>
 ]]></description>
             <enclosure url="https://nxhbdyouzaznncshvvec.supabase.co/storage/v1/object/public/updates/Promptr-Studio-Pro-5.79-414.zip" length="171888983" type="application/octet-stream" sparkle:edSignature="J32DQPQ0iUH1YzZzYSzaptDtn5ybBvYmju2Ks8UZRHnmcxxItKl1L7IO0YFPCqGpCnu658BDzA+BJKL9+t00CQ=="/>
-        </item>
-        <item>
-            <title>5.78</title>
-            <pubDate>Sat, 12 Sep 2026 13:35:01 +0000</pubDate>
-            <sparkle:version>413</sparkle:version>
-            <sparkle:shortVersionString>5.78</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2 style="font:600 15px -apple-system;margin:0 0 6px">Promptr Studio Pro 5.78</h2>
-<ul style="font:13px -apple-system;margin:0;padding-left:18px">
-<li><b>Failed jobs now say what to do.</b> When a provider blocks a prompt, the card says so and offers to edit the input instead of inviting a retry that would fail identically. Unreadable or oversized reference files, rejected settings, missing faces and provider outages each get their own explanation and their own next step.</li>
-<li><b>Reference images are prepared for the provider.</b> HEIC, TIFF and BMP files are converted to JPEG or PNG before upload, rotation and colours are corrected, and very large files are reduced. Files that already fit stay untouched, your originals are never changed, and an image with a mask keeps its exact dimensions.</li>
-<li><b>Favourites show on the thumbnail again.</b> The heart of a favourited asset stays visible in the gallery, including while a selection is active.</li>
-<li><b>No duplicate audio charges.</b> A paid audio request is no longer sent again automatically after a dropped connection. If the outcome is unclear, the card says so and asks you to check for a result first.</li>
-</ul>
-]]></description>
-            <enclosure url="https://nxhbdyouzaznncshvvec.supabase.co/storage/v1/object/public/updates/Promptr-Studio-Pro-5.78-413.zip" length="171840245" type="application/octet-stream" sparkle:edSignature="CllhNzcmI6c7IRwJNllDdLSkX/F4SC0gb39aZRWDqzc8IF/IhjKHnXkJvm+QLZV9EBvKLVpigm3AcdC6EgcmDA=="/>
         </item>
     </channel>
 </rss>

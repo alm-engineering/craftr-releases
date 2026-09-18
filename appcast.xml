@@ -3,8 +3,29 @@
     <channel>
         <title>Promptr Studio Pro</title>
         <item>
+            <title>5.86</title>
+            <pubDate>Fri, 18 Sep 2026 07:40:52 +0000</pubDate>
+            <sparkle:version>433</sparkle:version>
+            <sparkle:shortVersionString>5.86</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h2 style="font:600 15px -apple-system;margin:0 0 6px">Promptr Studio Pro 5.86</h2>
+<ul style="font:13px -apple-system;margin:0;padding-left:18px">
+<li><b>FLUX Video Edit generates.</b> It asked for a start image that it never offers. The model edits an existing clip, so a source video and a prompt are all it needs. Switching to it now also clears reference images or audio from the previous model, which it cannot take.</li>
+<li><b>A disabled Generate button says why.</b> The reason used to live in the tooltip alone, so a blocked generate showed a price and nothing else. It now stands under the button in the video, image and audio composers.</li>
+</ul>
+]]></description>
+            <enclosure url="https://nxhbdyouzaznncshvvec.supabase.co/storage/v1/object/public/updates/Promptr-Studio-Pro-5.86-433.zip" length="172165859" type="application/octet-stream" sparkle:edSignature="2Ev4HXFqxpsuI0eVmclOR5d+xnRfc0k7OgxuPTzKi4SEPh64v24SwCwVpMbtk5qj70HKKcCsZP1u4R1TppXwCw=="/>
+            <sparkle:deltas>
+                <enclosure url="https://nxhbdyouzaznncshvvec.supabase.co/storage/v1/object/public/updates/Promptr-Studio-Pro433-430.delta" sparkle:deltaFrom="430" length="3208994" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="979056" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="84WuLTZL+WCVpJBldabOQhqqGC2givR4K1V/sbD3/uuDSfSqmBGeKiWrIJIiVaLAbZtRF1Tp6791bXu70BnwBw=="/>
+                <enclosure url="https://nxhbdyouzaznncshvvec.supabase.co/storage/v1/object/public/updates/Promptr-Studio-Pro433-425.delta" sparkle:deltaFrom="425" length="4500994" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="979056" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="FZnW8hKtfyTfSjN8hqIPkySjGP1EAOixgccGs/oDmcksbmEDFgDjPcIK1pGvaqJtyEX96fGDpATQ8xImyJ25Dg=="/>
+                <enclosure url="https://nxhbdyouzaznncshvvec.supabase.co/storage/v1/object/public/updates/Promptr-Studio-Pro433-421.delta" sparkle:deltaFrom="421" length="5568966" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="979056" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="Dbd8s8gz4Q8FgAgM5xNUvBFom1TC/BekMCAmv2peigsuqJlWZ9RbsjOH+zY2lI6dZOpXr1Nf2T9ZdlSyygXeCQ=="/>
+                <enclosure url="https://nxhbdyouzaznncshvvec.supabase.co/storage/v1/object/public/updates/Promptr-Studio-Pro433-419.delta" sparkle:deltaFrom="419" length="5760874" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="979056" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="4itmxiPuy2Nms2hJfvrW/96E8v0Ny8yV99cgES9gqSM6jdXHNUalJsWs+/DRj6voSICWwQ+QYTjtsOJ3F6IHCQ=="/>
+                <enclosure url="https://nxhbdyouzaznncshvvec.supabase.co/storage/v1/object/public/updates/Promptr-Studio-Pro433-417.delta" sparkle:deltaFrom="417" length="6340126" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="979056" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="0oisXUHsUGvIx/tTEgsxq4TgQPSanMAoC04z+8UlFM616ZJXKWB7iVHPxx83VzB4FwvG6U4CJPv73Vh5GdM4Ag=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>5.85</title>
-            <pubDate>Thu, 17 Sep 2026 13:29:44 +0000</pubDate>
+            <pubDate>Fri, 18 Sep 2026 07:40:49 +0000</pubDate>
             <sparkle:version>430</sparkle:version>
             <sparkle:shortVersionString>5.85</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
@@ -18,17 +39,10 @@
 </ul>
 ]]></description>
             <enclosure url="https://nxhbdyouzaznncshvvec.supabase.co/storage/v1/object/public/updates/Promptr-Studio-Pro-5.85-430.zip" length="172161802" type="application/octet-stream" sparkle:edSignature="ukicnmOk90Y6QP5hUSBAmfFVSfT94tZowacIOT6qRm+QUv5LzFvySq2tv//ALiElt6unJVWTNWHCG1o03kvjBA=="/>
-            <sparkle:deltas>
-                <enclosure url="https://nxhbdyouzaznncshvvec.supabase.co/storage/v1/object/public/updates/Promptr-Studio-Pro430-425.delta" sparkle:deltaFrom="425" length="4311026" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="979056" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="Eh6qajZcBhbsziICExazQvDXqZXlRRaTjkddyZ/Bf3keRBzCqQ3OAgsOECgbCn3DeceqfgbArvzjETSchNlDAQ=="/>
-                <enclosure url="https://nxhbdyouzaznncshvvec.supabase.co/storage/v1/object/public/updates/Promptr-Studio-Pro430-421.delta" sparkle:deltaFrom="421" length="5499150" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="979056" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="5BbBTzVCnpP9mo0VotZ8C1L8bC+fc46VVWQ7ifRq9BRXTcyVAHU4e7y+3xxoJS7Epx/WXpjA9fpgQdlCV6hCAg=="/>
-                <enclosure url="https://nxhbdyouzaznncshvvec.supabase.co/storage/v1/object/public/updates/Promptr-Studio-Pro430-419.delta" sparkle:deltaFrom="419" length="5658230" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="979056" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="wDHwYgrkni1UNpJ8UAL0HiJ0P/lg5C3Zlkd6whf3BGGkrdyCL8QA5RSi1Cout75UxlTZHakzfl86zD9D+xvUDA=="/>
-                <enclosure url="https://nxhbdyouzaznncshvvec.supabase.co/storage/v1/object/public/updates/Promptr-Studio-Pro430-417.delta" sparkle:deltaFrom="417" length="6242230" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="979056" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="kv+lchvDopitgmTizfWjAc1MR+WVvOAKK3+ZYuXZptTrfRRSYEiKa471wx6MyHjKKXu5KWlSvqhGzTBY2geJCQ=="/>
-                <enclosure url="https://nxhbdyouzaznncshvvec.supabase.co/storage/v1/object/public/updates/Promptr-Studio-Pro430-416.delta" sparkle:deltaFrom="416" length="6811902" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="980432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="QxINmSOP42kvcSQ/MMnhvFMFmCkQJfDakmCxfu03k8SQDNvQn86YZ7CyTvcop2qR3+oaY9JCXXRbd+S6mhm/Bw=="/>
-            </sparkle:deltas>
         </item>
         <item>
             <title>5.84</title>
-            <pubDate>Thu, 17 Sep 2026 13:29:41 +0000</pubDate>
+            <pubDate>Fri, 18 Sep 2026 07:40:49 +0000</pubDate>
             <sparkle:version>425</sparkle:version>
             <sparkle:shortVersionString>5.84</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
@@ -40,20 +54,6 @@
 </ul>
 ]]></description>
             <enclosure url="https://nxhbdyouzaznncshvvec.supabase.co/storage/v1/object/public/updates/Promptr-Studio-Pro-5.84-425.zip" length="172153495" type="application/octet-stream" sparkle:edSignature="Ou7iWUBRYM8YO3FfSmogn5PKL4ZBfcdNc1HPgBL8gnLSafYbTNBI1N6PXITu9cWxI//25tI84IcdWUtgeqyjDw=="/>
-        </item>
-        <item>
-            <title>5.83</title>
-            <pubDate>Thu, 17 Sep 2026 13:29:40 +0000</pubDate>
-            <sparkle:version>421</sparkle:version>
-            <sparkle:shortVersionString>5.83</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2 style="font:600 15px -apple-system;margin:0 0 6px">Promptr Studio Pro 5.83</h2>
-<ul style="font:13px -apple-system;margin:0;padding-left:18px">
-<li><b>Kling with a start image: the format follows the image.</b> Kling's image-to-video routes have no format setting, the video always takes the format of the start image. The format chip disappears in the start-image modes and a small info chip explains it.</li>
-<li><b>Kling O3 with a reference video: choose the format.</b> The format chip offers "auto" (the format of the reference video, preselected) plus 16:9, 9:16 and 1:1. Kling O3 4K keeps following the reference video.</li>
-</ul>
-]]></description>
-            <enclosure url="https://nxhbdyouzaznncshvvec.supabase.co/storage/v1/object/public/updates/Promptr-Studio-Pro-5.83-421.zip" length="172061957" type="application/octet-stream" sparkle:edSignature="Z4/q7LczPYZAZYuC/yWJI/Q4syCJfBGGB1JdDprykRID3iSz7LGtAp3Ry/GPcP3NHf7X3piSo8T9DKPDInm0BA=="/>
         </item>
     </channel>
 </rss>

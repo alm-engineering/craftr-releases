@@ -3,8 +3,30 @@
     <channel>
         <title>Promptr Studio Pro</title>
         <item>
+            <title>5.88</title>
+            <pubDate>Sun, 20 Sep 2026 11:23:44 +0000</pubDate>
+            <sparkle:version>441</sparkle:version>
+            <sparkle:shortVersionString>5.88</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h2 style="font:600 15px -apple-system;margin:0 0 6px">Promptr Studio Pro 5.88</h2>
+<ul style="font:13px -apple-system;margin:0;padding-left:18px">
+<li><b>The agent no longer trips over its own plan.</b> After compiling a brief it had to retype every decided parameter by hand, and the smallest deviation ended the run with no way back. The compiled plan now fills those parameters itself.</li>
+<li><b>Fewer clicks for steps that undo themselves.</b> Moving, renaming, creating a folder, archiving, setting a favourite and binding a character run without approval. Deleting and anything that costs credits still asks.</li>
+<li><b>Text files can be dropped again.</b> A markdown or text file dragged into the gallery or the agent chat did nothing at all, because the system handed it over as text instead of as a file. It arrives now.</li>
+</ul>
+]]></description>
+            <enclosure url="https://nxhbdyouzaznncshvvec.supabase.co/storage/v1/object/public/updates/Promptr-Studio-Pro-5.88-441.zip" length="172190486" type="application/octet-stream" sparkle:edSignature="PKS9xG6JtALL1HfzoB0Zk/tfmhKM1wXjQXg4VWLE+bIu6t2Fw9Ny7T1QfDOWU+pvhU4UgDBU52ezDcuwgor7Bg=="/>
+            <sparkle:deltas>
+                <enclosure url="https://nxhbdyouzaznncshvvec.supabase.co/storage/v1/object/public/updates/Promptr-Studio-Pro441-436.delta" sparkle:deltaFrom="436" length="3674902" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="979056" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="G9LIHZeHx0bV2h/TRj8LrHBlhjNZVFwVgTjf/SMujGWQ1vXLOcEu55JY8HNXN4t1S3KQJ5fMccb6GRmPlmu8AA=="/>
+                <enclosure url="https://nxhbdyouzaznncshvvec.supabase.co/storage/v1/object/public/updates/Promptr-Studio-Pro441-433.delta" sparkle:deltaFrom="433" length="4691758" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="979056" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="Amu0rw4LacibrKW9mdBCVRRxCEIfy4mQo/jAVNnnhdPkbyN3kY0p6Dyl8kuWDHVptyACAQquc+TGbEbnagX1DQ=="/>
+                <enclosure url="https://nxhbdyouzaznncshvvec.supabase.co/storage/v1/object/public/updates/Promptr-Studio-Pro441-430.delta" sparkle:deltaFrom="430" length="4889910" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="979056" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="RyzT708l0Oua6ce3L+RiCsjHbg0ofVM1DRv5hBpSH7MiLP8BymipuDQe4rDhFKd9rmcovlLIWJUMUAR5oOd0BA=="/>
+                <enclosure url="https://nxhbdyouzaznncshvvec.supabase.co/storage/v1/object/public/updates/Promptr-Studio-Pro441-425.delta" sparkle:deltaFrom="425" length="5123362" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="979056" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="SW3Vm2YAT99pH+LPqAuk+ErAQcJZJg1Yz+fcXnsOxAO3ircHK1NpGS669UwI4mn1pKM+iq9cDpSal5BLY1BDDg=="/>
+                <enclosure url="https://nxhbdyouzaznncshvvec.supabase.co/storage/v1/object/public/updates/Promptr-Studio-Pro441-421.delta" sparkle:deltaFrom="421" length="5848450" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="979056" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="mjpTrqzvijoR4+0fa22R9Jj1CTZBGEogW09i6XtPlNAHQ/xYJkBRovJCznQTvDSWkvW1XRgRJ0O+1kzUZ24BBg=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>5.87</title>
-            <pubDate>Fri, 18 Sep 2026 13:26:31 +0000</pubDate>
+            <pubDate>Sun, 20 Sep 2026 11:23:41 +0000</pubDate>
             <sparkle:version>436</sparkle:version>
             <sparkle:shortVersionString>5.87</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
@@ -15,17 +37,10 @@
 </ul>
 ]]></description>
             <enclosure url="https://nxhbdyouzaznncshvvec.supabase.co/storage/v1/object/public/updates/Promptr-Studio-Pro-5.87-436.zip" length="172185571" type="application/octet-stream" sparkle:edSignature="PPbxO5bq/xzB+Xk6Mq7y+qF0g4LST2iC3GDqdUSDFO8T23ICr2bkiaXTF/bkyOOmofPs34ek2sGnTSJRYDejCA=="/>
-            <sparkle:deltas>
-                <enclosure url="https://nxhbdyouzaznncshvvec.supabase.co/storage/v1/object/public/updates/Promptr-Studio-Pro436-433.delta" sparkle:deltaFrom="433" length="4516426" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="979056" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="bm2hSY+MItB8/Iz2owW3A5M3HdgZUkYcuaXHF/APpzHLRyHPqQSldVwyg8cjmFYYaw18n1sizb71QS3ZOD5/DA=="/>
-                <enclosure url="https://nxhbdyouzaznncshvvec.supabase.co/storage/v1/object/public/updates/Promptr-Studio-Pro436-430.delta" sparkle:deltaFrom="430" length="4729910" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="979056" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="F/gwxZidtL6tra0EG4zMfuumpQ81pJUDhWb02eTnS3Df5LxfM9uDgUdjsMJZCE4iOj0Gg7woRgPI4x7NitMJAQ=="/>
-                <enclosure url="https://nxhbdyouzaznncshvvec.supabase.co/storage/v1/object/public/updates/Promptr-Studio-Pro436-425.delta" sparkle:deltaFrom="425" length="5013226" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="979056" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="m3qVCZWF1SZYzOnMrfe79kX5q05M8uE/nSRTm+1ji3BeG/SIBCjgKymU6Kh5rIj6kiLcvaRlmoLVOgGO5ZbNBA=="/>
-                <enclosure url="https://nxhbdyouzaznncshvvec.supabase.co/storage/v1/object/public/updates/Promptr-Studio-Pro436-421.delta" sparkle:deltaFrom="421" length="5827910" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="979056" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="99wnZoFfKfniWKCtGcz8UUDMyW8xYP7CPvkj0Hfcv2w0EK2opvrcJSBRd19oQFEspjhAvQGnKQuSb7yhCzZlCA=="/>
-                <enclosure url="https://nxhbdyouzaznncshvvec.supabase.co/storage/v1/object/public/updates/Promptr-Studio-Pro436-419.delta" sparkle:deltaFrom="419" length="6037774" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="979056" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="pQb1eq4YKwhvbrqxYQtqG9p9z1ucC72ZdBUtZNm+eUxJvp0PY9R8rIryjEn4dig5vS8CNoRWvClnB8JWGqYLAQ=="/>
-            </sparkle:deltas>
         </item>
         <item>
             <title>5.86</title>
-            <pubDate>Fri, 18 Sep 2026 13:26:28 +0000</pubDate>
+            <pubDate>Sun, 20 Sep 2026 11:23:41 +0000</pubDate>
             <sparkle:version>433</sparkle:version>
             <sparkle:shortVersionString>5.86</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
@@ -36,23 +51,6 @@
 </ul>
 ]]></description>
             <enclosure url="https://nxhbdyouzaznncshvvec.supabase.co/storage/v1/object/public/updates/Promptr-Studio-Pro-5.86-433.zip" length="172165859" type="application/octet-stream" sparkle:edSignature="2Ev4HXFqxpsuI0eVmclOR5d+xnRfc0k7OgxuPTzKi4SEPh64v24SwCwVpMbtk5qj70HKKcCsZP1u4R1TppXwCw=="/>
-        </item>
-        <item>
-            <title>5.85</title>
-            <pubDate>Fri, 18 Sep 2026 13:26:28 +0000</pubDate>
-            <sparkle:version>430</sparkle:version>
-            <sparkle:shortVersionString>5.85</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2 style="font:600 15px -apple-system;margin:0 0 6px">Promptr Studio Pro 5.85</h2>
-<ul style="font:13px -apple-system;margin:0;padding-left:18px">
-<li><b>Scrolling stays smooth while a cloud project syncs.</b> Every card used to walk the project folders on disk to build its context menu, once per redraw, and every arriving file redrew the whole gallery. Folder lists are cached now and arrivals are announced less often.</li>
-<li><b>Dragging a multi-selection moves every selected asset.</b> A drag onto another folder could move a single asset and leave the rest behind.</li>
-<li><b>Renaming a folder during a sync no longer duplicates it.</b> A download that started before the rename now notices that the asset has moved instead of fetching it into the folder that no longer exists.</li>
-<li><b>Generating with Command Return says why it stopped.</b> When a draft failed its checks, nothing happened at all.</li>
-<li><b>Reference limits follow the model.</b> The Resolve bridge stopped at three video references even for models that accept ten.</li>
-</ul>
-]]></description>
-            <enclosure url="https://nxhbdyouzaznncshvvec.supabase.co/storage/v1/object/public/updates/Promptr-Studio-Pro-5.85-430.zip" length="172161802" type="application/octet-stream" sparkle:edSignature="ukicnmOk90Y6QP5hUSBAmfFVSfT94tZowacIOT6qRm+QUv5LzFvySq2tv//ALiElt6unJVWTNWHCG1o03kvjBA=="/>
         </item>
     </channel>
 </rss>

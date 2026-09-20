@@ -3,8 +3,28 @@
     <channel>
         <title>Promptr Studio Pro</title>
         <item>
+            <title>5.89</title>
+            <pubDate>Sun, 20 Sep 2026 12:24:33 +0000</pubDate>
+            <sparkle:version>444</sparkle:version>
+            <sparkle:shortVersionString>5.89</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h2 style="font:600 15px -apple-system;margin:0 0 6px">Promptr Studio Pro 5.89</h2>
+<ul style="font:13px -apple-system;margin:0;padding-left:18px">
+<li><b>A document you attach counts as your own source.</b> Hand the agent a brand guide and tell it to remember, and the facts are stored right away. They used to arrive as candidates that had to be confirmed a second time, because only the text of your message counted as evidence. What the model concludes beyond the document still asks, and that prompt still shows exactly which sentence is about to be written.</li>
+</ul>
+]]></description>
+            <enclosure url="https://nxhbdyouzaznncshvvec.supabase.co/storage/v1/object/public/updates/Promptr-Studio-Pro-5.89-444.zip" length="172196303" type="application/octet-stream" sparkle:edSignature="UntM4wiaasVC0T9PIg0aw1UIyh3A6bjXTnCDGuXQ1YXL95mUiquwd5YuBpCNdbocb1WGb86R5MiUwgsJoqAuDA=="/>
+            <sparkle:deltas>
+                <enclosure url="https://nxhbdyouzaznncshvvec.supabase.co/storage/v1/object/public/updates/Promptr-Studio-Pro444-441.delta" sparkle:deltaFrom="441" length="3793994" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="979056" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="1jVWvADWev8eGy1T96NSJmlud2tp4OSX+jwCuVYlgQUb5Id++edSjwzI431k6qqQrMUHFA0hK562ICdGoup3DQ=="/>
+                <enclosure url="https://nxhbdyouzaznncshvvec.supabase.co/storage/v1/object/public/updates/Promptr-Studio-Pro444-436.delta" sparkle:deltaFrom="436" length="4278574" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="979056" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="r91N/r8h4EMUhNFf3swTVff97NT6GCfmBwyt7a61HBmdBiTIZo0lqDJTzlqqBnaAToW+83KjT725HYXWP2G+BQ=="/>
+                <enclosure url="https://nxhbdyouzaznncshvvec.supabase.co/storage/v1/object/public/updates/Promptr-Studio-Pro444-433.delta" sparkle:deltaFrom="433" length="4879122" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="979056" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="prIrOrPnLLuH3ARBi7JlWIirGvB/g6zN+RwzB9ALtSRBq24MkIJz6YC61b66QGArdPOCd2n0A/BugoJDbFYeCA=="/>
+                <enclosure url="https://nxhbdyouzaznncshvvec.supabase.co/storage/v1/object/public/updates/Promptr-Studio-Pro444-430.delta" sparkle:deltaFrom="430" length="4979534" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="979056" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="L8FGn3a3Ypgg8wTDGnr9O9Vg17cr1446yGWMhHwNMiO2v/eh62+MmfS6Nk6IWmHYqooqxY6qj3FN4CzhQLkmAQ=="/>
+                <enclosure url="https://nxhbdyouzaznncshvvec.supabase.co/storage/v1/object/public/updates/Promptr-Studio-Pro444-425.delta" sparkle:deltaFrom="425" length="5242814" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="979056" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="mYLF6wigZ9coFcb4P6W5YuL3YBE39MYRnQDGBiDLEpPGW7RS3I6yP8/u9JDqXbfWOz5EquAYasfUOPYG/qeqAg=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>5.88</title>
-            <pubDate>Sun, 20 Sep 2026 11:23:44 +0000</pubDate>
+            <pubDate>Sun, 20 Sep 2026 12:24:30 +0000</pubDate>
             <sparkle:version>441</sparkle:version>
             <sparkle:shortVersionString>5.88</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
@@ -16,17 +36,10 @@
 </ul>
 ]]></description>
             <enclosure url="https://nxhbdyouzaznncshvvec.supabase.co/storage/v1/object/public/updates/Promptr-Studio-Pro-5.88-441.zip" length="172190486" type="application/octet-stream" sparkle:edSignature="PKS9xG6JtALL1HfzoB0Zk/tfmhKM1wXjQXg4VWLE+bIu6t2Fw9Ny7T1QfDOWU+pvhU4UgDBU52ezDcuwgor7Bg=="/>
-            <sparkle:deltas>
-                <enclosure url="https://nxhbdyouzaznncshvvec.supabase.co/storage/v1/object/public/updates/Promptr-Studio-Pro441-436.delta" sparkle:deltaFrom="436" length="3674902" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="979056" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="G9LIHZeHx0bV2h/TRj8LrHBlhjNZVFwVgTjf/SMujGWQ1vXLOcEu55JY8HNXN4t1S3KQJ5fMccb6GRmPlmu8AA=="/>
-                <enclosure url="https://nxhbdyouzaznncshvvec.supabase.co/storage/v1/object/public/updates/Promptr-Studio-Pro441-433.delta" sparkle:deltaFrom="433" length="4691758" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="979056" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="Amu0rw4LacibrKW9mdBCVRRxCEIfy4mQo/jAVNnnhdPkbyN3kY0p6Dyl8kuWDHVptyACAQquc+TGbEbnagX1DQ=="/>
-                <enclosure url="https://nxhbdyouzaznncshvvec.supabase.co/storage/v1/object/public/updates/Promptr-Studio-Pro441-430.delta" sparkle:deltaFrom="430" length="4889910" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="979056" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="RyzT708l0Oua6ce3L+RiCsjHbg0ofVM1DRv5hBpSH7MiLP8BymipuDQe4rDhFKd9rmcovlLIWJUMUAR5oOd0BA=="/>
-                <enclosure url="https://nxhbdyouzaznncshvvec.supabase.co/storage/v1/object/public/updates/Promptr-Studio-Pro441-425.delta" sparkle:deltaFrom="425" length="5123362" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="979056" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="SW3Vm2YAT99pH+LPqAuk+ErAQcJZJg1Yz+fcXnsOxAO3ircHK1NpGS669UwI4mn1pKM+iq9cDpSal5BLY1BDDg=="/>
-                <enclosure url="https://nxhbdyouzaznncshvvec.supabase.co/storage/v1/object/public/updates/Promptr-Studio-Pro441-421.delta" sparkle:deltaFrom="421" length="5848450" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="979056" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="mjpTrqzvijoR4+0fa22R9Jj1CTZBGEogW09i6XtPlNAHQ/xYJkBRovJCznQTvDSWkvW1XRgRJ0O+1kzUZ24BBg=="/>
-            </sparkle:deltas>
         </item>
         <item>
             <title>5.87</title>
-            <pubDate>Sun, 20 Sep 2026 11:23:41 +0000</pubDate>
+            <pubDate>Sun, 20 Sep 2026 12:24:29 +0000</pubDate>
             <sparkle:version>436</sparkle:version>
             <sparkle:shortVersionString>5.87</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
@@ -37,20 +50,6 @@
 </ul>
 ]]></description>
             <enclosure url="https://nxhbdyouzaznncshvvec.supabase.co/storage/v1/object/public/updates/Promptr-Studio-Pro-5.87-436.zip" length="172185571" type="application/octet-stream" sparkle:edSignature="PPbxO5bq/xzB+Xk6Mq7y+qF0g4LST2iC3GDqdUSDFO8T23ICr2bkiaXTF/bkyOOmofPs34ek2sGnTSJRYDejCA=="/>
-        </item>
-        <item>
-            <title>5.86</title>
-            <pubDate>Sun, 20 Sep 2026 11:23:41 +0000</pubDate>
-            <sparkle:version>433</sparkle:version>
-            <sparkle:shortVersionString>5.86</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2 style="font:600 15px -apple-system;margin:0 0 6px">Promptr Studio Pro 5.86</h2>
-<ul style="font:13px -apple-system;margin:0;padding-left:18px">
-<li><b>FLUX Video Edit generates.</b> It asked for a start image that it never offers. The model edits an existing clip, so a source video and a prompt are all it needs. Switching to it now also clears reference images or audio from the previous model, which it cannot take.</li>
-<li><b>A disabled Generate button says why.</b> The reason used to live in the tooltip alone, so a blocked generate showed a price and nothing else. It now stands under the button in the video, image and audio composers.</li>
-</ul>
-]]></description>
-            <enclosure url="https://nxhbdyouzaznncshvvec.supabase.co/storage/v1/object/public/updates/Promptr-Studio-Pro-5.86-433.zip" length="172165859" type="application/octet-stream" sparkle:edSignature="2Ev4HXFqxpsuI0eVmclOR5d+xnRfc0k7OgxuPTzKi4SEPh64v24SwCwVpMbtk5qj70HKKcCsZP1u4R1TppXwCw=="/>
         </item>
     </channel>
 </rss>

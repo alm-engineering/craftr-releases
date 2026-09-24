@@ -3,8 +3,42 @@
     <channel>
         <title>Promptr Studio Pro</title>
         <item>
+            <title>5.92</title>
+            <pubDate>Thu, 24 Sep 2026 06:57:35 +0000</pubDate>
+            <sparkle:version>466</sparkle:version>
+            <sparkle:shortVersionString>5.92</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h2 style="font:600 15px -apple-system;margin:0 0 6px">Promptr Studio Pro 5.92</h2>
+<p style="font:600 13px -apple-system;margin:0 0 4px">Smart Edit with Paul</p>
+<ul style="font:13px -apple-system;margin:0 0 8px;padding-left:18px">
+<li><b>Paul writes your prompt.</b> Switch on Paul in the Smart Edit line, say what you want in plain English or German, and he turns it into a prompt the model understands, using what he knows about your project and the way you work.</li>
+<li><b>Show him instead of describing.</b> Drag up to three images into the line, from the gallery, the Finder, Photos or Safari, and write “like in this image, just a different car”. Paul looks at the image, reads the prompt a gallery image was made with, and builds on it.</li>
+<li><b>Your characters by name.</b> Write “the woman should look like Sara” and Paul brings Sara’s image along and describes her look, so the model gets more than a name.</li>
+<li><b>Paul remembers characters.</b> Drag in a photo and say “this is Sara, remember her”. The button at the end of the line shows everyone Paul knows in the project, and one click puts a name into your instruction.</li>
+<li><b>Ready to generate.</b> Ask for an image from the video tab, or a video from the image tab, and Paul opens the right tab, attaches the references and points to them in the prompt the way the model expects. “9:16”, “4K” or “10 seconds” set the format, resolution and duration too. If the selected image model cannot take the prompt or the images, Paul picks one that can and says so.</li>
+<li><b>He keeps the thread.</b> “Bring back the red coat from before” or “like the second-to-last version” works: Paul remembers the session and can reach back into the prompt history.</li>
+<li><b>One undo for everything.</b> Undo takes back the prompt together with the references and settings Paul changed.</li>
+</ul>
+<p style="font:600 13px -apple-system;margin:0 0 4px">Also</p>
+<ul style="font:13px -apple-system;margin:0;padding-left:18px">
+<li><b>Deleting from the gallery always asks first.</b> Nothing moves to the Trash without your click, and no key confirms by accident.</li>
+<li><b>Dragging an asset into another app hands over the file itself,</b> the way a drag from the Finder does.</li>
+<li><b>Audio in the video composer starts on.</b> The price with sound shows before you generate.</li>
+<li><b>Image prompt now works with large images too,</b> including big screenshots from Retina displays.</li>
+</ul>
+]]></description>
+            <enclosure url="https://nxhbdyouzaznncshvvec.supabase.co/storage/v1/object/public/updates/Promptr-Studio-Pro-5.92-466.zip" length="173154568" type="application/octet-stream" sparkle:edSignature="PHE5/K2G+DHGM849bwKAeK7sfRuOW9uy2jSziekrS/C5M0U6VlABgz6oK/8ypGisUdgPgUPijpxN407RWNj1Bw=="/>
+            <sparkle:deltas>
+                <enclosure url="https://nxhbdyouzaznncshvvec.supabase.co/storage/v1/object/public/updates/Promptr-Studio-Pro466-456.delta" sparkle:deltaFrom="456" length="6569874" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="979056" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="pq3ssEBvi3oZgxCDtQGvLOraSgMx0aMvMtzCW83KSVFR9Up7oypmZcyUdi8jVRNbntQFuD4icfJcqKbHsfQTDw=="/>
+                <enclosure url="https://nxhbdyouzaznncshvvec.supabase.co/storage/v1/object/public/updates/Promptr-Studio-Pro466-450.delta" sparkle:deltaFrom="450" length="6789154" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="979056" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="3NwIYIpaNuiQXL8G0VSdmOrReVaF4qTWWa5DAwU51xHwLeLpQvMIqeI5eU9gxbX0MWdwaEZuTOJKZcCRkQu1BQ=="/>
+                <enclosure url="https://nxhbdyouzaznncshvvec.supabase.co/storage/v1/object/public/updates/Promptr-Studio-Pro466-444.delta" sparkle:deltaFrom="444" length="7507942" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="979056" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="QME/6t2yOfvzzFrMzDo2zhk78LoB1DVGNOeHWDEi9x6CUNu4pD8qe8GbDmF2A2PVJhV8DIClRe8g2MczfAcJBw=="/>
+                <enclosure url="https://nxhbdyouzaznncshvvec.supabase.co/storage/v1/object/public/updates/Promptr-Studio-Pro466-441.delta" sparkle:deltaFrom="441" length="7546510" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="979056" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="YevGc+BEUnlyNtprJbNLAChId7JudSalzusPA78gBjw5aBmALzFoIjpMLA42B8Pl1EjWghlJcRnPb1Lf7AXvAg=="/>
+                <enclosure url="https://nxhbdyouzaznncshvvec.supabase.co/storage/v1/object/public/updates/Promptr-Studio-Pro466-436.delta" sparkle:deltaFrom="436" length="7573622" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="979056" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="RXlt2AQTSjO/4gzhT3pJx3AvkhLX4I1QkZyZJGu+94Q83HWs1efSNRBtpsTT2hCPLZCyHH92QYbiqGYuLFOhBQ=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>5.91</title>
-            <pubDate>Tue, 22 Sep 2026 08:05:47 +0000</pubDate>
+            <pubDate>Thu, 24 Sep 2026 06:57:32 +0000</pubDate>
             <sparkle:version>456</sparkle:version>
             <sparkle:shortVersionString>5.91</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
@@ -15,17 +49,10 @@
 </ul>
 ]]></description>
             <enclosure url="https://nxhbdyouzaznncshvvec.supabase.co/storage/v1/object/public/updates/Promptr-Studio-Pro-5.91-456.zip" length="172573445" type="application/octet-stream" sparkle:edSignature="gQ3YQ2QyEuT5Z3isJs4bfMQFsfoI1tYgw/07YgIVzQEImN3TtuR1Z+56+Ji3JVMt9yWYlrQyt6DWR4aCQnq6AA=="/>
-            <sparkle:deltas>
-                <enclosure url="https://nxhbdyouzaznncshvvec.supabase.co/storage/v1/object/public/updates/Promptr-Studio-Pro456-450.delta" sparkle:deltaFrom="450" length="5229514" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="979056" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="5E7GnD+DwKnUCTLRTS6+kW+Bp7PAKXlRJ0I2R71n16VX4Djevxv8G+IiFEjL9Jmu7KUD8qFhPlZEq9pXVnZaBQ=="/>
-                <enclosure url="https://nxhbdyouzaznncshvvec.supabase.co/storage/v1/object/public/updates/Promptr-Studio-Pro456-444.delta" sparkle:deltaFrom="444" length="6658254" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="979056" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="XGcncUUodE0a0NeLf+7H0j7K9d9gQSMPr5ezMjVIsaZbg6y/cCE9gsqV8x2Opshd6sVjpaMknJufeWBAhuj/Cw=="/>
-                <enclosure url="https://nxhbdyouzaznncshvvec.supabase.co/storage/v1/object/public/updates/Promptr-Studio-Pro456-441.delta" sparkle:deltaFrom="441" length="6649586" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="979056" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="azWBMjNiQexUo5HZkdbNjQdNkZZ/oa/NMbmx5s13UB370tbQt2M1tFkSmWhOazZhWE+QIuYrPqqfRWYRUs/GBg=="/>
-                <enclosure url="https://nxhbdyouzaznncshvvec.supabase.co/storage/v1/object/public/updates/Promptr-Studio-Pro456-436.delta" sparkle:deltaFrom="436" length="6704270" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="979056" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="hELtxo1/Vw2N0QkxKti887lQYaBlHsg8sRkFahn2E74AYgF6QG8oMfvXlBXyjhCzgxt9b0A7XzhHZzXD6jRlAw=="/>
-                <enclosure url="https://nxhbdyouzaznncshvvec.supabase.co/storage/v1/object/public/updates/Promptr-Studio-Pro456-433.delta" sparkle:deltaFrom="433" length="6758006" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="979056" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="bPDb4tBepS9BJsvr8BTTDMJoZLPzkOuS4tcPZ+k7POWE3jCbL4LXnj6Negk69VG48iF2chwHq7Ml+Yg/EngHCw=="/>
-            </sparkle:deltas>
         </item>
         <item>
             <title>5.90</title>
-            <pubDate>Tue, 22 Sep 2026 08:05:45 +0000</pubDate>
+            <pubDate>Thu, 24 Sep 2026 06:57:32 +0000</pubDate>
             <sparkle:version>450</sparkle:version>
             <sparkle:shortVersionString>5.90</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
@@ -36,19 +63,6 @@
 </ul>
 ]]></description>
             <enclosure url="https://nxhbdyouzaznncshvvec.supabase.co/storage/v1/object/public/updates/Promptr-Studio-Pro-5.90-450.zip" length="172526932" type="application/octet-stream" sparkle:edSignature="3uM1sY4ZywjjZ9MnIWup0haNPU7wkMTTaDAUcj6sYEAaTaosfBZcbUh5YJykkyYB/PblqqgXDqnjIC3oGr9wAQ=="/>
-        </item>
-        <item>
-            <title>5.89</title>
-            <pubDate>Tue, 22 Sep 2026 08:05:44 +0000</pubDate>
-            <sparkle:version>444</sparkle:version>
-            <sparkle:shortVersionString>5.89</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2 style="font:600 15px -apple-system;margin:0 0 6px">Promptr Studio Pro 5.89</h2>
-<ul style="font:13px -apple-system;margin:0;padding-left:18px">
-<li><b>A document you attach counts as your own source.</b> Hand the agent a brand guide and tell it to remember, and the facts are stored right away. They used to arrive as candidates that had to be confirmed a second time, because only the text of your message counted as evidence. What the model concludes beyond the document still asks, and that prompt still shows exactly which sentence is about to be written.</li>
-</ul>
-]]></description>
-            <enclosure url="https://nxhbdyouzaznncshvvec.supabase.co/storage/v1/object/public/updates/Promptr-Studio-Pro-5.89-444.zip" length="172196303" type="application/octet-stream" sparkle:edSignature="UntM4wiaasVC0T9PIg0aw1UIyh3A6bjXTnCDGuXQ1YXL95mUiquwd5YuBpCNdbocb1WGb86R5MiUwgsJoqAuDA=="/>
         </item>
     </channel>
 </rss>

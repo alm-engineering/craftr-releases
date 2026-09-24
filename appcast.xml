@@ -3,8 +3,32 @@
     <channel>
         <title>Promptr Studio Pro</title>
         <item>
+            <title>5.93</title>
+            <pubDate>Thu, 24 Sep 2026 10:12:14 +0000</pubDate>
+            <sparkle:version>470</sparkle:version>
+            <sparkle:shortVersionString>5.93</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h2 style="font:600 15px -apple-system;margin:0 0 6px">Promptr Studio Pro 5.93</h2>
+<p style="font:600 13px -apple-system;margin:0 0 4px">Smart Edit with Paul</p>
+<ul style="font:13px -apple-system;margin:0;padding-left:18px">
+<li><b>Paul switches the model for you.</b> Write “make this with Nano Banana Pro” or “use Kling 3 for this”, and Paul sets the composer to that model together with the prompt. If a model is not available right now or belongs to the other tab, he says so. Undo switches back and brings back the references the switch had to remove.</li>
+<li><b>A character can have several images.</b> Paul brings up to three of them, the main image first, so the model sees more of the character than a single shot.</li>
+<li><b>Assign images from the gallery.</b> Right-click one or more images to add them to a character Paul knows, or to create a new one.</li>
+<li><b>All images of a character in one place.</b> The character window shows every image: choose the main image, remove one or add more from the Finder.</li>
+</ul>
+]]></description>
+            <enclosure url="https://nxhbdyouzaznncshvvec.supabase.co/storage/v1/object/public/updates/Promptr-Studio-Pro-5.93-470.zip" length="173410150" type="application/octet-stream" sparkle:edSignature="e3hj3/EfltNOsrByJHPGu05QxaAZz6Cli0j3hGTBgp4+r//+v0MyjKjGMRB0+0hu+ePkGxkBMsE01n4s4gFLCA=="/>
+            <sparkle:deltas>
+                <enclosure url="https://nxhbdyouzaznncshvvec.supabase.co/storage/v1/object/public/updates/Promptr-Studio-Pro470-466.delta" sparkle:deltaFrom="466" length="6133030" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="979056" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="t2TKarbvhIOSTUrVCwC/nLgYu+puboyb4HjoyRZTCFmV7swp8Qz/vriNL6M+5xiXakA+jLskQdVVpmLASL6/Dw=="/>
+                <enclosure url="https://nxhbdyouzaznncshvvec.supabase.co/storage/v1/object/public/updates/Promptr-Studio-Pro470-456.delta" sparkle:deltaFrom="456" length="6912970" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="979056" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="fh10i/J9TSGzwFRWt/C6BnAA2vZJ4McZYzBcGBqpZ6QYlRozxAHCkeWN9TmL4Jrh4a+grk6PyTfLvPSP5b4+AQ=="/>
+                <enclosure url="https://nxhbdyouzaznncshvvec.supabase.co/storage/v1/object/public/updates/Promptr-Studio-Pro470-450.delta" sparkle:deltaFrom="450" length="7098942" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="979056" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="HDDAgADIcRoudaqrr1FHa/r84gkd2E1hrTxcJapVFndfGP95GsZXLwW5KHe4q4EnCOUCgEad29CmvkPZpdtBDQ=="/>
+                <enclosure url="https://nxhbdyouzaznncshvvec.supabase.co/storage/v1/object/public/updates/Promptr-Studio-Pro470-444.delta" sparkle:deltaFrom="444" length="7838538" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="979056" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="7nk0KuERiOL4wx45viLZZ9ZZag5bzEWWxPZ7VFaWv6S2mzbpz6oY6VHirUpnuyAnW1Jkt3kND3rOGMRVZ2NUAg=="/>
+                <enclosure url="https://nxhbdyouzaznncshvvec.supabase.co/storage/v1/object/public/updates/Promptr-Studio-Pro470-441.delta" sparkle:deltaFrom="441" length="7874458" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="979056" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="soPw14LCBHn63INfuZeeIEoSePkQhwzZ8bkbt9lG3Ox4mhhsVUW8banZ2+qypjgWAwOKvXUyx/LulkM4GOqdCA=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>5.92</title>
-            <pubDate>Thu, 24 Sep 2026 06:57:35 +0000</pubDate>
+            <pubDate>Thu, 24 Sep 2026 10:12:12 +0000</pubDate>
             <sparkle:version>466</sparkle:version>
             <sparkle:shortVersionString>5.92</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
@@ -28,17 +52,10 @@
 </ul>
 ]]></description>
             <enclosure url="https://nxhbdyouzaznncshvvec.supabase.co/storage/v1/object/public/updates/Promptr-Studio-Pro-5.92-466.zip" length="173154568" type="application/octet-stream" sparkle:edSignature="PHE5/K2G+DHGM849bwKAeK7sfRuOW9uy2jSziekrS/C5M0U6VlABgz6oK/8ypGisUdgPgUPijpxN407RWNj1Bw=="/>
-            <sparkle:deltas>
-                <enclosure url="https://nxhbdyouzaznncshvvec.supabase.co/storage/v1/object/public/updates/Promptr-Studio-Pro466-456.delta" sparkle:deltaFrom="456" length="6569874" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="979056" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="pq3ssEBvi3oZgxCDtQGvLOraSgMx0aMvMtzCW83KSVFR9Up7oypmZcyUdi8jVRNbntQFuD4icfJcqKbHsfQTDw=="/>
-                <enclosure url="https://nxhbdyouzaznncshvvec.supabase.co/storage/v1/object/public/updates/Promptr-Studio-Pro466-450.delta" sparkle:deltaFrom="450" length="6789154" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="979056" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="3NwIYIpaNuiQXL8G0VSdmOrReVaF4qTWWa5DAwU51xHwLeLpQvMIqeI5eU9gxbX0MWdwaEZuTOJKZcCRkQu1BQ=="/>
-                <enclosure url="https://nxhbdyouzaznncshvvec.supabase.co/storage/v1/object/public/updates/Promptr-Studio-Pro466-444.delta" sparkle:deltaFrom="444" length="7507942" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="979056" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="QME/6t2yOfvzzFrMzDo2zhk78LoB1DVGNOeHWDEi9x6CUNu4pD8qe8GbDmF2A2PVJhV8DIClRe8g2MczfAcJBw=="/>
-                <enclosure url="https://nxhbdyouzaznncshvvec.supabase.co/storage/v1/object/public/updates/Promptr-Studio-Pro466-441.delta" sparkle:deltaFrom="441" length="7546510" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="979056" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="YevGc+BEUnlyNtprJbNLAChId7JudSalzusPA78gBjw5aBmALzFoIjpMLA42B8Pl1EjWghlJcRnPb1Lf7AXvAg=="/>
-                <enclosure url="https://nxhbdyouzaznncshvvec.supabase.co/storage/v1/object/public/updates/Promptr-Studio-Pro466-436.delta" sparkle:deltaFrom="436" length="7573622" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="979056" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="RXlt2AQTSjO/4gzhT3pJx3AvkhLX4I1QkZyZJGu+94Q83HWs1efSNRBtpsTT2hCPLZCyHH92QYbiqGYuLFOhBQ=="/>
-            </sparkle:deltas>
         </item>
         <item>
             <title>5.91</title>
-            <pubDate>Thu, 24 Sep 2026 06:57:32 +0000</pubDate>
+            <pubDate>Thu, 24 Sep 2026 10:12:11 +0000</pubDate>
             <sparkle:version>456</sparkle:version>
             <sparkle:shortVersionString>5.91</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
@@ -49,20 +66,6 @@
 </ul>
 ]]></description>
             <enclosure url="https://nxhbdyouzaznncshvvec.supabase.co/storage/v1/object/public/updates/Promptr-Studio-Pro-5.91-456.zip" length="172573445" type="application/octet-stream" sparkle:edSignature="gQ3YQ2QyEuT5Z3isJs4bfMQFsfoI1tYgw/07YgIVzQEImN3TtuR1Z+56+Ji3JVMt9yWYlrQyt6DWR4aCQnq6AA=="/>
-        </item>
-        <item>
-            <title>5.90</title>
-            <pubDate>Thu, 24 Sep 2026 06:57:32 +0000</pubDate>
-            <sparkle:version>450</sparkle:version>
-            <sparkle:shortVersionString>5.90</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2 style="font:600 15px -apple-system;margin:0 0 6px">Promptr Studio Pro 5.90</h2>
-<ul style="font:13px -apple-system;margin:0;padding-left:18px">
-<li><b>News about new features, right in the app.</b> A short note appears above the gallery when something new is available, and you can dismiss it with one click.</li>
-<li><b>You may be asked a quick question.</b> Now and then a small card asks how you get on with a feature, or whether something is in your way. A thumb, two sentences, or a link to a short survey. Answering is always optional, and nothing ever blocks your work.</li>
-</ul>
-]]></description>
-            <enclosure url="https://nxhbdyouzaznncshvvec.supabase.co/storage/v1/object/public/updates/Promptr-Studio-Pro-5.90-450.zip" length="172526932" type="application/octet-stream" sparkle:edSignature="3uM1sY4ZywjjZ9MnIWup0haNPU7wkMTTaDAUcj6sYEAaTaosfBZcbUh5YJykkyYB/PblqqgXDqnjIC3oGr9wAQ=="/>
         </item>
     </channel>
 </rss>

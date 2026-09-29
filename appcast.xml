@@ -3,8 +3,31 @@
     <channel>
         <title>Promptr Studio Pro</title>
         <item>
+            <title>5.98</title>
+            <pubDate>Tue, 29 Sep 2026 14:34:20 +0000</pubDate>
+            <sparkle:version>531</sparkle:version>
+            <sparkle:shortVersionString>5.98</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h2 style="font:600 15px -apple-system;margin:0 0 6px">Promptr Studio Pro 5.98</h2>
+<p style="font:600 13px -apple-system;margin:0 0 4px">Enhance</p>
+<ul style="font:13px -apple-system;margin:0;padding-left:18px">
+<li><b>Upscaled videos play.</b> Topaz video results open in the preview and in QuickTime. Videos downloaded earlier are repaired the first time you open them.</li>
+<li><b>The reason instead of "Price unknown".</b> If a video is too long or too large for the selected enhancer, the Enhance panel names the limit.</li>
+<li><b>Large results arrive in full.</b> Very large upscales are delivered completely, however big the file.</li>
+</ul>
+]]></description>
+            <enclosure url="https://nxhbdyouzaznncshvvec.supabase.co/storage/v1/object/public/updates/Promptr-Studio-Pro-5.98-531.zip" length="174605810" type="application/octet-stream" sparkle:edSignature="X7437B2OjOnLEn90k0jeYL8xk4bqL1zCiAdb2pIBLew+FRvaiFev0u2nPOHukTWd/mb7d8c1Xog1JezObXMVBA=="/>
+            <sparkle:deltas>
+                <enclosure url="https://nxhbdyouzaznncshvvec.supabase.co/storage/v1/object/public/updates/Promptr-Studio-Pro531-527.delta" sparkle:deltaFrom="527" length="5234794" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="979056" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="99FGbcqy6InRGWF04zwVVymGJOmi/K3cMGX5cAN5rDO3/w8x49+OBnj8U+rxkTy9cZqS6jInUcDoIYromfhvCQ=="/>
+                <enclosure url="https://nxhbdyouzaznncshvvec.supabase.co/storage/v1/object/public/updates/Promptr-Studio-Pro531-521.delta" sparkle:deltaFrom="521" length="6153906" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="979056" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="H4HtDJwNvsY0dGQYpI49iMvQEEiEaxjh4MzFygjteaSy1uPWVzTWWYAWW1oDv3jkloV7i1jC6iOTIgb1u89+AA=="/>
+                <enclosure url="https://nxhbdyouzaznncshvvec.supabase.co/storage/v1/object/public/updates/Promptr-Studio-Pro531-507.delta" sparkle:deltaFrom="507" length="6895438" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="979056" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="YGN5maISpZxpYncTPXGLwBi0cN63LN+i6YPe0wNLctIf5Vr26RYYRWv5PR30RgrN9iQDQ+56cEVwErbWsVnsCA=="/>
+                <enclosure url="https://nxhbdyouzaznncshvvec.supabase.co/storage/v1/object/public/updates/Promptr-Studio-Pro531-474.delta" sparkle:deltaFrom="474" length="9292954" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="979056" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="2oCaAStHDnX/8cgsZ4lUwqOwhaWTU0v2ncT8zPtCb18onKfQq+6eXtWlL8UgBK+n7KV+UpeWT12/3bdDDAj6DA=="/>
+                <enclosure url="https://nxhbdyouzaznncshvvec.supabase.co/storage/v1/object/public/updates/Promptr-Studio-Pro531-470.delta" sparkle:deltaFrom="470" length="10025074" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="979056" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="VN8pYOktJ4wf8W2/qdQ7beRqVYCcHaajr1R0SMlTpWmQe8mYhl/IoGafBUXGePQTu481hVf9QdaJB0T2tXMcDQ=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>5.97</title>
-            <pubDate>Mon, 28 Sep 2026 09:10:05 +0000</pubDate>
+            <pubDate>Tue, 29 Sep 2026 14:34:12 +0000</pubDate>
             <sparkle:version>527</sparkle:version>
             <sparkle:shortVersionString>5.97</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
@@ -17,17 +40,10 @@
 </ul>
 ]]></description>
             <enclosure url="https://nxhbdyouzaznncshvvec.supabase.co/storage/v1/object/public/updates/Promptr-Studio-Pro-5.97-527.zip" length="174588990" type="application/octet-stream" sparkle:edSignature="bqU6HMgXXWRL1vUfp0iKiYe6vn/u39DVe7mK0W8vNABTQmXvTSjXVNZFV813BbdIwvUSImZo//AV41Zl+EfRDw=="/>
-            <sparkle:deltas>
-                <enclosure url="https://nxhbdyouzaznncshvvec.supabase.co/storage/v1/object/public/updates/Promptr-Studio-Pro527-521.delta" sparkle:deltaFrom="521" length="5691206" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="979056" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="gKV1sWeyBLyfmuG1pVJGIFvKh8rR2s/rLaXBJoVRkdJR48vy5+v0uDSbwTZf9KOJcgV2HSCPUYg06NDlp+JkBA=="/>
-                <enclosure url="https://nxhbdyouzaznncshvvec.supabase.co/storage/v1/object/public/updates/Promptr-Studio-Pro527-507.delta" sparkle:deltaFrom="507" length="6769958" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="979056" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="rx/sna78VUu9LVbISlT8aHvgQSsVrNnWmCw87ZMV5pEyf1y/BecX0QVod4IHqEOMKvx8cllOHDpuiVzRxL/DDw=="/>
-                <enclosure url="https://nxhbdyouzaznncshvvec.supabase.co/storage/v1/object/public/updates/Promptr-Studio-Pro527-474.delta" sparkle:deltaFrom="474" length="9149018" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="979056" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="A8uK7oLdiFXzcPE/jIKvxlmTZveySORY1/3asWDSL8gCI1yCb9x/IVmPPX4svJy/CyzyViviy85mSScMH8TfDA=="/>
-                <enclosure url="https://nxhbdyouzaznncshvvec.supabase.co/storage/v1/object/public/updates/Promptr-Studio-Pro527-470.delta" sparkle:deltaFrom="470" length="9925378" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="979056" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="C3nsIRsFGqlTYnWCxAypliOC48s8oa1fTsjbWIUwxyozw0kPSh8Q5MnE4F1u6+lTt1O0h4wgXU+RiZNs4Tb8Cg=="/>
-                <enclosure url="https://nxhbdyouzaznncshvvec.supabase.co/storage/v1/object/public/updates/Promptr-Studio-Pro527-466.delta" sparkle:deltaFrom="466" length="10228346" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="979056" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="FqMZ6xmxj2hk38u1wr9jdjdngoH8XcpjclK1yyxtSyU2oXuEGs8GIAH2J1/nVBQpBErzxXqEENzwLQ8ZO4zqCg=="/>
-            </sparkle:deltas>
         </item>
         <item>
             <title>5.96</title>
-            <pubDate>Mon, 28 Sep 2026 09:10:04 +0000</pubDate>
+            <pubDate>Tue, 29 Sep 2026 14:34:12 +0000</pubDate>
             <sparkle:version>521</sparkle:version>
             <sparkle:shortVersionString>5.96</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
@@ -51,19 +67,6 @@
 </ul>
 ]]></description>
             <enclosure url="https://nxhbdyouzaznncshvvec.supabase.co/storage/v1/object/public/updates/Promptr-Studio-Pro-5.96-521.zip" length="174507109" type="application/octet-stream" sparkle:edSignature="zEuiMC/A0MbfjXcSeX6uM1ryFixhlZg5/AhbHSfsS1CFt8UaQvRst/gaPMLIIr9VwvWrHtVxgzd+0E2zuKL5BA=="/>
-        </item>
-        <item>
-            <title>5.95</title>
-            <pubDate>Mon, 28 Sep 2026 09:10:03 +0000</pubDate>
-            <sparkle:version>507</sparkle:version>
-            <sparkle:shortVersionString>5.95</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2 style="font:600 15px -apple-system;margin:0 0 6px">Promptr Studio Pro 5.95</h2>
-<ul style="font:13px -apple-system;margin:0;padding-left:18px">
-<li>A couple of bug fixes and improvements.</li>
-</ul>
-]]></description>
-            <enclosure url="https://nxhbdyouzaznncshvvec.supabase.co/storage/v1/object/public/updates/Promptr-Studio-Pro-5.95-507.zip" length="174280187" type="application/octet-stream" sparkle:edSignature="EI7UwK5XY+x7kU8JqFNhhEkPkmvbjdazri95Ow0VCvHWUPZuLYfpkbgw+AW5Q2aHOlkNwcuh2hiVgKTFbKdpDA=="/>
         </item>
     </channel>
 </rss>

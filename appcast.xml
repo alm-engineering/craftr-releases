@@ -3,8 +3,51 @@
     <channel>
         <title>Promptr Studio Pro</title>
         <item>
+            <title>5.101</title>
+            <pubDate>Fri, 02 Oct 2026 13:43:20 +0000</pubDate>
+            <sparkle:version>541</sparkle:version>
+            <sparkle:shortVersionString>5.101</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h2 style="font:600 15px -apple-system;margin:0 0 6px">Promptr Studio Pro 5.101</h2>
+<p style="font:600 13px -apple-system;margin:0 0 4px">3D Scene Composer</p>
+<ul style="font:13px -apple-system;margin:0;padding-left:18px">
+<li><b>Step by step.</b> A step bar guides you from building the scene to camera, motion and export.</li>
+<li><b>All models at hand.</b> Every element sits in the sidebar, grouped and ready to drag into the scene. GLB files can be dropped in from the Finder.</li>
+<li><b>Floating controls.</b> A panel over the image shows the tools and shortcuts of each step.</li>
+<li><b>Camera moves.</b> Push in, pull back, orbit, crane and more, aimed at the subject you choose.</li>
+<li><b>Save as MP4.</b> Export the scene as a video file.</li>
+</ul>
+<p style="font:600 13px -apple-system;margin:8px 0 4px">Workflow</p>
+<ul style="font:13px -apple-system;margin:0;padding-left:18px">
+<li><b>Move projects.</b> Right-click a project in the sidebar to move its folder, for example into your client's folder.</li>
+<li><b>Done marks on folders.</b> A folder shows a green check when a generation in it is done and a red mark when one failed, until you open it.</li>
+<li><b>Before and after for every upscale.</b> Topaz and Crystal upscales get the comparison slider, like Magnific.</li>
+<li><b>Clearer start.</b> The tour and the New Project dialog explain credits, cloud and folders in plain words.</li>
+<li><b>Paul in your language.</b> Paul's tool messages and approvals follow the app language.</li>
+<li><b>Usage list.</b> Every entry says what it was, AI calls included.</li>
+<li><b>Smart Edit on small screens.</b> The Smart Edit bar fits narrow columns, for example on a laptop with the agent open.</li>
+</ul>
+<p style="font:600 13px -apple-system;margin:8px 0 4px">Fixes</p>
+<ul style="font:13px -apple-system;margin:0;padding-left:18px">
+<li>GPT Image 2.5 Sunburst, Flare and Sunburst Edit are ready to generate right after the app starts.</li>
+<li>No "Price unknown" on the Generate button before you write a prompt.</li>
+<li>Expand after a running Replace no longer sends a second Replace.</li>
+<li>"Editing…" no longer stays on screen when an edit is declined.</li>
+<li>The selection bar shows icons instead of cut-off labels in a narrow gallery.</li>
+</ul>
+]]></description>
+            <enclosure url="https://nxhbdyouzaznncshvvec.supabase.co/storage/v1/object/public/updates/Promptr-Studio-Pro-5.101-541.zip" length="175985428" type="application/octet-stream" sparkle:edSignature="Gq6F1vTT5q4DkJvHWaVaL7qjKPCwEaXlbFaGH/MuQGElUznsn87ztOb+oryNAlt+DZBIx0Kr9u74IUG0hv0xCg=="/>
+            <sparkle:deltas>
+                <enclosure url="https://nxhbdyouzaznncshvvec.supabase.co/storage/v1/object/public/updates/Promptr-Studio-Pro541-538.delta" sparkle:deltaFrom="538" length="9007166" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="979056" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="kV6mkbFxh282SinyCw+/S+9ksCIEbaYE/cJmeM83M9pM0QCNIBXReT8KiyA7NwUS7nEisTvGvNcvLa32wROQDQ=="/>
+                <enclosure url="https://nxhbdyouzaznncshvvec.supabase.co/storage/v1/object/public/updates/Promptr-Studio-Pro541-537.delta" sparkle:deltaFrom="537" length="9319526" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="979056" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="YaapZnTehTamupzITihY1RMsCtWMowYMtye4zos77EqQREjPx0aHEPJUwAkJkLDt0g/kZcuxlcpHUNDo9izGDA=="/>
+                <enclosure url="https://nxhbdyouzaznncshvvec.supabase.co/storage/v1/object/public/updates/Promptr-Studio-Pro541-531.delta" sparkle:deltaFrom="531" length="9334694" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="979056" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="6N5OIeQssfREO29YzMpatN/TJFDsNRBPXQjZXWUWBGBcpmJ9GmfdY5Nf1ixbfpkNHeRSB9SGdphQmcfc7KZaBQ=="/>
+                <enclosure url="https://nxhbdyouzaznncshvvec.supabase.co/storage/v1/object/public/updates/Promptr-Studio-Pro541-527.delta" sparkle:deltaFrom="527" length="9549346" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="979056" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="ctHEY1iegB2ikfHg0ZBXaon0mlj2dQJsThn53WAT4lDzEC1dst+7uVT8NrkMbVwrveu8SGmT3Oq3nI+8uWbjAw=="/>
+                <enclosure url="https://nxhbdyouzaznncshvvec.supabase.co/storage/v1/object/public/updates/Promptr-Studio-Pro541-521.delta" sparkle:deltaFrom="521" length="9679610" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="979056" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="blg2mnVgHEU8etpPgZtdHhAOX9rNdO5Eui/G4H3s3Il3VU1ZrLQUWqO43RUsqNltX1Evp7SyELm6j2ds9F3eDw=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>5.100</title>
-            <pubDate>Wed, 30 Sep 2026 22:10:45 +0000</pubDate>
+            <pubDate>Fri, 02 Oct 2026 13:42:48 +0000</pubDate>
             <sparkle:version>538</sparkle:version>
             <sparkle:shortVersionString>5.100</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
@@ -18,17 +61,10 @@
 </ul>
 ]]></description>
             <enclosure url="https://nxhbdyouzaznncshvvec.supabase.co/storage/v1/object/public/updates/Promptr-Studio-Pro-5.100-538.zip" length="174673685" type="application/octet-stream" sparkle:edSignature="7+ZrERXuwgyas6jt0L0WJLQuL4Mocy16Cqr/pgCqGvljk11D+bwzxv26DXScWIkCbgtQbqsWNJd1ygq4aSkECg=="/>
-            <sparkle:deltas>
-                <enclosure url="https://nxhbdyouzaznncshvvec.supabase.co/storage/v1/object/public/updates/Promptr-Studio-Pro538-537.delta" sparkle:deltaFrom="537" length="5608466" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="979056" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="SuE/fgZzP0gLs5qxMCGiDW0O6tq2JrDa4t3ALsJdqt9giGsSiMD6l6vMI4sdlaXXeTv7/Zv9GXiajwhv+KMUDA=="/>
-                <enclosure url="https://nxhbdyouzaznncshvvec.supabase.co/storage/v1/object/public/updates/Promptr-Studio-Pro538-531.delta" sparkle:deltaFrom="531" length="5712382" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="979056" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="SWHwgsvlwKZBKa3ymwrOgQrsfHf9Me9/L0FueBcLVkSQhad91AECRMG18CQDPSSxZQomBV/T0vtEYLggZN/yBQ=="/>
-                <enclosure url="https://nxhbdyouzaznncshvvec.supabase.co/storage/v1/object/public/updates/Promptr-Studio-Pro538-527.delta" sparkle:deltaFrom="527" length="6056822" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="979056" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="yEZn1Ilec547S16DohjcFhMNy3UaBSi4QC+pEUS4rRKhg0DaoiuAk4BG/HwXCE/8D790sBIR91lVBziP35kiDQ=="/>
-                <enclosure url="https://nxhbdyouzaznncshvvec.supabase.co/storage/v1/object/public/updates/Promptr-Studio-Pro538-521.delta" sparkle:deltaFrom="521" length="6656498" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="979056" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="k9zLQ8qotdyuhlbhFwxWUHxaZ6tdfvA6pBHgV/D3H3CLLjfYl7k08jb2qAj08sp4lJv1G6y7MZRY0FPzDGKIBg=="/>
-                <enclosure url="https://nxhbdyouzaznncshvvec.supabase.co/storage/v1/object/public/updates/Promptr-Studio-Pro538-507.delta" sparkle:deltaFrom="507" length="7318482" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="979056" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="VMQVPV8OSIyoza7RHVmWLHLD5pOIxyByAvIr71Z53P2z6KFFltmkEzi/Qc9djrpxnCxJHa/vyk5pkZqp7Dw5Ag=="/>
-            </sparkle:deltas>
         </item>
         <item>
             <title>5.99</title>
-            <pubDate>Wed, 30 Sep 2026 22:10:43 +0000</pubDate>
+            <pubDate>Fri, 02 Oct 2026 13:43:18 +0000</pubDate>
             <sparkle:version>537</sparkle:version>
             <sparkle:shortVersionString>5.99</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
@@ -40,22 +76,6 @@
 </ul>
 ]]></description>
             <enclosure url="https://nxhbdyouzaznncshvvec.supabase.co/storage/v1/object/public/updates/Promptr-Studio-Pro-5.99-537.zip" length="174617366" type="application/octet-stream" sparkle:edSignature="KotB5wKmcbVO8Mwp++u2gsSaE+7qGcZe6B5/hdj1Odhm/61MFrz7BFV5xfLs2nBGtH3W/s5jdmElh5kDQFXVAg=="/>
-        </item>
-        <item>
-            <title>5.98</title>
-            <pubDate>Wed, 30 Sep 2026 22:10:42 +0000</pubDate>
-            <sparkle:version>531</sparkle:version>
-            <sparkle:shortVersionString>5.98</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2 style="font:600 15px -apple-system;margin:0 0 6px">Promptr Studio Pro 5.98</h2>
-<p style="font:600 13px -apple-system;margin:0 0 4px">Enhance</p>
-<ul style="font:13px -apple-system;margin:0;padding-left:18px">
-<li><b>Upscaled videos play.</b> Topaz video results open in the preview and in QuickTime. Videos downloaded earlier are repaired the first time you open them.</li>
-<li><b>The reason instead of "Price unknown".</b> If a video is too long or too large for the selected enhancer, the Enhance panel names the limit.</li>
-<li><b>Large results arrive in full.</b> Very large upscales are delivered completely, however big the file.</li>
-</ul>
-]]></description>
-            <enclosure url="https://nxhbdyouzaznncshvvec.supabase.co/storage/v1/object/public/updates/Promptr-Studio-Pro-5.98-531.zip" length="174605810" type="application/octet-stream" sparkle:edSignature="X7437B2OjOnLEn90k0jeYL8xk4bqL1zCiAdb2pIBLew+FRvaiFev0u2nPOHukTWd/mb7d8c1Xog1JezObXMVBA=="/>
         </item>
     </channel>
 </rss>

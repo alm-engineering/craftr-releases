@@ -3,8 +3,30 @@
     <channel>
         <title>Promptr Studio Pro</title>
         <item>
+            <title>5.106</title>
+            <pubDate>Tue, 06 Oct 2026 17:02:05 +0000</pubDate>
+            <sparkle:version>589</sparkle:version>
+            <sparkle:shortVersionString>5.106</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h2 style="font:600 15px -apple-system;margin:0 0 6px">Promptr Studio Pro 5.106</h2>
+<p style="font:600 13px -apple-system;margin:0 0 4px">New image models</p>
+<ul style="font:13px -apple-system;margin:0;padding-left:18px">
+<li><b>Nano Banana 2.1.</b> Google's latest Nano Banana for text to image, in 1K, 2K and 4K.</li>
+<li><b>Nano Banana 2.1 Edit.</b> Edit and combine up to 14 reference images with a prompt.</li>
+</ul>
+]]></description>
+            <enclosure url="https://nxhbdyouzaznncshvvec.supabase.co/storage/v1/object/public/updates/Promptr-Studio-Pro-5.106-589.zip" length="176756910" type="application/octet-stream" sparkle:edSignature="TwIzvZ7KEuj2k/v9mlruR+X5xUWXW9khxxUtY+gD7/8mg0GEOPeysTmkmwNT+mS3WIwEG5ZstM4OCK0vPe7bBA=="/>
+            <sparkle:deltas>
+                <enclosure url="https://nxhbdyouzaznncshvvec.supabase.co/storage/v1/object/public/updates/Promptr-Studio-Pro589-586.delta" sparkle:deltaFrom="586" length="5144214" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="979056" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="8pAmdYSOdJpmUiXKiiZ6lQN/RE5OFbbR5IO2hMrtMqLbj8CtYXS0z1EKDbbsfu5WmRM2ap3WyyolEqFZUGVPDg=="/>
+                <enclosure url="https://nxhbdyouzaznncshvvec.supabase.co/storage/v1/object/public/updates/Promptr-Studio-Pro589-582.delta" sparkle:deltaFrom="582" length="5668742" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="979056" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="w0TIHa0MIwVuOtFf0xPHEwRi5TOHvCGGD0iPXA3QJIUW5P6WCTwsPxIEXqAvHLiIwEdCPYR5BKzMPPZ5jCRGAg=="/>
+                <enclosure url="https://nxhbdyouzaznncshvvec.supabase.co/storage/v1/object/public/updates/Promptr-Studio-Pro589-572.delta" sparkle:deltaFrom="572" length="7052646" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="979056" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="BLQ5qplzHM6/qH+Aj1M2hmxZGGhDEADLr9nSd6G6kNVvTYccxxigfjVyvjpy/L93nNUEIndB8vFtnHGp8UrHBw=="/>
+                <enclosure url="https://nxhbdyouzaznncshvvec.supabase.co/storage/v1/object/public/updates/Promptr-Studio-Pro589-562.delta" sparkle:deltaFrom="562" length="7346478" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="979056" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="/dwFAux2rxs79lQB5bhThGfLawIHfnp0IE4GKF+kF0QXK+cMyIPiOF0p5zhHX9YUr2HhU+1Oxupy6JPZQjPWCw=="/>
+                <enclosure url="https://nxhbdyouzaznncshvvec.supabase.co/storage/v1/object/public/updates/Promptr-Studio-Pro589-541.delta" sparkle:deltaFrom="541" length="8416514" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="979056" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="p9xbjlkBf/0Rbn5bs44gDxmyoc8j4rqLTJpjwqezAllB5PBdHq1aIJBlRaRDRMDTKXcODzA75BVbH+3IOGBgCg=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>5.105</title>
-            <pubDate>Tue, 06 Oct 2026 15:50:40 +0000</pubDate>
+            <pubDate>Tue, 06 Oct 2026 17:01:37 +0000</pubDate>
             <sparkle:version>586</sparkle:version>
             <sparkle:shortVersionString>5.105</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
@@ -12,17 +34,10 @@
 <p style="font:13px -apple-system;margin:0">Bug fixes.</p>
 ]]></description>
             <enclosure url="https://nxhbdyouzaznncshvvec.supabase.co/storage/v1/object/public/updates/Promptr-Studio-Pro-5.105-586.zip" length="176713908" type="application/octet-stream" sparkle:edSignature="e1cS8zipWWa4Kp0x5oERm6pUWAyUNnokHmzK/8hMSCaVsHa4l+Mtj48wkU7yRxsKUbGF8idJXYoSwhjbxPpKBg=="/>
-            <sparkle:deltas>
-                <enclosure url="https://nxhbdyouzaznncshvvec.supabase.co/storage/v1/object/public/updates/Promptr-Studio-Pro586-582.delta" sparkle:deltaFrom="582" length="5087370" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="979056" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="CSFpTwewZ38qGOEECM3RNL30HHWLOR/Bwkm3jKDbMng7PCNO/rJzz2subC1GupVtvSM3iycoMxv/4uXozc1oAQ=="/>
-                <enclosure url="https://nxhbdyouzaznncshvvec.supabase.co/storage/v1/object/public/updates/Promptr-Studio-Pro586-572.delta" sparkle:deltaFrom="572" length="6790614" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="979056" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="qFEL9m0Shae4ilY+BTGHu2W6kpzFjG2m0SoxrvIadsRPw+RPoLzJBQBr/6gy/iPvmKbvzOBhSyVGVOFeQXO0CQ=="/>
-                <enclosure url="https://nxhbdyouzaznncshvvec.supabase.co/storage/v1/object/public/updates/Promptr-Studio-Pro586-562.delta" sparkle:deltaFrom="562" length="7155310" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="979056" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="F0rlSIPqtcEPnBaUZjGcYR5GT59vGvkCxfEFN0PdyW7U+gF/Uviwl4VEdSRKLfRZAyp3szJY6IbZ8zaNu+8iAg=="/>
-                <enclosure url="https://nxhbdyouzaznncshvvec.supabase.co/storage/v1/object/public/updates/Promptr-Studio-Pro586-541.delta" sparkle:deltaFrom="541" length="8356654" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="979056" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="Io79rElCDqSaoSH5Ru9BA+0JEFhbWdIHmvXP3FKnf7erNEgJ3HjhT058CTsnfLhL9++Sr0pJg60fooVllFxpCA=="/>
-                <enclosure url="https://nxhbdyouzaznncshvvec.supabase.co/storage/v1/object/public/updates/Promptr-Studio-Pro586-538.delta" sparkle:deltaFrom="538" length="10733962" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="979056" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="IMJ5hR1FQtUvY8MBHU7xn4dZlXb5MQpCp6QmyTwB8J1jjpLLeD2RUwcd0MxI95W7HBrvGV5vooVb5WehJrhpAg=="/>
-            </sparkle:deltas>
         </item>
         <item>
             <title>5.104</title>
-            <pubDate>Tue, 06 Oct 2026 15:50:16 +0000</pubDate>
+            <pubDate>Tue, 06 Oct 2026 17:01:36 +0000</pubDate>
             <sparkle:version>582</sparkle:version>
             <sparkle:shortVersionString>5.104</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
@@ -38,35 +53,6 @@
 </ul>
 ]]></description>
             <enclosure url="https://nxhbdyouzaznncshvvec.supabase.co/storage/v1/object/public/updates/Promptr-Studio-Pro-5.104-582.zip" length="176687278" type="application/octet-stream" sparkle:edSignature="NYZcZhmyTEppCQtCc2kAWovNaAiyOXIg//Lwld347iLRPEiNA2gsY3gDNZyylyhHSe7/SbjHMZzfxPi7FQ+hAQ=="/>
-        </item>
-        <item>
-            <title>5.103</title>
-            <pubDate>Tue, 06 Oct 2026 15:50:16 +0000</pubDate>
-            <sparkle:version>572</sparkle:version>
-            <sparkle:shortVersionString>5.103</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2 style="font:600 15px -apple-system;margin:0 0 6px">Promptr Studio Pro 5.103</h2>
-<p style="font:600 13px -apple-system;margin:0 0 4px">Prompt editor</p>
-<ul style="font:13px -apple-system;margin:0;padding-left:18px">
-<li><b>Clearer highlighting.</b> Section and shot heads, shot numbers, transitions, references, time ranges and quoted dialogue stand out. Camera, movement, light, color, style and sound each have their own color, readable in light and dark mode.</li>
-<li><b>Smart Edit keeps your structure.</b> A single shot stays a single shot. Shots come from the Multishot button or a multishot preset.</li>
-</ul>
-<p style="font:600 13px -apple-system;margin:8px 0 4px">Presets</p>
-<ul style="font:13px -apple-system;margin:0;padding-left:18px">
-<li><b>Wider preset panel.</b> Drag the edge between the editor and the presets to give the palette more room.</li>
-<li><b>Shot count and grid size work.</b> The number you pick on a preset is used when you apply it, and the chip always shows it in full.</li>
-</ul>
-<p style="font:600 13px -apple-system;margin:8px 0 4px">Layout</p>
-<ul style="font:13px -apple-system;margin:0;padding-left:18px">
-<li><b>Handles side by side.</b> Between gallery and composer, resizing and moving now sit next to each other.</li>
-</ul>
-<p style="font:600 13px -apple-system;margin:8px 0 4px">Fixes</p>
-<ul style="font:13px -apple-system;margin:0;padding-left:18px">
-<li>The CRAFTR working indicator keeps spinning while a prompt is being written.</li>
-<li>Typing in very long prompts stays smooth.</li>
-</ul>
-]]></description>
-            <enclosure url="https://nxhbdyouzaznncshvvec.supabase.co/storage/v1/object/public/updates/Promptr-Studio-Pro-5.103-572.zip" length="176332150" type="application/octet-stream" sparkle:edSignature="QG+N0UhHwI2CRVhVTkhLPfhGoCOJv5fiQGfJpH9GjSndMZZGzRbCv6XPfZzbZrN8k17zLa6Db78onZi719jQBA=="/>
         </item>
     </channel>
 </rss>

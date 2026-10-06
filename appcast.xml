@@ -3,8 +3,26 @@
     <channel>
         <title>Promptr Studio Pro</title>
         <item>
+            <title>5.105</title>
+            <pubDate>Tue, 06 Oct 2026 15:50:40 +0000</pubDate>
+            <sparkle:version>586</sparkle:version>
+            <sparkle:shortVersionString>5.105</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h2 style="font:600 15px -apple-system;margin:0 0 6px">Promptr Studio Pro 5.105</h2>
+<p style="font:13px -apple-system;margin:0">Bug fixes.</p>
+]]></description>
+            <enclosure url="https://nxhbdyouzaznncshvvec.supabase.co/storage/v1/object/public/updates/Promptr-Studio-Pro-5.105-586.zip" length="176713908" type="application/octet-stream" sparkle:edSignature="e1cS8zipWWa4Kp0x5oERm6pUWAyUNnokHmzK/8hMSCaVsHa4l+Mtj48wkU7yRxsKUbGF8idJXYoSwhjbxPpKBg=="/>
+            <sparkle:deltas>
+                <enclosure url="https://nxhbdyouzaznncshvvec.supabase.co/storage/v1/object/public/updates/Promptr-Studio-Pro586-582.delta" sparkle:deltaFrom="582" length="5087370" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="979056" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="CSFpTwewZ38qGOEECM3RNL30HHWLOR/Bwkm3jKDbMng7PCNO/rJzz2subC1GupVtvSM3iycoMxv/4uXozc1oAQ=="/>
+                <enclosure url="https://nxhbdyouzaznncshvvec.supabase.co/storage/v1/object/public/updates/Promptr-Studio-Pro586-572.delta" sparkle:deltaFrom="572" length="6790614" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="979056" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="qFEL9m0Shae4ilY+BTGHu2W6kpzFjG2m0SoxrvIadsRPw+RPoLzJBQBr/6gy/iPvmKbvzOBhSyVGVOFeQXO0CQ=="/>
+                <enclosure url="https://nxhbdyouzaznncshvvec.supabase.co/storage/v1/object/public/updates/Promptr-Studio-Pro586-562.delta" sparkle:deltaFrom="562" length="7155310" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="979056" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="F0rlSIPqtcEPnBaUZjGcYR5GT59vGvkCxfEFN0PdyW7U+gF/Uviwl4VEdSRKLfRZAyp3szJY6IbZ8zaNu+8iAg=="/>
+                <enclosure url="https://nxhbdyouzaznncshvvec.supabase.co/storage/v1/object/public/updates/Promptr-Studio-Pro586-541.delta" sparkle:deltaFrom="541" length="8356654" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="979056" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="Io79rElCDqSaoSH5Ru9BA+0JEFhbWdIHmvXP3FKnf7erNEgJ3HjhT058CTsnfLhL9++Sr0pJg60fooVllFxpCA=="/>
+                <enclosure url="https://nxhbdyouzaznncshvvec.supabase.co/storage/v1/object/public/updates/Promptr-Studio-Pro586-538.delta" sparkle:deltaFrom="538" length="10733962" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="979056" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="IMJ5hR1FQtUvY8MBHU7xn4dZlXb5MQpCp6QmyTwB8J1jjpLLeD2RUwcd0MxI95W7HBrvGV5vooVb5WehJrhpAg=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>5.104</title>
-            <pubDate>Tue, 06 Oct 2026 11:58:46 +0000</pubDate>
+            <pubDate>Tue, 06 Oct 2026 15:50:16 +0000</pubDate>
             <sparkle:version>582</sparkle:version>
             <sparkle:shortVersionString>5.104</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
@@ -20,17 +38,10 @@
 </ul>
 ]]></description>
             <enclosure url="https://nxhbdyouzaznncshvvec.supabase.co/storage/v1/object/public/updates/Promptr-Studio-Pro-5.104-582.zip" length="176687278" type="application/octet-stream" sparkle:edSignature="NYZcZhmyTEppCQtCc2kAWovNaAiyOXIg//Lwld347iLRPEiNA2gsY3gDNZyylyhHSe7/SbjHMZzfxPi7FQ+hAQ=="/>
-            <sparkle:deltas>
-                <enclosure url="https://nxhbdyouzaznncshvvec.supabase.co/storage/v1/object/public/updates/Promptr-Studio-Pro582-572.delta" sparkle:deltaFrom="572" length="6645242" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="979056" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="uxw18DffQDsCRMAK7v8dR5wuVT0sa+PAijJ6IW8Xw9BN8mryIaQlcsHctOtbZwqpxEbQYJRbZdmoyLPGD4XmDQ=="/>
-                <enclosure url="https://nxhbdyouzaznncshvvec.supabase.co/storage/v1/object/public/updates/Promptr-Studio-Pro582-562.delta" sparkle:deltaFrom="562" length="6971126" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="979056" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="coNllEB58PfUEsxNCBA5r/MNrSdXQMHHL7gaEukTU3vV5wK09jkdwYQNwvLuhw429C2vCAg+mAfur1i44G7cCA=="/>
-                <enclosure url="https://nxhbdyouzaznncshvvec.supabase.co/storage/v1/object/public/updates/Promptr-Studio-Pro582-541.delta" sparkle:deltaFrom="541" length="8259902" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="979056" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="jFDqNO7QJv+5kcmJFpIQe37LRXjYnHg8XeWAgYc5VO7Usm5D9lEr6u+/t5lyjy4nd7s7PBXM2vnVTMQVCMSOBg=="/>
-                <enclosure url="https://nxhbdyouzaznncshvvec.supabase.co/storage/v1/object/public/updates/Promptr-Studio-Pro582-538.delta" sparkle:deltaFrom="538" length="10654558" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="979056" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="3GxrphQm6UnvH8HI6Su6auPy2W4Wss9S04V5EOVeFbYnqAn4UzqqscKgZsTB00TC5R3BdoxZbsPdmNa2fq5WDw=="/>
-                <enclosure url="https://nxhbdyouzaznncshvvec.supabase.co/storage/v1/object/public/updates/Promptr-Studio-Pro582-537.delta" sparkle:deltaFrom="537" length="10817106" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="979056" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="ha35cRN+UhZQ5iO5cUy6V7eyz0MpmJDplzfOlZYMxzTZKGkNVbpE0KcFr+7tu7D36t7fbXdt9cPfjb63wTlqDw=="/>
-            </sparkle:deltas>
         </item>
         <item>
             <title>5.103</title>
-            <pubDate>Tue, 06 Oct 2026 11:58:18 +0000</pubDate>
+            <pubDate>Tue, 06 Oct 2026 15:50:16 +0000</pubDate>
             <sparkle:version>572</sparkle:version>
             <sparkle:shortVersionString>5.103</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
@@ -56,35 +67,6 @@
 </ul>
 ]]></description>
             <enclosure url="https://nxhbdyouzaznncshvvec.supabase.co/storage/v1/object/public/updates/Promptr-Studio-Pro-5.103-572.zip" length="176332150" type="application/octet-stream" sparkle:edSignature="QG+N0UhHwI2CRVhVTkhLPfhGoCOJv5fiQGfJpH9GjSndMZZGzRbCv6XPfZzbZrN8k17zLa6Db78onZi719jQBA=="/>
-        </item>
-        <item>
-            <title>5.102</title>
-            <pubDate>Tue, 06 Oct 2026 11:58:18 +0000</pubDate>
-            <sparkle:version>562</sparkle:version>
-            <sparkle:shortVersionString>5.102</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2 style="font:600 15px -apple-system;margin:0 0 6px">Promptr Studio Pro 5.102</h2>
-<p style="font:600 13px -apple-system;margin:0 0 4px">New model</p>
-<ul style="font:13px -apple-system;margin:0;padding-left:18px">
-<li><b>FLUX 3 by Black Forest Labs.</b> Text to image with up to ten reference images, in 1K, 2K or 4K and any format from 21:9 to 9:21, or Auto.</li>
-</ul>
-<p style="font:600 13px -apple-system;margin:8px 0 4px">Editing apps</p>
-<ul style="font:13px -apple-system;margin:0;padding-left:18px">
-<li><b>Premiere Pro panel.</b> Generate images and videos right inside Premiere Pro 26.3 or later. Add the frame at the playhead, an In/Out range or a file as a reference, and the result lands in a Promptr bin. Install it under Settings.</li>
-<li><b>New DaVinci Resolve panel.</b> Resolve gets the same compact panel. Chatting with Paul stays in the app. Update the panel under Settings.</li>
-</ul>
-<p style="font:600 13px -apple-system;margin:8px 0 4px">Paul</p>
-<ul style="font:13px -apple-system;margin:0;padding-left:18px">
-<li><b>Works more on his own.</b> With nothing selected in the gallery, Paul uses the newest image of the conversation. Characters you mention by name come along as references.</li>
-<li><b>Finds another way.</b> When a generation fails, Paul looks at the reason and suggests a different route. You approve it as usual.</li>
-<li><b>Sharper thinking.</b> Paul now runs on GPT-6.1 Sol.</li>
-</ul>
-<p style="font:600 13px -apple-system;margin:8px 0 4px">Fixes</p>
-<ul style="font:13px -apple-system;margin:0;padding-left:18px">
-<li>A sign-in check that briefly fails on the server no longer ends a generation with "Session expired". The app tries once more by itself.</li>
-</ul>
-]]></description>
-            <enclosure url="https://nxhbdyouzaznncshvvec.supabase.co/storage/v1/object/public/updates/Promptr-Studio-Pro-5.102-562.zip" length="176273910" type="application/octet-stream" sparkle:edSignature="MLP9rSmxitrjURusIAwd65YLY+0HtSDZ8TnG7f9CkZZJj0+OfrSN3HLKDnFm+acfwsNK6Ft+eg8QIVAi4q61Cw=="/>
         </item>
     </channel>
 </rss>

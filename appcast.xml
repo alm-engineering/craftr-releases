@@ -3,8 +3,33 @@
     <channel>
         <title>Promptr Studio Pro</title>
         <item>
+            <title>5.113</title>
+            <pubDate>Sat, 17 Oct 2026 17:42:05 +0000</pubDate>
+            <sparkle:version>682</sparkle:version>
+            <sparkle:shortVersionString>5.113</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h2 style="font:600 15px -apple-system;margin:0 0 6px">Promptr Studio Pro 5.113</h2>
+<p style="font:600 13px -apple-system;margin:0 0 4px">Fixes</p>
+<ul style="font:13px -apple-system;margin:0;padding-left:18px">
+<li><b>3D Paul in every project.</b> 3D Paul builds and animates scenes again, also right after switching projects, and tells you when a project folder is not reachable.</li>
+</ul>
+<p style="font:600 13px -apple-system;margin:8px 0 4px">Models</p>
+<ul style="font:13px -apple-system;margin:0;padding-left:18px">
+<li><b>Sora 2 and Sora 2 Pro removed.</b> OpenAI has shut down the Sora API. Your existing Sora videos stay in your projects.</li>
+</ul>
+]]></description>
+            <enclosure url="https://nxhbdyouzaznncshvvec.supabase.co/storage/v1/object/public/updates/Promptr-Studio-Pro-5.113-682.zip" length="182454803" type="application/octet-stream" sparkle:edSignature="HyTM9IdLt7EqBfXYHgdfl2IdsL2rvgKlDzh3MK27SBP3CooyOHBvPQeo546Oh83F6gy/EEHRTry+3Dib0/QVAA=="/>
+            <sparkle:deltas>
+                <enclosure url="https://nxhbdyouzaznncshvvec.supabase.co/storage/v1/object/public/updates/Promptr-Studio-Pro682-667.delta" sparkle:deltaFrom="667" length="7673826" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="979056" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="gT8drqo69xUoQonbwBbeQ5I5VLToQ7LftaVLlJ37BPqtI1NL/uTdKqJ+UzT3TW5AgXfLLl5/7cCUqIn+VttRDw=="/>
+                <enclosure url="https://nxhbdyouzaznncshvvec.supabase.co/storage/v1/object/public/updates/Promptr-Studio-Pro682-626.delta" sparkle:deltaFrom="626" length="15009878" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="979056" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="N7Owfx/CWmC++SeSqfXmc7oI8MbSIw/r+zxWGAJqBV1JtsySlVpptYDLjtDq5Ph7kjsfSDYIulsEPDNokjyuAg=="/>
+                <enclosure url="https://nxhbdyouzaznncshvvec.supabase.co/storage/v1/object/public/updates/Promptr-Studio-Pro682-621.delta" sparkle:deltaFrom="621" length="15371958" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="979056" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="YewHA+FV3HcUkxlsgApCXw+el5Pn8oi+PlhCjSlwpwH7M3UNLTR9ydEpnUc/vy2j0cprhJYp4S0jNbK6/yPgBA=="/>
+                <enclosure url="https://nxhbdyouzaznncshvvec.supabase.co/storage/v1/object/public/updates/Promptr-Studio-Pro682-601.delta" sparkle:deltaFrom="601" length="16025850" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="979056" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="ynHdfQIMFxYh0k9DKb7D1BvT8j6ofn7zntAPNoo/hRCLxP66jJ9DE5Edfbbc3tb0k9XVcUSpoE0sSrKGaS2bDA=="/>
+                <enclosure url="https://nxhbdyouzaznncshvvec.supabase.co/storage/v1/object/public/updates/Promptr-Studio-Pro682-598.delta" sparkle:deltaFrom="598" length="16033574" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="979056" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="W4xO8LEcwx8tpuGvSqi9/JsOpkVlz6oBxsaa7/uW9QLh88uyXqwMZO0vn/7/NSL4XdRxurEtPjryWWqAXvKzAw=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>5.112</title>
-            <pubDate>Sat, 17 Oct 2026 10:17:53 +0000</pubDate>
+            <pubDate>Sat, 17 Oct 2026 17:41:41 +0000</pubDate>
             <sparkle:version>667</sparkle:version>
             <sparkle:shortVersionString>5.112</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
@@ -34,17 +59,10 @@
 </ul>
 ]]></description>
             <enclosure url="https://nxhbdyouzaznncshvvec.supabase.co/storage/v1/object/public/updates/Promptr-Studio-Pro-5.112-667.zip" length="182156110" type="application/octet-stream" sparkle:edSignature="lPghn4uWyjHw1zs8s3eDQCNLct7e8+E7yRsl/6DkzQYpFbesFvrTq2m/QJNmtklfjF9Qq2tS+w7HOPpbsDy4Cw=="/>
-            <sparkle:deltas>
-                <enclosure url="https://nxhbdyouzaznncshvvec.supabase.co/storage/v1/object/public/updates/Promptr-Studio-Pro667-626.delta" sparkle:deltaFrom="626" length="14573390" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="979056" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="GOZ1Hn/+J9CoyYAOTy5gIpZE1WS0R2EuDrhkP3JgoFvklmkUUCu0EK5kdDiVq5HlA8H2DJF0dBQmZSf6A4jPBA=="/>
-                <enclosure url="https://nxhbdyouzaznncshvvec.supabase.co/storage/v1/object/public/updates/Promptr-Studio-Pro667-621.delta" sparkle:deltaFrom="621" length="14953862" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="979056" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="1HFnoEpCdf13CEtu+x8ZPCjrxylawLlaQPqBtMlzZYVFSN7DBjKUYEKtP5JEwPp9IMV0TRPHnYTS/wNephNABA=="/>
-                <enclosure url="https://nxhbdyouzaznncshvvec.supabase.co/storage/v1/object/public/updates/Promptr-Studio-Pro667-601.delta" sparkle:deltaFrom="601" length="15581530" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="979056" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="C42Db57EXGNJdlvxcoG/0fA3gvjM4LewL5Sc9ZSbnbJnLEyoZWoqa9ey17PFVT5n0JsXR032tY+vfTtPXtWXBQ=="/>
-                <enclosure url="https://nxhbdyouzaznncshvvec.supabase.co/storage/v1/object/public/updates/Promptr-Studio-Pro667-598.delta" sparkle:deltaFrom="598" length="15618190" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="979056" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="pRdbawhi0Z4IZnDWzCR+cx7VimpGguFiLBYlRqLoR4ZdYOZ1b/ka9lNjO3OgkGf3tH8RvUzaiCXHG/FOFZSsCQ=="/>
-                <enclosure url="https://nxhbdyouzaznncshvvec.supabase.co/storage/v1/object/public/updates/Promptr-Studio-Pro667-592.delta" sparkle:deltaFrom="592" length="15846382" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="979056" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="yDrllLQxMKi1GQ09pOwJxZwMn3vcNjukauRlHWhHm0dopIaZJ+KSL9/37Oic7mEqCg2kVoJjvLGThcIHpEvkDw=="/>
-            </sparkle:deltas>
         </item>
         <item>
             <title>5.111</title>
-            <pubDate>Sat, 17 Oct 2026 10:17:14 +0000</pubDate>
+            <pubDate>Sat, 17 Oct 2026 17:41:41 +0000</pubDate>
             <sparkle:version>626</sparkle:version>
             <sparkle:shortVersionString>5.111</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
@@ -56,22 +74,6 @@
 </ul>
 ]]></description>
             <enclosure url="https://nxhbdyouzaznncshvvec.supabase.co/storage/v1/object/public/updates/Promptr-Studio-Pro-5.111-626.zip" length="177616970" type="application/octet-stream" sparkle:edSignature="t7ozCawch0FZzULy4AQY0mapNwLkNrhcdwePulr/NnVR2A2tLurO/lAVmp/4yOeDnVHW8XSOAyM6QJWfMZTnCQ=="/>
-        </item>
-        <item>
-            <title>5.110</title>
-            <pubDate>Sat, 17 Oct 2026 10:17:14 +0000</pubDate>
-            <sparkle:version>621</sparkle:version>
-            <sparkle:shortVersionString>5.110</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2 style="font:600 15px -apple-system;margin:0 0 6px">Promptr Studio Pro 5.110</h2>
-<p style="font:600 13px -apple-system;margin:0 0 4px">Pay as you go and Cloud Collab</p>
-<ul style="font:13px -apple-system;margin:0;padding-left:18px">
-<li><b>Top up instead of a subscription.</b> Choose a credit package or any amount from 10 EUR. The window shows what your credits buy in images, videos and music.</li>
-<li><b>Cloud Collab.</b> Share cloud folders with your team with 20 GB, 50 GB or 1 TB of storage. Only the folder owner subscribes, invited people work for free.</li>
-<li><b>Storage at a glance.</b> Used cloud storage now shows in the sidebar and in Cloud &amp; Team.</li>
-</ul>
-]]></description>
-            <enclosure url="https://nxhbdyouzaznncshvvec.supabase.co/storage/v1/object/public/updates/Promptr-Studio-Pro-5.110-621.zip" length="177230932" type="application/octet-stream" sparkle:edSignature="ZLjJQgF0ieL/o266/e5MPU357WQXuw6ED+cQSAMJEIoLhJurPLIu46+9eEXUfv2t57/TZcogzW8xJZIZH5WUAA=="/>
         </item>
     </channel>
 </rss>

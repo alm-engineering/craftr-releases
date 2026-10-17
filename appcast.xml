@@ -3,8 +3,48 @@
     <channel>
         <title>Promptr Studio Pro</title>
         <item>
+            <title>5.112</title>
+            <pubDate>Sat, 17 Oct 2026 10:17:53 +0000</pubDate>
+            <sparkle:version>667</sparkle:version>
+            <sparkle:shortVersionString>5.112</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h2 style="font:600 15px -apple-system;margin:0 0 6px">Promptr Studio Pro 5.112</h2>
+<p style="font:600 13px -apple-system;margin:0 0 4px">New workspace</p>
+<ul style="font:13px -apple-system;margin:0;padding-left:18px">
+<li><b>Projects at the top.</b> Switch projects from the title bar and see all of them in one overview.</li>
+<li><b>Arrange your panels.</b> Place folders, prompt, settings and gallery where you want them, and save your own layouts.</li>
+<li><b>Delete or leave cloud folders.</b> Owners can delete a cloud folder for everyone, members can leave it.</li>
+</ul>
+<p style="font:600 13px -apple-system;margin:8px 0 4px">3D Composer</p>
+<ul style="font:13px -apple-system;margin:0;padding-left:18px">
+<li><b>Simple view.</b> 3D Paul builds and directs the scene for you, step by step.</li>
+<li><b>Directed figures.</b> Figures walk around obstacles, meet, follow, sit down and ride along.</li>
+<li><b>Video from the scene.</b> Generate the video right in the composer, with the credits on the button.</li>
+</ul>
+<p style="font:600 13px -apple-system;margin:8px 0 4px">New models</p>
+<ul style="font:13px -apple-system;margin:0;padding-left:18px">
+<li><b>Krea 3 Edit.</b> A second model for Replace in inpainting, next to Ideogram 4.5.</li>
+<li><b>OmniHuman V2.</b> Turn one image of a person and an audio track into a talking or singing video.</li>
+</ul>
+<p style="font:600 13px -apple-system;margin:8px 0 4px">Fixes</p>
+<ul style="font:13px -apple-system;margin:0;padding-left:18px">
+<li>Paul's approval shows the price of all variations, and Stop after approving cancels before anything starts.</li>
+<li>New folder and file names also work on Windows.</li>
+<li>More of the German interface is translated.</li>
+</ul>
+]]></description>
+            <enclosure url="https://nxhbdyouzaznncshvvec.supabase.co/storage/v1/object/public/updates/Promptr-Studio-Pro-5.112-667.zip" length="182156110" type="application/octet-stream" sparkle:edSignature="lPghn4uWyjHw1zs8s3eDQCNLct7e8+E7yRsl/6DkzQYpFbesFvrTq2m/QJNmtklfjF9Qq2tS+w7HOPpbsDy4Cw=="/>
+            <sparkle:deltas>
+                <enclosure url="https://nxhbdyouzaznncshvvec.supabase.co/storage/v1/object/public/updates/Promptr-Studio-Pro667-626.delta" sparkle:deltaFrom="626" length="14573390" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="979056" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="GOZ1Hn/+J9CoyYAOTy5gIpZE1WS0R2EuDrhkP3JgoFvklmkUUCu0EK5kdDiVq5HlA8H2DJF0dBQmZSf6A4jPBA=="/>
+                <enclosure url="https://nxhbdyouzaznncshvvec.supabase.co/storage/v1/object/public/updates/Promptr-Studio-Pro667-621.delta" sparkle:deltaFrom="621" length="14953862" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="979056" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="1HFnoEpCdf13CEtu+x8ZPCjrxylawLlaQPqBtMlzZYVFSN7DBjKUYEKtP5JEwPp9IMV0TRPHnYTS/wNephNABA=="/>
+                <enclosure url="https://nxhbdyouzaznncshvvec.supabase.co/storage/v1/object/public/updates/Promptr-Studio-Pro667-601.delta" sparkle:deltaFrom="601" length="15581530" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="979056" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="C42Db57EXGNJdlvxcoG/0fA3gvjM4LewL5Sc9ZSbnbJnLEyoZWoqa9ey17PFVT5n0JsXR032tY+vfTtPXtWXBQ=="/>
+                <enclosure url="https://nxhbdyouzaznncshvvec.supabase.co/storage/v1/object/public/updates/Promptr-Studio-Pro667-598.delta" sparkle:deltaFrom="598" length="15618190" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="979056" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="pRdbawhi0Z4IZnDWzCR+cx7VimpGguFiLBYlRqLoR4ZdYOZ1b/ka9lNjO3OgkGf3tH8RvUzaiCXHG/FOFZSsCQ=="/>
+                <enclosure url="https://nxhbdyouzaznncshvvec.supabase.co/storage/v1/object/public/updates/Promptr-Studio-Pro667-592.delta" sparkle:deltaFrom="592" length="15846382" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="979056" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="yDrllLQxMKi1GQ09pOwJxZwMn3vcNjukauRlHWhHm0dopIaZJ+KSL9/37Oic7mEqCg2kVoJjvLGThcIHpEvkDw=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>5.111</title>
-            <pubDate>Thu, 15 Oct 2026 11:35:56 +0000</pubDate>
+            <pubDate>Sat, 17 Oct 2026 10:17:14 +0000</pubDate>
             <sparkle:version>626</sparkle:version>
             <sparkle:shortVersionString>5.111</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
@@ -16,17 +56,10 @@
 </ul>
 ]]></description>
             <enclosure url="https://nxhbdyouzaznncshvvec.supabase.co/storage/v1/object/public/updates/Promptr-Studio-Pro-5.111-626.zip" length="177616970" type="application/octet-stream" sparkle:edSignature="t7ozCawch0FZzULy4AQY0mapNwLkNrhcdwePulr/NnVR2A2tLurO/lAVmp/4yOeDnVHW8XSOAyM6QJWfMZTnCQ=="/>
-            <sparkle:deltas>
-                <enclosure url="https://nxhbdyouzaznncshvvec.supabase.co/storage/v1/object/public/updates/Promptr-Studio-Pro626-621.delta" sparkle:deltaFrom="621" length="6802222" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="979056" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="ClD7ISmGvPRiQGriLwjhBDtyC2j40KM7kxydRyIwWozIrnknxg4Qe4u2mvzqeGDQNLhbXcUEpS7YGkDx5loNCg=="/>
-                <enclosure url="https://nxhbdyouzaznncshvvec.supabase.co/storage/v1/object/public/updates/Promptr-Studio-Pro626-601.delta" sparkle:deltaFrom="601" length="8136142" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="979056" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="BknMB1fCBRaWZ2f6/AVKa8FlqQ0dCcHhvUGVRiSijAn0f1MKJJ/YiT7NRTnVqgD/NsLGh0nxavCeH5EAgx0GBw=="/>
-                <enclosure url="https://nxhbdyouzaznncshvvec.supabase.co/storage/v1/object/public/updates/Promptr-Studio-Pro626-598.delta" sparkle:deltaFrom="598" length="8151898" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="979056" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="7Pqj5OcqIp1pNdZJYMEl1johdjrACDV5mf0ErJT3lG2yNQ/lcRhnV7DxN7PtTdME1nHl0b3MKnnTOzkEuf6tDQ=="/>
-                <enclosure url="https://nxhbdyouzaznncshvvec.supabase.co/storage/v1/object/public/updates/Promptr-Studio-Pro626-592.delta" sparkle:deltaFrom="592" length="8561438" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="979056" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="UHzEaxOVCCEXYBVvn5oDRERAMVrV3Vzpy670HDbZKrJyJFrMmR4Fyn4p5fHzGxhnYHOzYC54RU0yJq/e4W8CCw=="/>
-                <enclosure url="https://nxhbdyouzaznncshvvec.supabase.co/storage/v1/object/public/updates/Promptr-Studio-Pro626-589.delta" sparkle:deltaFrom="589" length="8737298" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="979056" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="IsSTGSG1w8E3KZpNcLiTCNX/MZvgjx+LRMpOjEEpbUmedN9UspvakWmAD+7iDWnDsawGxXrObEQjr0wMaV41BA=="/>
-            </sparkle:deltas>
         </item>
         <item>
             <title>5.110</title>
-            <pubDate>Thu, 15 Oct 2026 11:35:19 +0000</pubDate>
+            <pubDate>Sat, 17 Oct 2026 10:17:14 +0000</pubDate>
             <sparkle:version>621</sparkle:version>
             <sparkle:shortVersionString>5.110</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
@@ -39,19 +72,6 @@
 </ul>
 ]]></description>
             <enclosure url="https://nxhbdyouzaznncshvvec.supabase.co/storage/v1/object/public/updates/Promptr-Studio-Pro-5.110-621.zip" length="177230932" type="application/octet-stream" sparkle:edSignature="ZLjJQgF0ieL/o266/e5MPU357WQXuw6ED+cQSAMJEIoLhJurPLIu46+9eEXUfv2t57/TZcogzW8xJZIZH5WUAA=="/>
-        </item>
-        <item>
-            <title>5.109</title>
-            <pubDate>Thu, 15 Oct 2026 11:35:17 +0000</pubDate>
-            <sparkle:version>601</sparkle:version>
-            <sparkle:shortVersionString>5.109</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2 style="font:600 15px -apple-system;margin:0 0 6px">Promptr Studio Pro 5.109</h2>
-<ul style="font:13px -apple-system;margin:0;padding-left:18px">
-<li><b>Seedance reference videos.</b> Registering a reference video as a person no longer fails with a frame rate error. Videos with an unsupported frame rate now get a clear hint.</li>
-</ul>
-]]></description>
-            <enclosure url="https://nxhbdyouzaznncshvvec.supabase.co/storage/v1/object/public/updates/Promptr-Studio-Pro-5.109-601.zip" length="176906883" type="application/octet-stream" sparkle:edSignature="6rn/KVU1vg0SpT3IT+tUw6wIZ7qtsHDmaJIgfG7/OwxnSZtmcIqiZk75tUy1TrY9QB/v74gXj7KlqdJ8aG1ACA=="/>
         </item>
     </channel>
 </rss>

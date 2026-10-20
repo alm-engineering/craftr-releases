@@ -3,8 +3,33 @@
     <channel>
         <title>Promptr Studio Pro</title>
         <item>
+            <title>5.118</title>
+            <pubDate>Tue, 20 Oct 2026 19:55:54 +0000</pubDate>
+            <sparkle:version>726</sparkle:version>
+            <sparkle:shortVersionString>5.118</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h2 style="font:600 15px -apple-system;margin:0 0 6px">Promptr Studio Pro 5.118</h2>
+<p style="font:600 13px -apple-system;margin:0 0 4px">New</p>
+<ul style="font:13px -apple-system;margin:0 0 8px;padding-left:18px">
+<li><b>FLUX 3 Max</b>: text to video and image to video with optional end frame, 5 to 20 seconds, 720p or 1080p.</li>
+</ul>
+<p style="font:600 13px -apple-system;margin:0 0 4px">Fixes</p>
+<ul style="font:13px -apple-system;margin:0;padding-left:18px">
+<li>Minor bug fixes.</li>
+</ul>
+]]></description>
+            <enclosure url="https://nxhbdyouzaznncshvvec.supabase.co/storage/v1/object/public/updates/Promptr-Studio-Pro-5.118-726.zip" length="183256648" type="application/octet-stream" sparkle:edSignature="+wev/KN/g7t/7SjkAchpuq2IuBIvsdHJdX33/cHY4kMZRpbBYCpYKjL3xYaG47WbJV0vVH+2ICDwl6viYMBmDg=="/>
+            <sparkle:deltas>
+                <enclosure url="https://nxhbdyouzaznncshvvec.supabase.co/storage/v1/object/public/updates/Promptr-Studio-Pro726-721.delta" sparkle:deltaFrom="721" length="6006926" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="979056" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="ojpCHrGz69b+rVH3AWA0oamKLKU7onhGvQdlpYIXw0Nfpo47+2RmMj5xZWXHgNrqt5mUPMUiiGA10SrM56W3Dw=="/>
+                <enclosure url="https://nxhbdyouzaznncshvvec.supabase.co/storage/v1/object/public/updates/Promptr-Studio-Pro726-706.delta" sparkle:deltaFrom="706" length="8674430" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="979056" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="9ySDLnMKEdp1LunTzQrPnBtp58DVQEklZOFcroSKQ3Ol/HyGwCAARjqepB9r2Tx4+CGz5FYLjKIFKa149exdBg=="/>
+                <enclosure url="https://nxhbdyouzaznncshvvec.supabase.co/storage/v1/object/public/updates/Promptr-Studio-Pro726-701.delta" sparkle:deltaFrom="701" length="8868438" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="979056" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="RKSj7QDJxUpRIA/2RNo/wELborv85TW994JlZYmAuzbln7tRSUClrqlNaZ/y+hUTsDGEp0TCeCKdor8j09NUBA=="/>
+                <enclosure url="https://nxhbdyouzaznncshvvec.supabase.co/storage/v1/object/public/updates/Promptr-Studio-Pro726-689.delta" sparkle:deltaFrom="689" length="9065254" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="979056" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="0SfvW3US+6Q7YCXZAtgMeWhFDBykM+7yqXHqE605sXx2OBMBoI/HXziDnROo0VwsV6G+1lfsIStSxD6UshcGCQ=="/>
+                <enclosure url="https://nxhbdyouzaznncshvvec.supabase.co/storage/v1/object/public/updates/Promptr-Studio-Pro726-682.delta" sparkle:deltaFrom="682" length="9412658" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="979056" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="rS6yyZ5RQlP/9kX6IFfrAhbvwMB9Wn49WpRO3WeWr/lkbO/UMu5U1aCxFD3oKZ5A7q+z6njpvFmblM5Gvwm4BQ=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>5.117</title>
-            <pubDate>Mon, 19 Oct 2026 16:28:51 +0000</pubDate>
+            <pubDate>Tue, 20 Oct 2026 19:55:24 +0000</pubDate>
             <sparkle:version>721</sparkle:version>
             <sparkle:shortVersionString>5.117</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
@@ -15,17 +40,10 @@
 </ul>
 ]]></description>
             <enclosure url="https://nxhbdyouzaznncshvvec.supabase.co/storage/v1/object/public/updates/Promptr-Studio-Pro-5.117-721.zip" length="183204339" type="application/octet-stream" sparkle:edSignature="SIO+O6DdI13AYeCeEw/no1FxbKvanG4hY5nPs/ouYf6t7CpNQxVyLo14KDBNehmaPdzKVi1Cmu5Ejixs0p/1Dg=="/>
-            <sparkle:deltas>
-                <enclosure url="https://nxhbdyouzaznncshvvec.supabase.co/storage/v1/object/public/updates/Promptr-Studio-Pro721-706.delta" sparkle:deltaFrom="706" length="8680454" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="979056" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="7CPnIRtjzm27sfF4v1bxLjciA1poAksP0/z9cCYgy4cgt8c3gtINONVwW3h1pjPlN4nLjJVpaz+k9+jLl0JfCw=="/>
-                <enclosure url="https://nxhbdyouzaznncshvvec.supabase.co/storage/v1/object/public/updates/Promptr-Studio-Pro721-701.delta" sparkle:deltaFrom="701" length="8707430" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="979056" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="MdMhH1s41mprHCcjSAvRP8DiginKzmPDymxo3kx4vszvaiRqxsRgahyb467aDmFW+lR46PEvvfPPWUKV6UPGCg=="/>
-                <enclosure url="https://nxhbdyouzaznncshvvec.supabase.co/storage/v1/object/public/updates/Promptr-Studio-Pro721-689.delta" sparkle:deltaFrom="689" length="8881510" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="979056" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="w9dgJiv8KeDnJbOQhGcGpw0PyalaAxmusw9gGb2Sg/LIYUpjw/qzxCOx8+QI5KGZOwnFWWV/N1exm7T4taz2DA=="/>
-                <enclosure url="https://nxhbdyouzaznncshvvec.supabase.co/storage/v1/object/public/updates/Promptr-Studio-Pro721-682.delta" sparkle:deltaFrom="682" length="9301770" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="979056" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="pmLT6v+F5TufnOHS9fHPSlyVTCkvG8hSVAVc3qmLr51z/C2TqCRlHI/5M8sjX0fWnx9cgUKb5/MKH4LJneFWAg=="/>
-                <enclosure url="https://nxhbdyouzaznncshvvec.supabase.co/storage/v1/object/public/updates/Promptr-Studio-Pro721-667.delta" sparkle:deltaFrom="667" length="9932026" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="979056" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="P1lnnOAWJLa6434nHovaLLmtsHq/sk25yKre97gdVe6GGBFx06wocwTdj6OC/b6dlL9t5DCy/dLbDueSDPv1Ag=="/>
-            </sparkle:deltas>
         </item>
         <item>
             <title>5.116</title>
-            <pubDate>Mon, 19 Oct 2026 16:28:21 +0000</pubDate>
+            <pubDate>Tue, 20 Oct 2026 19:55:24 +0000</pubDate>
             <sparkle:version>706</sparkle:version>
             <sparkle:shortVersionString>5.116</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
@@ -36,35 +54,6 @@
 </ul>
 ]]></description>
             <enclosure url="https://nxhbdyouzaznncshvvec.supabase.co/storage/v1/object/public/updates/Promptr-Studio-Pro-5.116-706.zip" length="182597239" type="application/octet-stream" sparkle:edSignature="X8P9YsQjXx2Uf6gcGGsMSzNX4EGOAge+bQ1PdgZz4ArlfvVBmX+QuHGU93VE8FZp4C+bbBLejg4zNinBaZuGAw=="/>
-        </item>
-        <item>
-            <title>5.115</title>
-            <pubDate>Mon, 19 Oct 2026 16:28:21 +0000</pubDate>
-            <sparkle:version>701</sparkle:version>
-            <sparkle:shortVersionString>5.115</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2 style="font:600 15px -apple-system;margin:0 0 6px">Promptr Studio Pro 5.115</h2>
-<p style="font:600 13px -apple-system;margin:0 0 4px">Layouts</p>
-<ul style="font:13px -apple-system;margin:0;padding-left:18px">
-<li><b>Four templates.</b> Standard, Gallery, Focus and Dual. Dual opens the gallery on your second screen.</li>
-<li><b>Opens as you left it.</b> The app starts in Standard the first time, then always in the layout you chose last, dual screen included.</li>
-</ul>
-<p style="font:600 13px -apple-system;margin:8px 0 4px">Paul</p>
-<ul style="font:13px -apple-system;margin:0;padding-left:18px">
-<li><b>Introduces himself once.</b> After that a new chat starts with a short hello and a question.</li>
-</ul>
-<p style="font:600 13px -apple-system;margin:8px 0 4px">3D Composer</p>
-<ul style="font:13px -apple-system;margin:0;padding-left:18px">
-<li><b>Only scenes that work.</b> The templates Street and Dialogue fill with the bundled people, and in Dialogue they now face each other.</li>
-<li><b>Honest about cars.</b> 3D Paul no longer seats people in the bundled cars, which have no interior. He offers the car driving on its own or the person walking to it.</li>
-</ul>
-<p style="font:600 13px -apple-system;margin:8px 0 4px">Fixes</p>
-<ul style="font:13px -apple-system;margin:0;padding-left:18px">
-<li><b>OmniHuman V2</b> shows its price once an audio track is added, for the track's length, instead of the maximum. FLUX Video Edit waits for its source video the same way.</li>
-<li><b>Trimming</b> to the end of a clip works again when its audio ends before the picture.</li>
-</ul>
-]]></description>
-            <enclosure url="https://nxhbdyouzaznncshvvec.supabase.co/storage/v1/object/public/updates/Promptr-Studio-Pro-5.115-701.zip" length="182600223" type="application/octet-stream" sparkle:edSignature="qdtNbN6m5kB6WdOGS3JT0WDVy/8Fhqxt212qk9f7hDm5yQLZ/Z5KnjSCzo9j4KfAvWHwJHLKm4QPTO1pjeNhBA=="/>
         </item>
     </channel>
 </rss>

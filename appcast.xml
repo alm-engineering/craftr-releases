@@ -3,8 +3,32 @@
     <channel>
         <title>Promptr Studio Pro</title>
         <item>
+            <title>6.3</title>
+            <pubDate>Thu, 12 Nov 2026 11:09:14 +0000</pubDate>
+            <sparkle:version>869</sparkle:version>
+            <sparkle:shortVersionString>6.3</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h2 style="font:600 15px -apple-system;margin:0 0 6px">Promptr Studio Pro 6.3</h2>
+<p style="font:600 13px -apple-system;margin:0 0 4px">New</p>
+<ul style="font:13px -apple-system;margin:0;padding-left:18px">
+<li><b>LTX 2.5 Fast and Pro.</b> Lightricks' video models with native sound. Fast goes up to 4K and 20 seconds, Pro gives finer results in 720p and 1080p. Choose the frame rate and a camera move.</li>
+<li><b>Audio to video.</b> In the Audio mode, LTX 2.5 builds the video around an audio track, with an optional start image. You pay for the length of the audio.</li>
+<li><b>New VFX tab.</b> Next to Enhance, organized by task: Cut out (LTX Alpha, Bria background removal and green screen), Aspect ratio (LTX Reframe) and HDR and EXR (LTX SDR to HDR). Each tool shows the formats you get before you start.</li>
+<li><b>LTX Upscale in the Enhancer.</b> Upscale video to 1080p, 4K or 8K.</li>
+</ul>
+]]></description>
+            <enclosure url="https://nxhbdyouzaznncshvvec.supabase.co/storage/v1/object/public/updates/Promptr-Studio-Pro-6.3-869.zip" length="192181749" type="application/octet-stream" sparkle:edSignature="wNxf12+opxr3HQZ9Nx/9Kv19VLwjTaI9F+U180W48fxHvZNPa11kfTiYrqvtySalL27n8HrosL7jDHJy9xqMAw=="/>
+            <sparkle:deltas>
+                <enclosure url="https://nxhbdyouzaznncshvvec.supabase.co/storage/v1/object/public/updates/Promptr-Studio-Pro869-854.delta" sparkle:deltaFrom="854" length="9754450" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="979056" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="JbnEuK7orbfBSu/zrOetMjW/0Z9S2ihy0rGeShTevwlICxlgFbSppAYLiR69MFjqgAHpkUKKN0Rt82uPovcxCg=="/>
+                <enclosure url="https://nxhbdyouzaznncshvvec.supabase.co/storage/v1/object/public/updates/Promptr-Studio-Pro869-851.delta" sparkle:deltaFrom="851" length="9771786" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="979056" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="iFIOO31V6OII0XvkIsUGPZET02TDKB6e7j75h6jLwJh0+ECOqaSu7WSRhKkcdD+1mzVd4FVgaDWya3uNWQdlBQ=="/>
+                <enclosure url="https://nxhbdyouzaznncshvvec.supabase.co/storage/v1/object/public/updates/Promptr-Studio-Pro869-848.delta" sparkle:deltaFrom="848" length="9967082" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="979056" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="G+jmaMvGe7UQ6qoF1ocT23lI8Yqq/2XnSjPIFJjfgxl9X0pRYslMpWDjqXYOIkOo6w1sRJ06lFbOs+ltfZcgAQ=="/>
+                <enclosure url="https://nxhbdyouzaznncshvvec.supabase.co/storage/v1/object/public/updates/Promptr-Studio-Pro869-841.delta" sparkle:deltaFrom="841" length="10179646" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="979056" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="r+wV1uQgvvuoSMYGa7RFrKFgnPV+wBmoOS7rc3wGEy2Wp5OYTyufuIYOBNhYzLhennIncgoEz25IlsvZIfqoBw=="/>
+                <enclosure url="https://nxhbdyouzaznncshvvec.supabase.co/storage/v1/object/public/updates/Promptr-Studio-Pro869-829.delta" sparkle:deltaFrom="829" length="10385330" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="979056" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="2P+DHn3qz+xYQm8gOatJ2WgyJqq+m1jyKB9pnoYjErPUZDVa/ZAw3HfxI5d+BvrK7MioCKWO41VnlzjDHIeUBA=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>6.2.1</title>
-            <pubDate>Fri, 06 Nov 2026 12:42:08 +0000</pubDate>
+            <pubDate>Thu, 12 Nov 2026 11:09:11 +0000</pubDate>
             <sparkle:version>854</sparkle:version>
             <sparkle:shortVersionString>6.2.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
@@ -14,17 +38,10 @@
 </ul>
 ]]></description>
             <enclosure url="https://nxhbdyouzaznncshvvec.supabase.co/storage/v1/object/public/updates/Promptr-Studio-Pro-6.2.1-854.zip" length="191695178" type="application/octet-stream" sparkle:edSignature="g0T3NQ0LgUAERgq50GTvb1TEYiQTxZWyvxE5hCzEEQGtHAKsaG60iUA2adBpH8XPa1pE/0RV6x1NBFr7ITNoBw=="/>
-            <sparkle:deltas>
-                <enclosure url="https://nxhbdyouzaznncshvvec.supabase.co/storage/v1/object/public/updates/Promptr-Studio-Pro854-851.delta" sparkle:deltaFrom="851" length="5731414" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="979056" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="VIkVXoAha3v4SGY+haxH0VEA5aIjQrgyE1N8uXpk3oQMoCQEIZu/NNm7X88+S1ClkaGIziNBNMxuhOaFKaHuAA=="/>
-                <enclosure url="https://nxhbdyouzaznncshvvec.supabase.co/storage/v1/object/public/updates/Promptr-Studio-Pro854-848.delta" sparkle:deltaFrom="848" length="8057710" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="979056" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="LuLqsqE4G0jqShsH95JwOnPhUmQb9rYcaUfRe8yYKIAXbpda+GCGRpunM1QKDaJl5gVONYdVoyJ9cS6a6J13Bw=="/>
-                <enclosure url="https://nxhbdyouzaznncshvvec.supabase.co/storage/v1/object/public/updates/Promptr-Studio-Pro854-841.delta" sparkle:deltaFrom="841" length="8507782" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="979056" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="529xgDYzzDOwqmwFeRKjRgMhDDbERlCI2fhKN/pB1KpImqDD4ghI6E2t7VMTMp/0NhugaJTKWmcxpBXcEPNjBg=="/>
-                <enclosure url="https://nxhbdyouzaznncshvvec.supabase.co/storage/v1/object/public/updates/Promptr-Studio-Pro854-829.delta" sparkle:deltaFrom="829" length="8911590" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="979056" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="DANOz9GBPTsWE6TGbmchSzg0RASUrXnFsc8i5U2XjNFXDckA+wq5fjhFwwXrRtn493drG3ajclDjn9rkz9D6Cw=="/>
-                <enclosure url="https://nxhbdyouzaznncshvvec.supabase.co/storage/v1/object/public/updates/Promptr-Studio-Pro854-791.delta" sparkle:deltaFrom="791" length="17255570" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="979056" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="sRSBGhR50ubZ/1V3Jcw+Fri3ZeXFEU6R5YxZSTvIu93eSz7h1U4MvShC2dBkRtA83D7ZvO9RwtLtTyCIZ2E8Bg=="/>
-            </sparkle:deltas>
         </item>
         <item>
             <title>6.2</title>
-            <pubDate>Fri, 06 Nov 2026 12:42:06 +0000</pubDate>
+            <pubDate>Thu, 12 Nov 2026 11:09:10 +0000</pubDate>
             <sparkle:version>851</sparkle:version>
             <sparkle:shortVersionString>6.2</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
@@ -37,27 +54,6 @@
 </ul>
 ]]></description>
             <enclosure url="https://nxhbdyouzaznncshvvec.supabase.co/storage/v1/object/public/updates/Promptr-Studio-Pro-6.2-851.zip" length="191694435" type="application/octet-stream" sparkle:edSignature="xN7ND683QlJD8XoIfNhRcKVpSNPfwzifliBVpjOtYpTvmaIqJt6rWe6XbdU/Bf04Scs3CIE/gwAax27TsT3NBA=="/>
-        </item>
-        <item>
-            <title>6.1</title>
-            <pubDate>Fri, 06 Nov 2026 12:42:06 +0000</pubDate>
-            <sparkle:version>848</sparkle:version>
-            <sparkle:shortVersionString>6.1</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2 style="font:600 15px -apple-system;margin:0 0 6px">Promptr Studio Pro 6.1</h2>
-<p style="font:600 13px -apple-system;margin:0 0 4px">New</p>
-<ul style="font:13px -apple-system;margin:0;padding-left:18px">
-<li><b>GPT Image 2.6 Sunburst and Flare.</b> OpenAI's new image models: Sunburst for precise edits, Flare for fast everyday images. A new detail control sets how finely the image is worked out, at no extra cost.</li>
-<li><b>Topaz Wonder 4.</b> The newest generative image upscaler from Topaz.</li>
-</ul>
-<p style="font:600 13px -apple-system;margin:12px 0 4px">Improvements</p>
-<ul style="font:13px -apple-system;margin:0;padding-left:18px">
-<li>Paul builds larger 3D sets in stages and sees photos you attach right away.</li>
-<li>Connecting your phone as a camera is more reliable, also over the cable.</li>
-<li>The feedback link now opens our Discord community directly.</li>
-</ul>
-]]></description>
-            <enclosure url="https://nxhbdyouzaznncshvvec.supabase.co/storage/v1/object/public/updates/Promptr-Studio-Pro-6.1-848.zip" length="191652493" type="application/octet-stream" sparkle:edSignature="5hpOkXP6uHTE2sZOD3QMt9E72XytZf8z/2PAodeDd69jkw8kQYw8xXAIvv4L9P5ML/MZX3KJiGtD+pFOG8K7CA=="/>
         </item>
     </channel>
 </rss>

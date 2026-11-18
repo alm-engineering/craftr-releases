@@ -3,8 +3,33 @@
     <channel>
         <title>Promptr Studio Pro</title>
         <item>
+            <title>6.7</title>
+            <pubDate>Wed, 18 Nov 2026 11:14:17 +0000</pubDate>
+            <sparkle:version>1936</sparkle:version>
+            <sparkle:shortVersionString>6.7</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h2 style="font:600 15px -apple-system;margin:0 0 6px">Promptr Studio Pro 6.7</h2>
+<p style="font:600 13px -apple-system;margin:0 0 4px">New</p>
+<ul style="font:13px -apple-system;margin:0;padding-left:18px">
+<li><b>Bring any file into a project.</b> Drag files and folders from Finder onto a project, folder or the gallery. They are copied into the project folder; PDFs and text files appear in the gallery, everything else in a new Files strip.</li>
+<li><b>Paul reads your documents.</b> Give him a PDF, Word, text or CSV file and talk it through.</li>
+<li><b>Paul knows the VFX tools.</b> Ask him to turn a vertical clip into 16:9 and he sets up LTX Reframe, shows the price and waits for your go.</li>
+<li><b>Kling O3 multi-shot.</b> Up to six shots with their own prompt and length in one clip.</li>
+<li><b>Several images per job.</b> GPT Image and Seedream 5.0 create up to four images at once. Seedream images can take a seed.</li>
+</ul>
+<p style="font:600 13px -apple-system;margin:8px 0 4px">Improved</p>
+<ul style="font:13px -apple-system;margin:0;padding-left:18px">
+<li><b>Deleted cloud folders stay deleted.</b> Your choice when leaving or deleting now applies on all your Macs, and hidden cloud folders stay hidden everywhere.</li>
+<li><b>Paul stays in your language,</b> also after generating.</li>
+<li><b>Image edits use Seedream 5.5 by default,</b> in Paul and in inpainting, unless you pick another model.</li>
+<li><b>Gallery.</b> Faster paging, a running card opens the preview, dragging a cloud asset fetches the original, and Copy job ID in the menu.</li>
+</ul>
+]]></description>
+            <enclosure url="https://nxhbdyouzaznncshvvec.supabase.co/storage/v1/object/public/updates/Promptr-Studio-Pro-6.7-1936.zip" length="193523064" type="application/octet-stream" sparkle:edSignature="ZMu070hBMLG+4lHvKOl/5ZMnkQI589ygqlRzL5S9uA4998tsrVr+4AwK9N6Q8YkoXvKNDmPWOq5eSN8NpytzDw=="/>
+        </item>
+        <item>
             <title>6.6</title>
-            <pubDate>Sun, 15 Nov 2026 15:22:44 +0000</pubDate>
+            <pubDate>Wed, 18 Nov 2026 11:14:12 +0000</pubDate>
             <sparkle:version>892</sparkle:version>
             <sparkle:shortVersionString>6.6</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
@@ -18,7 +43,7 @@
         </item>
         <item>
             <title>6.5</title>
-            <pubDate>Sun, 15 Nov 2026 15:22:42 +0000</pubDate>
+            <pubDate>Wed, 18 Nov 2026 11:14:10 +0000</pubDate>
             <sparkle:version>889</sparkle:version>
             <sparkle:shortVersionString>6.5</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
@@ -37,27 +62,6 @@
 </ul>
 ]]></description>
             <enclosure url="https://nxhbdyouzaznncshvvec.supabase.co/storage/v1/object/public/updates/Promptr-Studio-Pro-6.5-889.zip" length="192830466" type="application/octet-stream" sparkle:edSignature="zDZGgYZ3h9xn/bBg3zsCm1wLoEJxOfsHoVpyNmkncLQr5sP+dDDAAHcURFe7wWFqm1i/cVKasIMfPN6B6qoXAA=="/>
-        </item>
-        <item>
-            <title>6.4</title>
-            <pubDate>Sun, 15 Nov 2026 15:22:42 +0000</pubDate>
-            <sparkle:version>870</sparkle:version>
-            <sparkle:shortVersionString>6.4</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2 style="font:600 15px -apple-system;margin:0 0 6px">Promptr Studio Pro 6.4</h2>
-<p style="font:600 13px -apple-system;margin:0 0 4px">New</p>
-<ul style="font:13px -apple-system;margin:0;padding-left:18px">
-<li><b>Seedream 5.5.</b> ByteDance's new image model in 1K, 1.5K and 2K with up to ten reference images. Choose a transparent or opaque background and save as PNG or JPEG.</li>
-<li><b>Seedream 5.5 in Inpainting.</b> A third choice next to Ideogram 4.5 and Krea 3 when you replace a marked area.</li>
-<li><b>Seedream 5.5 Layer Separation.</b> Split an image into up to 99 layers, set the maximum count and the resolution, and read the text of every text layer. You pay per delivered layer.</li>
-</ul>
-<p style="font:600 13px -apple-system;margin:8px 0 4px">Improved</p>
-<ul style="font:13px -apple-system;margin:0;padding-left:18px">
-<li><b>Zoom while inpainting.</b> The mouse wheel and Command-scroll zoom toward the pointer, and two fingers on the trackpad move around the zoomed image.</li>
-<li><b>Fresh mask after each run.</b> Once you start an inpaint or a removal, the mask is cleared so the next attempt starts clean. Your prompt stays.</li>
-</ul>
-]]></description>
-            <enclosure url="https://nxhbdyouzaznncshvvec.supabase.co/storage/v1/object/public/updates/Promptr-Studio-Pro-6.4-870.zip" length="192381271" type="application/octet-stream" sparkle:edSignature="bYet4vJStOMPqEU0jsuc7RReb+KpVWGNuXGteeXnueJvs60DPk4XObfWFcnC80z0DYory3Ml6ykG81rGevUDBQ=="/>
         </item>
     </channel>
 </rss>

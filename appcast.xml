@@ -3,8 +3,30 @@
     <channel>
         <title>Promptr Studio Pro</title>
         <item>
+            <title>6.8</title>
+            <pubDate>Thu, 19 Nov 2026 13:36:43 +0000</pubDate>
+            <sparkle:version>2006</sparkle:version>
+            <sparkle:shortVersionString>6.8</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h2 style="font:600 15px -apple-system;margin:0 0 6px">Promptr Studio Pro 6.8</h2>
+<p style="font:600 13px -apple-system;margin:0 0 4px">New</p>
+<ul style="font:13px -apple-system;margin:0;padding-left:18px">
+<li><b>New image models: MAI Image 2.7, MAI Image 2.7 Flash and Kling Image 4.0.</b> Text to image, or edit with reference images (up to 5 for MAI, 10 for Kling). Kling renders in 2K or 4K.</li>
+<li><b>Check your reference videos.</b> Hover a video reference in the composer to scrub through it, click it to play it with sound.</li>
+<li><b>Show in Project.</b> Right-click any reference to jump to its card in the gallery, or to show the file in Finder.</li>
+</ul>
+<p style="font:600 13px -apple-system;margin:8px 0 4px">Improved</p>
+<ul style="font:13px -apple-system;margin:0;padding-left:18px">
+<li><b>Dropping files on the gallery</b> always adds them to the project, also while Enhance or VFX is open. Drop on the source slot to use a file as the source.</li>
+<li><b>1080p from the full-screen preview.</b> The preview closes and the confirmation with the price opens on the gallery card.</li>
+<li><b>Safer results.</b> A finished result is always saved, even if its folder can no longer be used.</li>
+</ul>
+]]></description>
+            <enclosure url="https://nxhbdyouzaznncshvvec.supabase.co/storage/v1/object/public/updates/Promptr-Studio-Pro-6.8-2006.zip" length="193843005" type="application/octet-stream" sparkle:edSignature="fTzZ8ld1iPRblTMWAIjDyjZCyxc5jfJ5jcrIRKeYntiV850/liTD00X8Kvnx3xKLGzGIaMESQX8ygQ8WJ7KgAw=="/>
+        </item>
+        <item>
             <title>6.7</title>
-            <pubDate>Wed, 18 Nov 2026 11:14:17 +0000</pubDate>
+            <pubDate>Thu, 19 Nov 2026 13:36:40 +0000</pubDate>
             <sparkle:version>1936</sparkle:version>
             <sparkle:shortVersionString>6.7</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
@@ -29,7 +51,7 @@
         </item>
         <item>
             <title>6.6</title>
-            <pubDate>Wed, 18 Nov 2026 11:14:12 +0000</pubDate>
+            <pubDate>Thu, 19 Nov 2026 13:36:40 +0000</pubDate>
             <sparkle:version>892</sparkle:version>
             <sparkle:shortVersionString>6.6</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
@@ -40,28 +62,6 @@
 </ul>
 ]]></description>
             <enclosure url="https://nxhbdyouzaznncshvvec.supabase.co/storage/v1/object/public/updates/Promptr-Studio-Pro-6.6-892.zip" length="192859747" type="application/octet-stream" sparkle:edSignature="AQjHFmXAGs1616XMl11aVs1JaUMb+NXo0MzrQELhvHiD4hm+kgrKBD7HhUrRm7HcmbMiXp3dkSQ6PZsIIV3lCw=="/>
-        </item>
-        <item>
-            <title>6.5</title>
-            <pubDate>Wed, 18 Nov 2026 11:14:10 +0000</pubDate>
-            <sparkle:version>889</sparkle:version>
-            <sparkle:shortVersionString>6.5</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2 style="font:600 15px -apple-system;margin:0 0 6px">Promptr Studio Pro 6.5</h2>
-<p style="font:600 13px -apple-system;margin:0 0 4px">New</p>
-<ul style="font:13px -apple-system;margin:0;padding-left:18px">
-<li><b>3D objects from text.</b> Describe an object in the 3D Scene Composer and get it as a 3D model, placed in your scene.</li>
-<li><b>Poly Haven library.</b> Search free CC0 models under Add and place them at real-world size.</li>
-<li><b>Meshy 7.1.</b> The quality tier for 3D models now keeps small details.</li>
-</ul>
-<p style="font:600 13px -apple-system;margin:8px 0 4px">Improved</p>
-<ul style="font:13px -apple-system;margin:0;padding-left:18px">
-<li><b>Leaner 3D Scene Composer.</b> Simpler panels, assets grouped in the settings panel and a slimmer object library.</li>
-<li><b>Switch modes from the 3D Scene Composer.</b> Go to Studio, Agent or Nodes without closing it first.</li>
-<li><b>Up to 150 objects per scene.</b></li>
-</ul>
-]]></description>
-            <enclosure url="https://nxhbdyouzaznncshvvec.supabase.co/storage/v1/object/public/updates/Promptr-Studio-Pro-6.5-889.zip" length="192830466" type="application/octet-stream" sparkle:edSignature="zDZGgYZ3h9xn/bBg3zsCm1wLoEJxOfsHoVpyNmkncLQr5sP+dDDAAHcURFe7wWFqm1i/cVKasIMfPN6B6qoXAA=="/>
         </item>
     </channel>
 </rss>
